@@ -1,32 +1,50 @@
 [
   {
-    "match_id": "1",
-    "tournament": "كأس العالم",
+    "match_id": "537430",
+    "tournament": "FIFA World Cup",
     "date": "2026-07-04",
-    "status": "LIVE",
-    "team_a": { "name": "الأرجنتين", "logo": "https://flagcdn.com/w160/ar.png" },
-    "team_b": { "name": "الرأس الأخضر", "logo": "https://flagcdn.com/w160/cv.png" },
-    "score": "3 - 2",
-    "time": "حالياً"
-  },
-  {
-    "match_id": "2",
-    "tournament": "كأس العالم",
-    "date": "2026-07-04",
-    "status": "UPCOMING",
-    "team_a": { "name": "كولومبيا", "logo": "https://flagcdn.com/w160/co.png" },
-    "team_b": { "name": "غانا", "logo": "https://flagcdn.com/w160/gh.png" },
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Colombia",
+      "logo": "https://crests.football-data.org/818.svg"
+    },
+    "team_b": {
+      "name": "Ghana",
+      "logo": "https://crests.football-data.org/ghana.svg"
+    },
     "score": "1 - 0",
-    "time": "أنتهت"
+    "time": "01:30"
   },
   {
-    "match_id": "3",
-    "tournament": "كأس العالم",
+    "match_id": "537376",
+    "tournament": "FIFA World Cup",
     "date": "2026-07-04",
-    "status": "UPCOMING",
-    "team_a": { "name": "كندا", "logo": "https://flagcdn.com/w160/ca.png" },
-    "team_b": { "name": "المغرب", "logo": "https://flagcdn.com/w160/ma.png" },
+    "status": "TIMED",
+    "team_a": {
+      "name": "Canada",
+      "logo": "https://crests.football-data.org/canada.svg"
+    },
+    "team_b": {
+      "name": "Morocco",
+      "logo": "https://crests.football-data.org/morocco.svg"
+    },
     "score": "vs",
-    "time": "8:00 م"
+    "time": "17:00"
+  },
+  {
+    "match_id": "537375",
+    "tournament": "FIFA World Cup",
+    "date": "2026-07-04",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Paraguay",
+      "logo": "https://crests.football-data.org/761.svg"
+    },
+    "team_b": {
+      "name": "France",
+      "logo": "https://crests.football-data.org/773.svg"
+    },
+    "score": "vs",
+    "time": "21:00"
   }
 ]
