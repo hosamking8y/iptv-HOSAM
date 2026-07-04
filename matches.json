@@ -19,7 +19,7 @@
     "match_id": "537376",
     "tournament": "FIFA World Cup",
     "date": "2026-07-04",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Canada",
       "logo": "https://crests.football-data.org/canada.svg"
@@ -28,7 +28,7 @@
       "name": "Morocco",
       "logo": "https://crests.football-data.org/morocco.svg"
     },
-    "score": "0 - 1",
+    "score": "0 - 3",
     "time": "17:00"
   },
   {
