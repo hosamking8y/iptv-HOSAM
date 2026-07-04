@@ -1,0 +1,32 @@
+[
+  {
+    "match_id": "1",
+    "tournament": "كأس العالم",
+    "date": "2026-07-04",
+    "status": "LIVE",
+    "team_a": { "name": "الأرجنتين", "logo": "https://flagcdn.com/w160/ar.png" },
+    "team_b": { "name": "الرأس الأخضر", "logo": "https://flagcdn.com/w160/cv.png" },
+    "score": "3 - 2",
+    "time": "حالياً"
+  },
+  {
+    "match_id": "2",
+    "tournament": "كأس العالم",
+    "date": "2026-07-04",
+    "status": "UPCOMING",
+    "team_a": { "name": "كولومبيا", "logo": "https://flagcdn.com/w160/co.png" },
+    "team_b": { "name": "غانا", "logo": "https://flagcdn.com/w160/gh.png" },
+    "score": "vs",
+    "time": "4:30 ص"
+  },
+  {
+    "match_id": "3",
+    "tournament": "كأس العالم",
+    "date": "2026-07-04",
+    "status": "UPCOMING",
+    "team_a": { "name": "كندا", "logo": "https://flagcdn.com/w160/ca.png" },
+    "team_b": { "name": "المغرب", "logo": "https://flagcdn.com/w160/ma.png" },
+    "score": "vs",
+    "time": "8:00 م"
+  }
+]
