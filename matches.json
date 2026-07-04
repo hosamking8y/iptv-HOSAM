@@ -35,7 +35,7 @@
     "match_id": "537375",
     "tournament": "FIFA World Cup",
     "date": "2026-07-04",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Paraguay",
       "logo": "https://crests.football-data.org/761.svg"
@@ -44,7 +44,7 @@
       "name": "France",
       "logo": "https://crests.football-data.org/773.svg"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "21:00"
   }
 ]
