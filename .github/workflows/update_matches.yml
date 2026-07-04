@@ -1,0 +1,59 @@
+name: Update Live Matches Data
+
+on:
+  schedule:
+    # هذا السطر يعني أن الروبوت سيعمل تلقائياً كل 15 دقيقة
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # يتيح لك تشغيله يدوياً كنوع من التجربة
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Fetch Live Data From Football API
+      run: |
+        # هنا يتصل الروبوت بالـ API الرياضي ويجلب مباريات اليوم
+        curl -H "X-Auth-Token: c39039d665b546599c0e41e772ec09ab" https://api.football-data.org/v4/matches > raw_data.json
+
+    - name: Process and Format JSON
+      run: |
+        # هذا السكريبت الصغير يقوم بتحويل صيغة الـ API المعقدة إلى نفس الصيغة البسيطة التي يفهمها تطبيقك
+        python -c "
+        import json
+        import os
+
+        try:
+            with open('raw_data.json', 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            
+            formatted_matches = []
+            for m in data.get('matches', []):
+                match_info = {
+                    'match_id': str(m['id']),
+                    'tournament': m['competition']['name'],
+                    'date': m['utcDate'].split('T')[0],
+                    'status': m['status'],
+                    'team_a': { 'name': m['homeTeam']['shortName'] or m['homeTeam']['name'], 'logo': m['homeTeam']['crest'] },
+                    'team_b': { 'name': m['awayTeam']['shortName'] or m['awayTeam']['name'], 'logo': m['awayTeam']['crest'] },
+                    'score': f\"{m['score']['fullTime']['home']} - {m['score']['fullTime']['away']}\" if m['score']['fullTime']['home'] is not None else 'vs',
+                    'time': m['utcDate'].split('T')[1][:5]
+                }
+                formatted_matches.append(match_info)
+            
+            with open('matches.json', 'w', encoding='utf-8') as f:
+                json.dump(formatted_matches, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print('Error processing data:', e)
+        "
+
+    - name: Commit and Push Changes to GitHub
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "action@github.com"
+        git add matches.json
+        git commit -m "Automated update: Matches schedule and scores" || exit 0
+        git push
