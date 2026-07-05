@@ -1,50 +1,34 @@
 [
   {
-    "match_id": "537430",
+    "match_id": "537377",
     "tournament": "FIFA World Cup",
-    "date": "2026-07-04",
-    "status": "FINISHED",
+    "date": "2026-07-05",
+    "status": "TIMED",
     "team_a": {
-      "name": "Colombia",
-      "logo": "https://crests.football-data.org/818.svg"
+      "name": "Brazil",
+      "logo": "https://crests.football-data.org/764.svg"
     },
     "team_b": {
-      "name": "Ghana",
-      "logo": "https://crests.football-data.org/ghana.svg"
+      "name": "Norway",
+      "logo": "https://crests.football-data.org/813.svg"
     },
-    "score": "1 - 0",
-    "time": "01:30"
+    "score": "vs",
+    "time": "20:00"
   },
   {
-    "match_id": "537376",
+    "match_id": "537378",
     "tournament": "FIFA World Cup",
-    "date": "2026-07-04",
-    "status": "FINISHED",
+    "date": "2026-07-06",
+    "status": "TIMED",
     "team_a": {
-      "name": "Canada",
-      "logo": "https://crests.football-data.org/canada.svg"
+      "name": "Mexico",
+      "logo": "https://crests.football-data.org/769.svg"
     },
     "team_b": {
-      "name": "Morocco",
-      "logo": "https://crests.football-data.org/morocco.svg"
+      "name": "England",
+      "logo": "https://crests.football-data.org/770.svg"
     },
-    "score": "0 - 3",
-    "time": "17:00"
-  },
-  {
-    "match_id": "537375",
-    "tournament": "FIFA World Cup",
-    "date": "2026-07-04",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Paraguay",
-      "logo": "https://crests.football-data.org/761.svg"
-    },
-    "team_b": {
-      "name": "France",
-      "logo": "https://crests.football-data.org/773.svg"
-    },
-    "score": "0 - 1",
-    "time": "21:00"
+    "score": "vs",
+    "time": "00:00"
   }
 ]
