@@ -19,7 +19,7 @@
     "match_id": "537379",
     "tournament": "FIFA World Cup",
     "date": "2026-07-06",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Portugal",
       "logo": "https://crests.football-data.org/765.svg"
@@ -28,7 +28,7 @@
       "name": "Spain",
       "logo": "https://crests.football-data.org/760.svg"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:00"
   },
   {
