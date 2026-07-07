@@ -3,7 +3,7 @@
     "match_id": "537380",
     "tournament": "FIFA World Cup",
     "date": "2026-07-07",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "USA",
       "logo": "https://crests.football-data.org/usa.svg"
@@ -12,7 +12,7 @@
       "name": "Belgium",
       "logo": "https://crests.football-data.org/805.svg"
     },
-    "score": "vs",
+    "score": "1 - 4",
     "time": "00:00"
   },
   {
