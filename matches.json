@@ -19,7 +19,7 @@
     "match_id": "537381",
     "tournament": "FIFA World Cup",
     "date": "2026-07-07",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Argentina",
       "logo": "https://crests.football-data.org/762.png"
@@ -28,7 +28,7 @@
       "name": "Egypt",
       "logo": "https://crests.football-data.org/825.svg"
     },
-    "score": "1 - 2",
+    "score": "3 - 2",
     "time": "16:00"
   },
   {
