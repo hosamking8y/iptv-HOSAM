@@ -1,37 +1,5 @@
 [
   {
-    "match_id": "537378",
-    "tournament": "FIFA World Cup",
-    "date": "2026-07-06",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Mexico",
-      "logo": "https://crests.football-data.org/769.svg"
-    },
-    "team_b": {
-      "name": "England",
-      "logo": "https://crests.football-data.org/770.svg"
-    },
-    "score": "2 - 3",
-    "time": "01:00"
-  },
-  {
-    "match_id": "537379",
-    "tournament": "FIFA World Cup",
-    "date": "2026-07-06",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Portugal",
-      "logo": "https://crests.football-data.org/765.svg"
-    },
-    "team_b": {
-      "name": "Spain",
-      "logo": "https://crests.football-data.org/760.svg"
-    },
-    "score": "0 - 1",
-    "time": "19:00"
-  },
-  {
     "match_id": "537380",
     "tournament": "FIFA World Cup",
     "date": "2026-07-07",
@@ -46,5 +14,37 @@
     },
     "score": "vs",
     "time": "00:00"
+  },
+  {
+    "match_id": "537381",
+    "tournament": "FIFA World Cup",
+    "date": "2026-07-07",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Argentina",
+      "logo": "https://crests.football-data.org/762.png"
+    },
+    "team_b": {
+      "name": "Egypt",
+      "logo": "https://crests.football-data.org/825.svg"
+    },
+    "score": "vs",
+    "time": "16:00"
+  },
+  {
+    "match_id": "537382",
+    "tournament": "FIFA World Cup",
+    "date": "2026-07-07",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Switzerland",
+      "logo": "https://crests.football-data.org/788.svg"
+    },
+    "team_b": {
+      "name": "Colombia",
+      "logo": "https://crests.football-data.org/818.svg"
+    },
+    "score": "vs",
+    "time": "20:00"
   }
 ]
