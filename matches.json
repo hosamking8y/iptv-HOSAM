@@ -3,7 +3,7 @@
     "match_id": "537383",
     "tournament": "FIFA World Cup",
     "date": "2026-07-09",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "France",
       "logo": "https://crests.football-data.org/773.svg"
@@ -12,7 +12,7 @@
       "name": "Morocco",
       "logo": "https://crests.football-data.org/morocco.svg"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "20:00"
   }
 ]
