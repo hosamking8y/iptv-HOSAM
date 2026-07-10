@@ -3,7 +3,7 @@
     "match_id": "537384",
     "tournament": "FIFA World Cup",
     "date": "2026-07-10",
-    "status": "TIMED",
+    "status": "PAUSED",
     "team_a": {
       "name": "Spain",
       "logo": "https://crests.football-data.org/760.svg"
@@ -12,7 +12,7 @@
       "name": "Belgium",
       "logo": "https://crests.football-data.org/805.svg"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "19:00"
   }
 ]
