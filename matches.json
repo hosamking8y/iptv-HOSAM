@@ -1,18 +1,18 @@
 [
   {
-    "match_id": "537383",
+    "match_id": "537384",
     "tournament": "FIFA World Cup",
-    "date": "2026-07-09",
-    "status": "FINISHED",
+    "date": "2026-07-10",
+    "status": "TIMED",
     "team_a": {
-      "name": "France",
-      "logo": "https://crests.football-data.org/773.svg"
+      "name": "Spain",
+      "logo": "https://crests.football-data.org/760.svg"
     },
     "team_b": {
-      "name": "Morocco",
-      "logo": "https://crests.football-data.org/morocco.svg"
+      "name": "Belgium",
+      "logo": "https://crests.football-data.org/805.svg"
     },
-    "score": "2 - 0",
-    "time": "20:00"
+    "score": "vs",
+    "time": "19:00"
   }
 ]
