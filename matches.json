@@ -1,18 +1,1 @@
-[
-  {
-    "match_id": "537386",
-    "tournament": "FIFA World Cup",
-    "date": "2026-07-12",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Argentina",
-      "logo": "https://crests.football-data.org/762.png"
-    },
-    "team_b": {
-      "name": "Switzerland",
-      "logo": "https://crests.football-data.org/788.svg"
-    },
-    "score": "3 - 1",
-    "time": "01:00"
-  }
-]
+[]
