@@ -3,7 +3,7 @@
     "match_id": "537387",
     "tournament": "FIFA World Cup",
     "date": "2026-07-14",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "France",
       "logo": "https://crests.football-data.org/773.svg"
@@ -12,7 +12,7 @@
       "name": "Spain",
       "logo": "https://crests.football-data.org/760.svg"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "19:00"
   }
 ]
