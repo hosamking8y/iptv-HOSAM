@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "554929",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
-    },
-    "team_b": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
-    },
-    "score": "vs",
-    "time": "22:30"
-  },
-  {
     "match_id": "554921",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-16",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Santos",
       "logo": "https://crests.football-data.org/6685.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "554929",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "team_b": {
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
     },
     "score": "vs",
     "time": "22:30"
