@@ -3,7 +3,7 @@
     "match_id": "554921",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-16",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
@@ -12,14 +12,14 @@
       "name": "Santos",
       "logo": "https://crests.football-data.org/6685.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "22:30"
   },
   {
     "match_id": "554929",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-16",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
@@ -28,7 +28,7 @@
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "22:30"
   }
 ]
