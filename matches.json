@@ -3,7 +3,7 @@
     "match_id": "554770",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-17",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
@@ -12,14 +12,14 @@
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
     },
-    "score": "vs",
+    "score": "2 - 0",
     "time": "22:30"
   },
   {
     "match_id": "554925",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-17",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Fluminense",
       "logo": "https://crests.football-data.org/1765.png"
@@ -28,14 +28,14 @@
       "name": "Bragantino",
       "logo": "https://crests.football-data.org/4286.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "23:00"
   },
   {
     "match_id": "554927",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-17",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
@@ -44,7 +44,7 @@
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "23:00"
   }
 ]
