@@ -16,22 +16,6 @@
     "time": "22:30"
   },
   {
-    "match_id": "554927",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-17",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Mirassol",
-      "logo": "https://crests.football-data.org/4364.png"
-    },
-    "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "score": "vs",
-    "time": "23:00"
-  },
-  {
     "match_id": "554925",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-17",
@@ -43,6 +27,22 @@
     "team_b": {
       "name": "Bragantino",
       "logo": "https://crests.football-data.org/4286.png"
+    },
+    "score": "vs",
+    "time": "23:00"
+  },
+  {
+    "match_id": "554927",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-17",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
+    },
+    "team_b": {
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
     },
     "score": "vs",
     "time": "23:00"
