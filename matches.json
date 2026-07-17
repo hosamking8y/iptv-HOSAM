@@ -1,34 +1,50 @@
 [
   {
-    "match_id": "554929",
+    "match_id": "554770",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-16",
-    "status": "PAUSED",
+    "date": "2026-07-17",
+    "status": "TIMED",
     "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
     },
     "team_b": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
     },
-    "score": "0 - 0",
+    "score": "vs",
     "time": "22:30"
   },
   {
-    "match_id": "554921",
+    "match_id": "554927",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-16",
-    "status": "PAUSED",
+    "date": "2026-07-17",
+    "status": "TIMED",
     "team_a": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
     },
     "team_b": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
     },
-    "score": "1 - 0",
-    "time": "22:30"
+    "score": "vs",
+    "time": "23:00"
+  },
+  {
+    "match_id": "554925",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-17",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
+    },
+    "team_b": {
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
+    },
+    "score": "vs",
+    "time": "23:00"
   }
 ]
