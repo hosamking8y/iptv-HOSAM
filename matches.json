@@ -3,7 +3,7 @@
     "match_id": "554920",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-21",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Mineiro",
       "logo": "https://crests.football-data.org/1766.png"
@@ -12,7 +12,7 @@
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "22:30"
   }
 ]
