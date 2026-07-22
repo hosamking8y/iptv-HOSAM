@@ -1,18 +1,18 @@
 [
   {
-    "match_id": "554920",
+    "match_id": "554924",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-21",
-    "status": "PAUSED",
+    "date": "2026-07-22",
+    "status": "TIMED",
     "team_a": {
-      "name": "Mineiro",
-      "logo": "https://crests.football-data.org/1766.png"
+      "name": "Coritiba",
+      "logo": "https://crests.football-data.org/4241.png"
     },
     "team_b": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
-    "score": "1 - 0",
+    "score": "vs",
     "time": "22:30"
   }
 ]
