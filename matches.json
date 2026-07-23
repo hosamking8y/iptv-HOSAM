@@ -1,18 +1,18 @@
 [
   {
-    "match_id": "554928",
+    "match_id": "554922",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
     "status": "FINISHED",
     "team_a": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
     },
     "team_b": {
-      "name": "Paranaense",
-      "logo": "https://crests.football-data.org/1768.png"
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
     },
-    "score": "1 - 2",
+    "score": "0 - 4",
     "time": "00:30"
   },
   {
@@ -32,36 +32,20 @@
     "time": "00:30"
   },
   {
-    "match_id": "554922",
+    "match_id": "554928",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
     "status": "FINISHED",
     "team_a": {
-      "name": "Chapecoense",
-      "logo": "https://crests.football-data.org/1772_large.png"
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
     },
     "team_b": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
+      "name": "Paranaense",
+      "logo": "https://crests.football-data.org/1768.png"
     },
-    "score": "0 - 4",
+    "score": "1 - 2",
     "time": "00:30"
-  },
-  {
-    "match_id": "554923",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Corinthians",
-      "logo": "https://crests.football-data.org/1779.png"
-    },
-    "team_b": {
-      "name": "Clube do Remo",
-      "logo": "https://crests.football-data.org/4287.png"
-    },
-    "score": "vs",
-    "time": "22:30"
   },
   {
     "match_id": "554771",
@@ -75,6 +59,22 @@
     "team_b": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "554923",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
+    },
+    "team_b": {
+      "name": "Clube do Remo",
+      "logo": "https://crests.football-data.org/4287.png"
     },
     "score": "vs",
     "time": "22:30"
