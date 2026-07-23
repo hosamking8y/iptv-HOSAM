@@ -1,41 +1,9 @@
 [
   {
-    "match_id": "554926",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-23",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
-    },
-    "team_b": {
-      "name": "Cruzeiro",
-      "logo": "https://crests.football-data.org/1771.png"
-    },
-    "score": "0 - 1",
-    "time": "00:30"
-  },
-  {
-    "match_id": "554922",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-23",
-    "status": "LIVE",
-    "team_a": {
-      "name": "Chapecoense",
-      "logo": "https://crests.football-data.org/1772_large.png"
-    },
-    "team_b": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
-    },
-    "score": "0 - 1",
-    "time": "00:30"
-  },
-  {
     "match_id": "554928",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
@@ -44,7 +12,39 @@
       "name": "Paranaense",
       "logo": "https://crests.football-data.org/1768.png"
     },
-    "score": "1 - 0",
+    "score": "1 - 2",
+    "time": "00:30"
+  },
+  {
+    "match_id": "554926",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
+    },
+    "team_b": {
+      "name": "Cruzeiro",
+      "logo": "https://crests.football-data.org/1771.png"
+    },
+    "score": "1 - 2",
+    "time": "00:30"
+  },
+  {
+    "match_id": "554922",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
+    },
+    "team_b": {
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
+    },
+    "score": "0 - 4",
     "time": "00:30"
   },
   {
