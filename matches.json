@@ -1,16 +1,16 @@
 [
   {
-    "match_id": "554926",
+    "match_id": "554928",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
     "status": "FINISHED",
     "team_a": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
     },
     "team_b": {
-      "name": "Cruzeiro",
-      "logo": "https://crests.football-data.org/1771.png"
+      "name": "Paranaense",
+      "logo": "https://crests.football-data.org/1768.png"
     },
     "score": "1 - 2",
     "time": "00:30"
@@ -32,17 +32,17 @@
     "time": "00:30"
   },
   {
-    "match_id": "554928",
+    "match_id": "554926",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
     "status": "FINISHED",
     "team_a": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
     },
     "team_b": {
-      "name": "Paranaense",
-      "logo": "https://crests.football-data.org/1768.png"
+      "name": "Cruzeiro",
+      "logo": "https://crests.football-data.org/1771.png"
     },
     "score": "1 - 2",
     "time": "00:30"
