@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "554922",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-23",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Chapecoense",
-      "logo": "https://crests.football-data.org/1772_large.png"
-    },
-    "team_b": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
-    },
-    "score": "0 - 4",
-    "time": "00:30"
-  },
-  {
     "match_id": "554926",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
@@ -29,6 +13,22 @@
       "logo": "https://crests.football-data.org/1771.png"
     },
     "score": "1 - 2",
+    "time": "00:30"
+  },
+  {
+    "match_id": "554922",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
+    },
+    "team_b": {
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
+    },
+    "score": "0 - 4",
     "time": "00:30"
   },
   {
@@ -48,22 +48,6 @@
     "time": "00:30"
   },
   {
-    "match_id": "554771",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
-    },
-    "team_b": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
-    },
-    "score": "vs",
-    "time": "22:30"
-  },
-  {
     "match_id": "554923",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
@@ -75,6 +59,22 @@
     "team_b": {
       "name": "Clube do Remo",
       "logo": "https://crests.football-data.org/4287.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "554771",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Botafogo",
+      "logo": "https://crests.football-data.org/1770.png"
+    },
+    "team_b": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
     },
     "score": "vs",
     "time": "22:30"
