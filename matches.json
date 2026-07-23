@@ -51,7 +51,7 @@
     "match_id": "554771",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
@@ -67,7 +67,7 @@
     "match_id": "554923",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
@@ -76,7 +76,7 @@
       "name": "Clube do Remo",
       "logo": "https://crests.football-data.org/4287.png"
     },
-    "score": "0 - 0",
+    "score": "3 - 0",
     "time": "22:30"
   }
 ]
