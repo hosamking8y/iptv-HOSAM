@@ -1,18 +1,82 @@
 [
   {
-    "match_id": "554924",
+    "match_id": "554926",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-22",
-    "status": "PAUSED",
+    "date": "2026-07-23",
+    "status": "IN_PLAY",
     "team_a": {
-      "name": "Coritiba",
-      "logo": "https://crests.football-data.org/4241.png"
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
     },
     "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
+      "name": "Cruzeiro",
+      "logo": "https://crests.football-data.org/1771.png"
     },
-    "score": "0 - 2",
+    "score": "0 - 1",
+    "time": "00:30"
+  },
+  {
+    "match_id": "554922",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "LIVE",
+    "team_a": {
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
+    },
+    "team_b": {
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
+    },
+    "score": "0 - 1",
+    "time": "00:30"
+  },
+  {
+    "match_id": "554928",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
+    },
+    "team_b": {
+      "name": "Paranaense",
+      "logo": "https://crests.football-data.org/1768.png"
+    },
+    "score": "1 - 0",
+    "time": "00:30"
+  },
+  {
+    "match_id": "554923",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
+    },
+    "team_b": {
+      "name": "Clube do Remo",
+      "logo": "https://crests.football-data.org/4287.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "554771",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Botafogo",
+      "logo": "https://crests.football-data.org/1770.png"
+    },
+    "team_b": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "score": "vs",
     "time": "22:30"
   }
 ]
