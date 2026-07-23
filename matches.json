@@ -48,22 +48,6 @@
     "time": "00:30"
   },
   {
-    "match_id": "554923",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Corinthians",
-      "logo": "https://crests.football-data.org/1779.png"
-    },
-    "team_b": {
-      "name": "Clube do Remo",
-      "logo": "https://crests.football-data.org/4287.png"
-    },
-    "score": "vs",
-    "time": "22:30"
-  },
-  {
     "match_id": "554771",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-23",
@@ -75,6 +59,22 @@
     "team_b": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "554923",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
+    },
+    "team_b": {
+      "name": "Clube do Remo",
+      "logo": "https://crests.football-data.org/4287.png"
     },
     "score": "vs",
     "time": "22:30"
