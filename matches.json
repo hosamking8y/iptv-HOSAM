@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "554938",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-25",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "team_b": {
-      "name": "Chapecoense",
-      "logo": "https://crests.football-data.org/1772_large.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
     "match_id": "554930",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-25",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Internacional",
       "logo": "https://crests.football-data.org/6684.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554938",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
+    },
+    "team_b": {
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
     },
     "score": "vs",
     "time": "21:30"
