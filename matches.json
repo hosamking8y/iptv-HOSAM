@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "match_id": "554930",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Paranaense",
+      "logo": "https://crests.football-data.org/1768.png"
+    },
+    "team_b": {
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554938",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
+    },
+    "team_b": {
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554939",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
+    },
+    "team_b": {
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
+    },
+    "score": "vs",
+    "time": "23:30"
+  }
+]
