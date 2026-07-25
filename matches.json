@@ -3,7 +3,7 @@
     "match_id": "554930",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-25",
-    "status": "PAUSED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Paranaense",
       "logo": "https://crests.football-data.org/1768.png"
@@ -12,14 +12,14 @@
       "name": "Internacional",
       "logo": "https://crests.football-data.org/6684.png"
     },
-    "score": "1 - 0",
+    "score": "2 - 0",
     "time": "21:30"
   },
   {
     "match_id": "554938",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-25",
-    "status": "PAUSED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Santos",
       "logo": "https://crests.football-data.org/6685.png"
@@ -28,14 +28,14 @@
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
     },
-    "score": "1 - 0",
+    "score": "2 - 2",
     "time": "21:30"
   },
   {
     "match_id": "554939",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-25",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
@@ -44,7 +44,7 @@
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "23:30"
   }
 ]
