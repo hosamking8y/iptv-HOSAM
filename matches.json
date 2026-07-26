@@ -28,23 +28,23 @@
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
     },
-    "score": "2 - 1",
+    "score": "1 - 1",
     "time": "19:00"
   },
   {
-    "match_id": "554935",
+    "match_id": "554934",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
     "status": "IN_PLAY",
     "team_a": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
     },
     "team_b": {
-      "name": "Fluminense",
-      "logo": "https://crests.football-data.org/1765.png"
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 1",
     "time": "21:30"
   },
   {
@@ -64,42 +64,26 @@
     "time": "21:30"
   },
   {
-    "match_id": "554934",
+    "match_id": "554935",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
     "status": "IN_PLAY",
     "team_a": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
     },
     "team_b": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "21:30"
-  },
-  {
-    "match_id": "554937",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-26",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Clube do Remo",
-      "logo": "https://crests.football-data.org/4287.png"
-    },
-    "team_b": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
-    },
-    "score": "vs",
-    "time": "22:30"
   },
   {
     "match_id": "554936",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Palmeiras",
       "logo": "https://crests.football-data.org/1769.png"
@@ -108,7 +92,23 @@
       "name": "Mineiro",
       "logo": "https://crests.football-data.org/1766.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
+    "time": "22:30"
+  },
+  {
+    "match_id": "554937",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-26",
+    "status": "LIVE",
+    "team_a": {
+      "name": "Clube do Remo",
+      "logo": "https://crests.football-data.org/4287.png"
+    },
+    "team_b": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "score": "0 - 0",
     "time": "22:30"
   }
 ]
