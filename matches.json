@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "554931",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-26",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "team_b": {
-      "name": "Corinthians",
-      "logo": "https://crests.football-data.org/1779.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "554933",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554931",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-26",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
+    },
+    "team_b": {
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
     },
     "score": "vs",
     "time": "19:00"
