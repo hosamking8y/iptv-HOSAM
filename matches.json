@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "554933",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-26",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Cruzeiro",
-      "logo": "https://crests.football-data.org/1771.png"
-    },
-    "team_b": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "554931",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
@@ -32,20 +16,20 @@
     "time": "19:00"
   },
   {
-    "match_id": "554934",
+    "match_id": "554933",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
     "status": "TIMED",
     "team_a": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
+      "name": "Cruzeiro",
+      "logo": "https://crests.football-data.org/1771.png"
     },
     "team_b": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
+      "name": "Botafogo",
+      "logo": "https://crests.football-data.org/1770.png"
     },
     "score": "vs",
-    "time": "21:30"
+    "time": "19:00"
   },
   {
     "match_id": "554932",
@@ -59,6 +43,22 @@
     "team_b": {
       "name": "Coritiba",
       "logo": "https://crests.football-data.org/4241.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554934",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-26",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
+    },
+    "team_b": {
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
     },
     "score": "vs",
     "time": "21:30"
