@@ -19,7 +19,7 @@
     "match_id": "554931",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
@@ -32,42 +32,10 @@
     "time": "19:00"
   },
   {
-    "match_id": "554932",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-26",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
-    },
-    "team_b": {
-      "name": "Coritiba",
-      "logo": "https://crests.football-data.org/4241.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
-    "match_id": "554934",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-26",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
-    },
-    "team_b": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
     "match_id": "554935",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
@@ -76,24 +44,40 @@
       "name": "Fluminense",
       "logo": "https://crests.football-data.org/1765.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "21:30"
   },
   {
-    "match_id": "554936",
+    "match_id": "554932",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-26",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
     },
     "team_b": {
-      "name": "Mineiro",
-      "logo": "https://crests.football-data.org/1766.png"
+      "name": "Coritiba",
+      "logo": "https://crests.football-data.org/4241.png"
     },
-    "score": "vs",
-    "time": "22:30"
+    "score": "0 - 0",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554934",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-26",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
+    },
+    "team_b": {
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
+    },
+    "score": "0 - 0",
+    "time": "21:30"
   },
   {
     "match_id": "554937",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "554936",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-26",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
+    },
+    "team_b": {
+      "name": "Mineiro",
+      "logo": "https://crests.football-data.org/1766.png"
     },
     "score": "vs",
     "time": "22:30"
