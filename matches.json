@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "554940",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-29",
-    "status": "POSTPONED",
-    "team_a": {
-      "name": "Mineiro",
-      "logo": "https://crests.football-data.org/1766.png"
-    },
-    "team_b": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
-    },
-    "score": "vs",
-    "time": "00:00"
-  },
-  {
     "match_id": "554942",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-29",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
+    },
+    "score": "vs",
+    "time": "00:00"
+  },
+  {
+    "match_id": "554940",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-29",
+    "status": "POSTPONED",
+    "team_a": {
+      "name": "Mineiro",
+      "logo": "https://crests.football-data.org/1766.png"
+    },
+    "team_b": {
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
     },
     "score": "vs",
     "time": "00:00"
@@ -62,5 +62,37 @@
     },
     "score": "vs",
     "time": "00:00"
+  },
+  {
+    "match_id": "554947",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-29",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
+    },
+    "team_b": {
+      "name": "Clube do Remo",
+      "logo": "https://crests.football-data.org/4287.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "554946",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-29",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
+    },
+    "team_b": {
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
+    },
+    "score": "vs",
+    "time": "22:30"
   }
 ]
