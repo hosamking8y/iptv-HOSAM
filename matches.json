@@ -1,98 +1,50 @@
 [
   {
-    "match_id": "554948",
+    "match_id": "554949",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-29",
-    "status": "POSTPONED",
-    "team_a": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
-    },
-    "team_b": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "score": "vs",
-    "time": "00:00"
-  },
-  {
-    "match_id": "554941",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-29",
-    "status": "POSTPONED",
-    "team_a": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
-    },
-    "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "score": "vs",
-    "time": "00:00"
-  },
-  {
-    "match_id": "554940",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-29",
-    "status": "POSTPONED",
-    "team_a": {
-      "name": "Mineiro",
-      "logo": "https://crests.football-data.org/1766.png"
-    },
-    "team_b": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
-    },
-    "score": "vs",
-    "time": "00:00"
-  },
-  {
-    "match_id": "554942",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-29",
-    "status": "POSTPONED",
-    "team_a": {
-      "name": "Chapecoense",
-      "logo": "https://crests.football-data.org/1772_large.png"
-    },
-    "team_b": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
-    },
-    "score": "vs",
-    "time": "00:00"
-  },
-  {
-    "match_id": "554946",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "status": "IN_PLAY",
     "team_a": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
     },
     "team_b": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
-    "score": "1 - 0",
-    "time": "22:30"
+    "score": "0 - 0",
+    "time": "00:30"
   },
   {
-    "match_id": "554947",
+    "match_id": "554945",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-29",
-    "status": "IN_PLAY",
+    "date": "2026-07-30",
+    "status": "LIVE",
     "team_a": {
-      "name": "Mirassol",
-      "logo": "https://crests.football-data.org/4364.png"
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
     },
     "team_b": {
-      "name": "Clube do Remo",
-      "logo": "https://crests.football-data.org/4287.png"
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
     },
-    "score": "2 - 1",
+    "score": "0 - 0",
+    "time": "00:30"
+  },
+  {
+    "match_id": "554943",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-30",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
+    },
+    "team_b": {
+      "name": "Paranaense",
+      "logo": "https://crests.football-data.org/1768.png"
+    },
+    "score": "vs",
     "time": "22:30"
   }
 ]
