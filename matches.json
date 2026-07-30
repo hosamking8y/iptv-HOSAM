@@ -1,25 +1,9 @@
 [
   {
-    "match_id": "554949",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-30",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
-    },
-    "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "0 - 0",
-    "time": "00:30"
-  },
-  {
     "match_id": "554945",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-30",
-    "status": "LIVE",
+    "status": "FINISHED",
     "team_a": {
       "name": "Fluminense",
       "logo": "https://crests.football-data.org/1765.png"
@@ -29,6 +13,22 @@
       "logo": "https://crests.football-data.org/1777.png"
     },
     "score": "0 - 0",
+    "time": "00:30"
+  },
+  {
+    "match_id": "554949",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-07-30",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "team_b": {
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
+    },
+    "score": "0 - 4",
     "time": "00:30"
   },
   {
