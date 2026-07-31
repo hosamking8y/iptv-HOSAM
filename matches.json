@@ -1,50 +1,18 @@
 [
   {
-    "match_id": "554949",
+    "match_id": "554944",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-30",
-    "status": "FINISHED",
+    "date": "2026-07-31",
+    "status": "TIMED",
     "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
+      "name": "Coritiba",
+      "logo": "https://crests.football-data.org/4241.png"
     },
     "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
+      "name": "Cruzeiro",
+      "logo": "https://crests.football-data.org/1771.png"
     },
-    "score": "0 - 4",
+    "score": "vs",
     "time": "00:30"
-  },
-  {
-    "match_id": "554945",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-30",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Fluminense",
-      "logo": "https://crests.football-data.org/1765.png"
-    },
-    "team_b": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "score": "0 - 0",
-    "time": "00:30"
-  },
-  {
-    "match_id": "554943",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-07-30",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Corinthians",
-      "logo": "https://crests.football-data.org/1779.png"
-    },
-    "team_b": {
-      "name": "Paranaense",
-      "logo": "https://crests.football-data.org/1768.png"
-    },
-    "score": "0 - 0",
-    "time": "22:30"
   }
 ]
