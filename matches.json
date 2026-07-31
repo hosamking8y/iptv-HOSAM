@@ -3,7 +3,7 @@
     "match_id": "554944",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-07-31",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Coritiba",
       "logo": "https://crests.football-data.org/4241.png"
@@ -12,7 +12,7 @@
       "name": "Cruzeiro",
       "logo": "https://crests.football-data.org/1771.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "00:30"
   }
 ]
