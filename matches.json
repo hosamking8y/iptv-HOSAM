@@ -3,7 +3,7 @@
     "match_id": "558214",
     "tournament": "Eredivisie",
     "date": "2026-08-07",
-    "status": "LIVE",
+    "status": "FINISHED",
     "team_a": {
       "name": "Cambuur",
       "logo": "https://crests.football-data.org/1909.png"
@@ -12,7 +12,7 @@
       "name": "Excelsior",
       "logo": "https://crests.football-data.org/670.png"
     },
-    "score": "0 - 3",
+    "score": "0 - 5",
     "time": "18:00"
   },
   {
@@ -28,7 +28,7 @@
       "name": "Famalicão",
       "logo": "https://crests.football-data.org/5531.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "19:15"
   }
 ]
