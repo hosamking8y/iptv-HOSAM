@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "match_id": "558214",
+    "tournament": "Eredivisie",
+    "date": "2026-08-07",
+    "status": "SCHEDULED",
+    "team_a": {
+      "name": "Cambuur",
+      "logo": "https://crests.football-data.org/1909.png"
+    },
+    "team_b": {
+      "name": "Excelsior",
+      "logo": "https://crests.football-data.org/670.png"
+    },
+    "score": "vs",
+    "time": "18:00"
+  },
+  {
+    "match_id": "567264",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-07",
+    "status": "2026-08-07 19:15:00Z",
+    "team_a": {
+      "name": "Estoril Praia",
+      "logo": "https://crests.football-data.org/582.png"
+    },
+    "team_b": {
+      "name": "Famalicão",
+      "logo": "https://crests.football-data.org/5531.png"
+    },
+    "score": "vs",
+    "time": "19:15"
+  }
+]
