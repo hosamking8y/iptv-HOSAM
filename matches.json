@@ -3,7 +3,7 @@
     "match_id": "558214",
     "tournament": "Eredivisie",
     "date": "2026-08-07",
-    "status": "SCHEDULED",
+    "status": "LIVE",
     "team_a": {
       "name": "Cambuur",
       "logo": "https://crests.football-data.org/1909.png"
@@ -12,7 +12,7 @@
       "name": "Excelsior",
       "logo": "https://crests.football-data.org/670.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "18:00"
   },
   {
