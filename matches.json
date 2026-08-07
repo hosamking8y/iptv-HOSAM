@@ -12,14 +12,14 @@
       "name": "Excelsior",
       "logo": "https://crests.football-data.org/670.png"
     },
-    "score": "0 - 1",
+    "score": "0 - 3",
     "time": "18:00"
   },
   {
     "match_id": "567264",
     "tournament": "Primeira Liga",
     "date": "2026-08-07",
-    "status": "SCHEDULED",
+    "status": "LIVE",
     "team_a": {
       "name": "Estoril Praia",
       "logo": "https://crests.football-data.org/582.png"
@@ -28,7 +28,7 @@
       "name": "Famalicão",
       "logo": "https://crests.football-data.org/5531.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:15"
   }
 ]
