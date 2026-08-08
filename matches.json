@@ -3,7 +3,7 @@
     "match_id": "567263",
     "tournament": "Primeira Liga",
     "date": "2026-08-08",
-    "status": "SCHEDULED",
+    "status": "2026-08-08 13:30:00Z",
     "team_a": {
       "name": "Marítimo",
       "logo": "https://crests.football-data.org/5575.png"
@@ -19,7 +19,7 @@
     "match_id": "558215",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "SCHEDULED",
+    "status": "TIMED",
     "team_a": {
       "name": "NEC",
       "logo": "https://crests.football-data.org/1915.png"
@@ -35,7 +35,7 @@
     "match_id": "558216",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "SCHEDULED",
+    "status": "TIMED",
     "team_a": {
       "name": "Go Ahead",
       "logo": "https://crests.football-data.org/718.png"
@@ -51,7 +51,7 @@
     "match_id": "567258",
     "tournament": "Primeira Liga",
     "date": "2026-08-08",
-    "status": "SCHEDULED",
+    "status": "TIMED",
     "team_a": {
       "name": "Vitória SC",
       "logo": "https://crests.football-data.org/5543.png"
@@ -67,7 +67,7 @@
     "match_id": "558217",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "SCHEDULED",
+    "status": "TIMED",
     "team_a": {
       "name": "PSV",
       "logo": "https://crests.football-data.org/674.png"
@@ -99,7 +99,7 @@
     "match_id": "558218",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "SCHEDULED",
+    "status": "TIMED",
     "team_a": {
       "name": "AZ",
       "logo": "https://crests.football-data.org/682.png"
@@ -115,7 +115,7 @@
     "match_id": "567260",
     "tournament": "Primeira Liga",
     "date": "2026-08-08",
-    "status": "SCHEDULED",
+    "status": "TIMED",
     "team_a": {
       "name": "Amadora",
       "logo": "https://crests.football-data.org/9136.png"
