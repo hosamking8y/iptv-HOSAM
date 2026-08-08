@@ -83,7 +83,7 @@
     "match_id": "554956",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-08",
-    "status": "LIVE",
+    "status": "FINISHED",
     "team_a": {
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
@@ -92,14 +92,14 @@
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
     },
-    "score": "1 - 1",
+    "score": "2 - 1",
     "time": "19:00"
   },
   {
     "match_id": "558218",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "AZ",
       "logo": "https://crests.football-data.org/682.png"
@@ -124,7 +124,7 @@
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
     },
-    "score": "0 - 1",
+    "score": "2 - 2",
     "time": "19:30"
   },
   {
