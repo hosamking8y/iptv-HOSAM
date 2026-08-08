@@ -35,7 +35,7 @@
     "match_id": "558216",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Go Ahead",
       "logo": "https://crests.football-data.org/718.png"
@@ -51,7 +51,7 @@
     "match_id": "567258",
     "tournament": "Primeira Liga",
     "date": "2026-08-08",
-    "status": "TIMED",
+    "status": "PAUSED",
     "team_a": {
       "name": "Vitória SC",
       "logo": "https://crests.football-data.org/5543.png"
@@ -60,7 +60,7 @@
       "name": "Arouca",
       "logo": "https://crests.football-data.org/712.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "17:00"
   },
   {
