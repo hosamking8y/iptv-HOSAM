@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "558215",
-    "tournament": "Eredivisie",
-    "date": "2026-08-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "NEC",
-      "logo": "https://crests.football-data.org/1915.png"
-    },
-    "team_b": {
-      "name": "Telstar",
-      "logo": "https://crests.football-data.org/1912.png"
-    },
-    "score": "vs",
-    "time": "14:30"
-  },
-  {
     "match_id": "567263",
     "tournament": "Primeira Liga",
     "date": "2026-08-08",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Casa Pia",
       "logo": "https://crests.football-data.org/6618.png"
+    },
+    "score": "vs",
+    "time": "14:30"
+  },
+  {
+    "match_id": "558215",
+    "tournament": "Eredivisie",
+    "date": "2026-08-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "NEC",
+      "logo": "https://crests.football-data.org/1915.png"
+    },
+    "team_b": {
+      "name": "Telstar",
+      "logo": "https://crests.football-data.org/1912.png"
     },
     "score": "vs",
     "time": "14:30"
@@ -83,7 +83,7 @@
     "match_id": "554956",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-08",
-    "status": "PAUSED",
+    "status": "LIVE",
     "team_a": {
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
@@ -92,14 +92,14 @@
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
     },
-    "score": "0 - 1",
+    "score": "1 - 1",
     "time": "19:00"
   },
   {
     "match_id": "558218",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "AZ",
       "logo": "https://crests.football-data.org/682.png"
@@ -108,7 +108,7 @@
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 0",
     "time": "19:00"
   },
   {
@@ -124,7 +124,7 @@
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "19:30"
   },
   {
