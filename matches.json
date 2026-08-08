@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "567263",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-08",
-    "status": "SCHEDULED",
-    "team_a": {
-      "name": "Marítimo",
-      "logo": "https://crests.football-data.org/5575.png"
-    },
-    "team_b": {
-      "name": "Casa Pia",
-      "logo": "https://crests.football-data.org/6618.png"
-    },
-    "score": "vs",
-    "time": "14:30"
-  },
-  {
     "match_id": "558215",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Telstar",
       "logo": "https://crests.football-data.org/1912.png"
+    },
+    "score": "vs",
+    "time": "14:30"
+  },
+  {
+    "match_id": "567263",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-08",
+    "status": "SCHEDULED",
+    "team_a": {
+      "name": "Marítimo",
+      "logo": "https://crests.football-data.org/5575.png"
+    },
+    "team_b": {
+      "name": "Casa Pia",
+      "logo": "https://crests.football-data.org/6618.png"
     },
     "score": "vs",
     "time": "14:30"
@@ -80,22 +80,6 @@
     "time": "18:00"
   },
   {
-    "match_id": "554956",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "team_b": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "558218",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554956",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
+    },
+    "team_b": {
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
     },
     "score": "vs",
     "time": "19:00"
