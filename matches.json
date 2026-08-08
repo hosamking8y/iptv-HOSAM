@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "567263",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-08",
-    "status": "2026-08-08 13:30:00Z",
-    "team_a": {
-      "name": "Marítimo",
-      "logo": "https://crests.football-data.org/5575.png"
-    },
-    "team_b": {
-      "name": "Casa Pia",
-      "logo": "https://crests.football-data.org/6618.png"
-    },
-    "score": "vs",
-    "time": "14:30"
-  },
-  {
     "match_id": "558215",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Telstar",
       "logo": "https://crests.football-data.org/1912.png"
+    },
+    "score": "vs",
+    "time": "14:30"
+  },
+  {
+    "match_id": "567263",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-08",
+    "status": "2026-08-08 13:30:00Z",
+    "team_a": {
+      "name": "Marítimo",
+      "logo": "https://crests.football-data.org/5575.png"
+    },
+    "team_b": {
+      "name": "Casa Pia",
+      "logo": "https://crests.football-data.org/6618.png"
     },
     "score": "vs",
     "time": "14:30"
@@ -67,7 +67,7 @@
     "match_id": "558217",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "PSV",
       "logo": "https://crests.football-data.org/674.png"
@@ -76,14 +76,14 @@
       "name": "Sittard",
       "logo": "https://crests.football-data.org/1920.png"
     },
-    "score": "2 - 1",
+    "score": "2 - 2",
     "time": "18:00"
   },
   {
     "match_id": "554956",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-08",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
@@ -92,14 +92,14 @@
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "19:00"
   },
   {
     "match_id": "558218",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "AZ",
       "logo": "https://crests.football-data.org/682.png"
@@ -108,7 +108,7 @@
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
     },
-    "score": "1 - 0",
+    "score": "0 - 0",
     "time": "19:00"
   },
   {
