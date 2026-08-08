@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "558215",
-    "tournament": "Eredivisie",
-    "date": "2026-08-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "NEC",
-      "logo": "https://crests.football-data.org/1915.png"
-    },
-    "team_b": {
-      "name": "Telstar",
-      "logo": "https://crests.football-data.org/1912.png"
-    },
-    "score": "vs",
-    "time": "14:30"
-  },
-  {
     "match_id": "567263",
     "tournament": "Primeira Liga",
     "date": "2026-08-08",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Casa Pia",
       "logo": "https://crests.football-data.org/6618.png"
+    },
+    "score": "vs",
+    "time": "14:30"
+  },
+  {
+    "match_id": "558215",
+    "tournament": "Eredivisie",
+    "date": "2026-08-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "NEC",
+      "logo": "https://crests.football-data.org/1915.png"
+    },
+    "team_b": {
+      "name": "Telstar",
+      "logo": "https://crests.football-data.org/1912.png"
     },
     "score": "vs",
     "time": "14:30"
@@ -131,7 +131,7 @@
     "match_id": "554958",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-08",
-    "status": "LIVE",
+    "status": "TIMED",
     "team_a": {
       "name": "Clube do Remo",
       "logo": "https://crests.football-data.org/4287.png"
@@ -140,14 +140,14 @@
       "name": "Mineiro",
       "logo": "https://crests.football-data.org/1766.png"
     },
-    "score": "2 - 2",
+    "score": "vs",
     "time": "21:30"
   },
   {
     "match_id": "554953",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-08",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Coritiba",
       "logo": "https://crests.football-data.org/4241.png"
@@ -156,7 +156,7 @@
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "23:30"
   },
   {
