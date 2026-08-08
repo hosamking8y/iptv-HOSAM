@@ -80,22 +80,6 @@
     "time": "18:00"
   },
   {
-    "match_id": "554956",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "team_b": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "558218",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554956",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
+    },
+    "team_b": {
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
     },
     "score": "vs",
     "time": "19:00"
