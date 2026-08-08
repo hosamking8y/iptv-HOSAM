@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "558215",
-    "tournament": "Eredivisie",
-    "date": "2026-08-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "NEC",
-      "logo": "https://crests.football-data.org/1915.png"
-    },
-    "team_b": {
-      "name": "Telstar",
-      "logo": "https://crests.football-data.org/1912.png"
-    },
-    "score": "vs",
-    "time": "14:30"
-  },
-  {
     "match_id": "567263",
     "tournament": "Primeira Liga",
     "date": "2026-08-08",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Casa Pia",
       "logo": "https://crests.football-data.org/6618.png"
+    },
+    "score": "vs",
+    "time": "14:30"
+  },
+  {
+    "match_id": "558215",
+    "tournament": "Eredivisie",
+    "date": "2026-08-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "NEC",
+      "logo": "https://crests.football-data.org/1915.png"
+    },
+    "team_b": {
+      "name": "Telstar",
+      "logo": "https://crests.football-data.org/1912.png"
     },
     "score": "vs",
     "time": "14:30"
@@ -67,7 +67,7 @@
     "match_id": "558217",
     "tournament": "Eredivisie",
     "date": "2026-08-08",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "PSV",
       "logo": "https://crests.football-data.org/674.png"
@@ -76,8 +76,24 @@
       "name": "Sittard",
       "logo": "https://crests.football-data.org/1920.png"
     },
-    "score": "0 - 1",
+    "score": "2 - 1",
     "time": "18:00"
+  },
+  {
+    "match_id": "554956",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-08",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
+    },
+    "team_b": {
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
+    },
+    "score": "0 - 0",
+    "time": "19:00"
   },
   {
     "match_id": "558218",
@@ -92,30 +108,14 @@
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
     },
-    "score": "0 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "554956",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-08",
-    "status": "LIVE",
-    "team_a": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "team_b": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
-    },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "19:00"
   },
   {
     "match_id": "567260",
     "tournament": "Primeira Liga",
     "date": "2026-08-08",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Amadora",
       "logo": "https://crests.football-data.org/9136.png"
@@ -124,7 +124,7 @@
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:30"
   },
   {
