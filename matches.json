@@ -99,7 +99,7 @@
     "match_id": "567265",
     "tournament": "Primeira Liga",
     "date": "2026-08-09",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Porto",
       "logo": "https://crests.football-data.org/503.png"
@@ -108,24 +108,8 @@
       "name": "Alverca",
       "logo": "https://crests.football-data.org/7822.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "17:00"
-  },
-  {
-    "match_id": "554957",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-09",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "team_b": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
-    },
-    "score": "vs",
-    "time": "19:00"
   },
   {
     "match_id": "554950",
@@ -144,17 +128,33 @@
     "time": "19:00"
   },
   {
-    "match_id": "567262",
+    "match_id": "554957",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-09",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
+    },
+    "team_b": {
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "567261",
     "tournament": "Primeira Liga",
     "date": "2026-08-09",
     "status": "TIMED",
     "team_a": {
-      "name": "SL Benfica",
-      "logo": "https://crests.football-data.org/1903.png"
+      "name": "Gil Vicente",
+      "logo": "https://crests.football-data.org/5533.png"
     },
     "team_b": {
-      "name": "Acad. Viseu",
-      "logo": "https://crests.football-data.org/5527.png"
+      "name": "Rio Ave",
+      "logo": "https://crests.football-data.org/496.png"
     },
     "score": "vs",
     "time": "19:30"
@@ -176,17 +176,17 @@
     "time": "19:30"
   },
   {
-    "match_id": "567261",
+    "match_id": "567262",
     "tournament": "Primeira Liga",
     "date": "2026-08-09",
     "status": "TIMED",
     "team_a": {
-      "name": "Gil Vicente",
-      "logo": "https://crests.football-data.org/5533.png"
+      "name": "SL Benfica",
+      "logo": "https://crests.football-data.org/1903.png"
     },
     "team_b": {
-      "name": "Rio Ave",
-      "logo": "https://crests.football-data.org/496.png"
+      "name": "Acad. Viseu",
+      "logo": "https://crests.football-data.org/5527.png"
     },
     "score": "vs",
     "time": "19:30"
