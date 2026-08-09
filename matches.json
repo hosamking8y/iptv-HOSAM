@@ -32,22 +32,6 @@
     "time": "10:15"
   },
   {
-    "match_id": "558220",
-    "tournament": "Eredivisie",
-    "date": "2026-08-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Groningen",
-      "logo": "https://crests.football-data.org/677.png"
-    },
-    "team_b": {
-      "name": "Utrecht",
-      "logo": "https://crests.football-data.org/676.png"
-    },
-    "score": "2 - 1",
-    "time": "12:30"
-  },
-  {
     "match_id": "558221",
     "tournament": "Eredivisie",
     "date": "2026-08-09",
@@ -61,6 +45,22 @@
       "logo": "https://crests.football-data.org/678.png"
     },
     "score": "0 - 2",
+    "time": "12:30"
+  },
+  {
+    "match_id": "558220",
+    "tournament": "Eredivisie",
+    "date": "2026-08-09",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Groningen",
+      "logo": "https://crests.football-data.org/677.png"
+    },
+    "team_b": {
+      "name": "Utrecht",
+      "logo": "https://crests.football-data.org/676.png"
+    },
+    "score": "2 - 1",
     "time": "12:30"
   },
   {
@@ -99,7 +99,7 @@
     "match_id": "567265",
     "tournament": "Primeira Liga",
     "date": "2026-08-09",
-    "status": "LIVE",
+    "status": "FINISHED",
     "team_a": {
       "name": "Porto",
       "logo": "https://crests.football-data.org/503.png"
@@ -112,26 +112,10 @@
     "time": "17:00"
   },
   {
-    "match_id": "554950",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-09",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "team_b": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "554957",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-09",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Palmeiras",
       "logo": "https://crests.football-data.org/1769.png"
@@ -140,24 +124,24 @@
       "name": "Internacional",
       "logo": "https://crests.football-data.org/6684.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:00"
   },
   {
-    "match_id": "567261",
-    "tournament": "Primeira Liga",
+    "match_id": "554950",
+    "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-09",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
-      "name": "Gil Vicente",
-      "logo": "https://crests.football-data.org/5533.png"
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
     },
     "team_b": {
-      "name": "Rio Ave",
-      "logo": "https://crests.football-data.org/496.png"
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
     },
-    "score": "vs",
-    "time": "19:30"
+    "score": "0 - 1",
+    "time": "19:00"
   },
   {
     "match_id": "567259",
@@ -192,20 +176,20 @@
     "time": "19:30"
   },
   {
-    "match_id": "554959",
-    "tournament": "Campeonato Brasileiro Série A",
+    "match_id": "567261",
+    "tournament": "Primeira Liga",
     "date": "2026-08-09",
     "status": "TIMED",
     "team_a": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
+      "name": "Gil Vicente",
+      "logo": "https://crests.football-data.org/5533.png"
     },
     "team_b": {
-      "name": "Paranaense",
-      "logo": "https://crests.football-data.org/1768.png"
+      "name": "Rio Ave",
+      "logo": "https://crests.football-data.org/496.png"
     },
     "score": "vs",
-    "time": "21:30"
+    "time": "19:30"
   },
   {
     "match_id": "554952",
@@ -219,6 +203,22 @@
     "team_b": {
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554959",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-09",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
+    },
+    "team_b": {
+      "name": "Paranaense",
+      "logo": "https://crests.football-data.org/1768.png"
     },
     "score": "vs",
     "time": "21:30"
