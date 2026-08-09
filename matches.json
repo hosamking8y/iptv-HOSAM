@@ -112,22 +112,6 @@
     "time": "17:00"
   },
   {
-    "match_id": "554950",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-09",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "team_b": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "554957",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-09",
@@ -139,6 +123,22 @@
     "team_b": {
       "name": "Internacional",
       "logo": "https://crests.football-data.org/6684.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554950",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-09",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
+    },
+    "team_b": {
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -192,22 +192,6 @@
     "time": "19:30"
   },
   {
-    "match_id": "554952",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-09",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
-    },
-    "team_b": {
-      "name": "Corinthians",
-      "logo": "https://crests.football-data.org/1779.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
     "match_id": "554959",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-09",
@@ -219,6 +203,22 @@
     "team_b": {
       "name": "Paranaense",
       "logo": "https://crests.football-data.org/1768.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554952",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-09",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
+    },
+    "team_b": {
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
     },
     "score": "vs",
     "time": "21:30"
