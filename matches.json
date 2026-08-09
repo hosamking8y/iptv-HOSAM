@@ -76,14 +76,14 @@
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
     },
-    "score": "1 - 1",
+    "score": "2 - 1",
     "time": "14:00"
   },
   {
     "match_id": "558222",
     "tournament": "Eredivisie",
     "date": "2026-08-09",
-    "status": "LIVE",
+    "status": "PAUSED",
     "team_a": {
       "name": "Heerenveen",
       "logo": "https://crests.football-data.org/673.png"
@@ -192,22 +192,6 @@
     "time": "19:30"
   },
   {
-    "match_id": "554959",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-09",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "team_b": {
-      "name": "Paranaense",
-      "logo": "https://crests.football-data.org/1768.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
     "match_id": "554952",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-09",
@@ -219,6 +203,22 @@
     "team_b": {
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554959",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-09",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
+    },
+    "team_b": {
+      "name": "Paranaense",
+      "logo": "https://crests.football-data.org/1768.png"
     },
     "score": "vs",
     "time": "21:30"
