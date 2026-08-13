@@ -3,7 +3,7 @@
     "match_id": "564460",
     "tournament": "Copa Libertadores",
     "date": "2026-08-13",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Cruzeiro",
       "logo": "https://crests.football-data.org/1771.png"
@@ -12,7 +12,7 @@
       "name": "Flamengo",
       "logo": "https://crests.football-data.org/1783.png"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "00:30"
   },
   {
