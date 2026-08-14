@@ -35,7 +35,7 @@
     "match_id": "561761",
     "tournament": "Championship",
     "date": "2026-08-14",
-    "status": "LIVE",
+    "status": "FINISHED",
     "team_a": {
       "name": "Wolverhampton",
       "logo": "https://crests.football-data.org/76.png"
@@ -44,7 +44,7 @@
       "name": "Blackburn",
       "logo": "https://crests.football-data.org/59.png"
     },
-    "score": "1 - 2",
+    "score": "2 - 2",
     "time": "19:00"
   },
   {
@@ -60,7 +60,7 @@
       "name": "Vitória SC",
       "logo": "https://crests.football-data.org/5543.png"
     },
-    "score": "3 - 1",
+    "score": "3 - 2",
     "time": "19:15"
   }
 ]
