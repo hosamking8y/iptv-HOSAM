@@ -28,14 +28,14 @@
       "name": "Sparta",
       "logo": "https://crests.football-data.org/6806.png"
     },
-    "score": "0 - 1",
+    "score": "0 - 2",
     "time": "18:00"
   },
   {
     "match_id": "561761",
     "tournament": "Championship",
     "date": "2026-08-14",
-    "status": "LIVE",
+    "status": "PAUSED",
     "team_a": {
       "name": "Wolverhampton",
       "logo": "https://crests.football-data.org/76.png"
@@ -44,14 +44,14 @@
       "name": "Blackburn",
       "logo": "https://crests.football-data.org/59.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 1",
     "time": "19:00"
   },
   {
     "match_id": "567268",
     "tournament": "Primeira Liga",
     "date": "2026-08-14",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
@@ -60,7 +60,7 @@
       "name": "Vitória SC",
       "logo": "https://crests.football-data.org/5543.png"
     },
-    "score": "vs",
+    "score": "2 - 0",
     "time": "19:15"
   }
 ]
