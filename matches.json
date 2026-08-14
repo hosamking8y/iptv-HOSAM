@@ -35,7 +35,7 @@
     "match_id": "561761",
     "tournament": "Championship",
     "date": "2026-08-14",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Wolverhampton",
       "logo": "https://crests.football-data.org/76.png"
@@ -44,7 +44,7 @@
       "name": "Blackburn",
       "logo": "https://crests.football-data.org/59.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:00"
   },
   {
