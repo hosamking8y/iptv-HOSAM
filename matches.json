@@ -16,19 +16,51 @@
     "time": "11:30"
   },
   {
-    "match_id": "561765",
+    "match_id": "561768",
     "tournament": "Championship",
     "date": "2026-08-15",
     "status": "FINISHED",
     "team_a": {
-      "name": "Middlesbrough",
-      "logo": "https://crests.football-data.org/343.png"
+      "name": "Portsmouth",
+      "logo": "https://crests.football-data.org/325.png"
     },
     "team_b": {
-      "name": "Lincoln City",
-      "logo": "https://crests.football-data.org/1126.png"
+      "name": "QPR",
+      "logo": "https://crests.football-data.org/69.png"
     },
-    "score": "2 - 1",
+    "score": "1 - 3",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561764",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Bristol City",
+      "logo": "https://crests.football-data.org/387.png"
+    },
+    "team_b": {
+      "name": "Millwall",
+      "logo": "https://crests.football-data.org/384.png"
+    },
+    "score": "0 - 2",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561766",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Stoke",
+      "logo": "https://crests.football-data.org/70.png"
+    },
+    "team_b": {
+      "name": "Swansea",
+      "logo": "https://crests.football-data.org/72.png"
+    },
+    "score": "1 - 2",
     "time": "14:00"
   },
   {
@@ -64,51 +96,19 @@
     "time": "14:00"
   },
   {
-    "match_id": "561766",
+    "match_id": "561765",
     "tournament": "Championship",
     "date": "2026-08-15",
     "status": "FINISHED",
     "team_a": {
-      "name": "Stoke",
-      "logo": "https://crests.football-data.org/70.png"
+      "name": "Middlesbrough",
+      "logo": "https://crests.football-data.org/343.png"
     },
     "team_b": {
-      "name": "Swansea",
-      "logo": "https://crests.football-data.org/72.png"
+      "name": "Lincoln City",
+      "logo": "https://crests.football-data.org/1126.png"
     },
-    "score": "1 - 2",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561768",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Portsmouth",
-      "logo": "https://crests.football-data.org/325.png"
-    },
-    "team_b": {
-      "name": "QPR",
-      "logo": "https://crests.football-data.org/69.png"
-    },
-    "score": "1 - 3",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561764",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Bristol City",
-      "logo": "https://crests.football-data.org/387.png"
-    },
-    "team_b": {
-      "name": "Millwall",
-      "logo": "https://crests.football-data.org/384.png"
-    },
-    "score": "0 - 2",
+    "score": "2 - 1",
     "time": "14:00"
   },
   {
@@ -163,7 +163,7 @@
     "match_id": "558225",
     "tournament": "Eredivisie",
     "date": "2026-08-15",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Utrecht",
       "logo": "https://crests.football-data.org/676.png"
@@ -172,14 +172,14 @@
       "name": "AZ",
       "logo": "https://crests.football-data.org/682.png"
     },
-    "score": "0 - 1",
+    "score": "1 - 3",
     "time": "16:45"
   },
   {
     "match_id": "567273",
     "tournament": "Primeira Liga",
     "date": "2026-08-15",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Acad. Viseu",
       "logo": "https://crests.football-data.org/5527.png"
@@ -211,7 +211,7 @@
     "match_id": "558226",
     "tournament": "Eredivisie",
     "date": "2026-08-15",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Excelsior",
       "logo": "https://crests.football-data.org/670.png"
@@ -220,7 +220,7 @@
       "name": "PSV",
       "logo": "https://crests.football-data.org/674.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "18:00"
   },
   {
@@ -238,22 +238,6 @@
     },
     "score": "vs",
     "time": "19:00"
-  },
-  {
-    "match_id": "564633",
-    "tournament": "Primera Division",
-    "date": "2026-08-15",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Sevilla FC",
-      "logo": "https://crests.football-data.org/559.png"
-    },
-    "team_b": {
-      "name": "Rayo Vallecano",
-      "logo": "https://crests.football-data.org/87.png"
-    },
-    "score": "vs",
-    "time": "19:30"
   },
   {
     "match_id": "567274",
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Palmeiras",
       "logo": "https://crests.football-data.org/1769.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "564633",
+    "tournament": "Primera Division",
+    "date": "2026-08-15",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Sevilla FC",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "team_b": {
+      "name": "Rayo Vallecano",
+      "logo": "https://crests.football-data.org/87.png"
     },
     "score": "vs",
     "time": "19:30"
