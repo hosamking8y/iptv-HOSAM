@@ -64,22 +64,6 @@
     "time": "14:00"
   },
   {
-    "match_id": "561767",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Charlton",
-      "logo": "https://crests.football-data.org/348.png"
-    },
-    "team_b": {
-      "name": "Derby County",
-      "logo": "https://crests.football-data.org/342.png"
-    },
-    "score": "2 - 1",
-    "time": "14:00"
-  },
-  {
     "match_id": "561763",
     "tournament": "Championship",
     "date": "2026-08-15",
@@ -112,20 +96,20 @@
     "time": "14:00"
   },
   {
-    "match_id": "558224",
-    "tournament": "Eredivisie",
+    "match_id": "561767",
+    "tournament": "Championship",
     "date": "2026-08-15",
     "status": "FINISHED",
     "team_a": {
-      "name": "Willem II",
-      "logo": "https://crests.football-data.org/672.png"
+      "name": "Charlton",
+      "logo": "https://crests.football-data.org/348.png"
     },
     "team_b": {
-      "name": "NEC",
-      "logo": "https://crests.football-data.org/1915.png"
+      "name": "Derby County",
+      "logo": "https://crests.football-data.org/342.png"
     },
-    "score": "1 - 4",
-    "time": "14:30"
+    "score": "2 - 1",
+    "time": "14:00"
   },
   {
     "match_id": "567266",
@@ -141,6 +125,22 @@
       "logo": "https://crests.football-data.org/9136.png"
     },
     "score": "2 - 2",
+    "time": "14:30"
+  },
+  {
+    "match_id": "558224",
+    "tournament": "Eredivisie",
+    "date": "2026-08-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Willem II",
+      "logo": "https://crests.football-data.org/672.png"
+    },
+    "team_b": {
+      "name": "NEC",
+      "logo": "https://crests.football-data.org/1915.png"
+    },
+    "score": "1 - 4",
     "time": "14:30"
   },
   {
@@ -240,22 +240,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "567274",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-15",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Rio Ave",
-      "logo": "https://crests.football-data.org/496.png"
-    },
-    "team_b": {
-      "name": "Porto",
-      "logo": "https://crests.football-data.org/503.png"
-    },
-    "score": "0 - 2",
-    "time": "19:30"
-  },
-  {
     "match_id": "554964",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-15",
@@ -275,7 +259,7 @@
     "match_id": "564633",
     "tournament": "Primera Division",
     "date": "2026-08-15",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Sevilla FC",
       "logo": "https://crests.football-data.org/559.png"
@@ -284,14 +268,30 @@
       "name": "Rayo Vallecano",
       "logo": "https://crests.football-data.org/87.png"
     },
-    "score": "1 - 1",
+    "score": "2 - 1",
+    "time": "19:30"
+  },
+  {
+    "match_id": "567274",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Rio Ave",
+      "logo": "https://crests.football-data.org/496.png"
+    },
+    "team_b": {
+      "name": "Porto",
+      "logo": "https://crests.football-data.org/503.png"
+    },
+    "score": "0 - 2",
     "time": "19:30"
   },
   {
     "match_id": "554960",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-15",
-    "status": "2026-08-15 20:30:00Z",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Paranaense",
       "logo": "https://crests.football-data.org/1768.png"
@@ -300,7 +300,7 @@
       "name": "Bragantino",
       "logo": "https://crests.football-data.org/4286.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "21:30"
   },
   {
