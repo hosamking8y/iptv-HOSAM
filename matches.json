@@ -64,6 +64,22 @@
     "time": "14:00"
   },
   {
+    "match_id": "561765",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Middlesbrough",
+      "logo": "https://crests.football-data.org/343.png"
+    },
+    "team_b": {
+      "name": "Lincoln City",
+      "logo": "https://crests.football-data.org/1126.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
     "match_id": "561767",
     "tournament": "Championship",
     "date": "2026-08-15",
@@ -96,20 +112,20 @@
     "time": "14:00"
   },
   {
-    "match_id": "561765",
-    "tournament": "Championship",
+    "match_id": "567266",
+    "tournament": "Primeira Liga",
     "date": "2026-08-15",
     "status": "TIMED",
     "team_a": {
-      "name": "Middlesbrough",
-      "logo": "https://crests.football-data.org/343.png"
+      "name": "Alverca",
+      "logo": "https://crests.football-data.org/7822.png"
     },
     "team_b": {
-      "name": "Lincoln City",
-      "logo": "https://crests.football-data.org/1126.png"
+      "name": "Amadora",
+      "logo": "https://crests.football-data.org/9136.png"
     },
     "score": "vs",
-    "time": "14:00"
+    "time": "14:30"
   },
   {
     "match_id": "558224",
@@ -123,22 +139,6 @@
     "team_b": {
       "name": "NEC",
       "logo": "https://crests.football-data.org/1915.png"
-    },
-    "score": "vs",
-    "time": "14:30"
-  },
-  {
-    "match_id": "567266",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-15",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Alverca",
-      "logo": "https://crests.football-data.org/7822.png"
-    },
-    "team_b": {
-      "name": "Amadora",
-      "logo": "https://crests.football-data.org/9136.png"
     },
     "score": "vs",
     "time": "14:30"
@@ -240,6 +240,22 @@
     "time": "19:00"
   },
   {
+    "match_id": "564633",
+    "tournament": "Primera Division",
+    "date": "2026-08-15",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Sevilla FC",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "team_b": {
+      "name": "Rayo Vallecano",
+      "logo": "https://crests.football-data.org/87.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
     "match_id": "567274",
     "tournament": "Primeira Liga",
     "date": "2026-08-15",
@@ -267,22 +283,6 @@
     "team_b": {
       "name": "Palmeiras",
       "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "vs",
-    "time": "19:30"
-  },
-  {
-    "match_id": "564633",
-    "tournament": "Primera Division",
-    "date": "2026-08-15",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Sevilla FC",
-      "logo": "https://crests.football-data.org/559.png"
-    },
-    "team_b": {
-      "name": "Rayo Vallecano",
-      "logo": "https://crests.football-data.org/87.png"
     },
     "score": "vs",
     "time": "19:30"
