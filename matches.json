@@ -16,22 +16,6 @@
     "time": "11:30"
   },
   {
-    "match_id": "561763",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
-    },
-    "team_b": {
-      "name": "West Brom",
-      "logo": "https://crests.football-data.org/74.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
     "match_id": "561765",
     "tournament": "Championship",
     "date": "2026-08-15",
@@ -64,17 +48,17 @@
     "time": "14:00"
   },
   {
-    "match_id": "561768",
+    "match_id": "561763",
     "tournament": "Championship",
     "date": "2026-08-15",
     "status": "TIMED",
     "team_a": {
-      "name": "Portsmouth",
-      "logo": "https://crests.football-data.org/325.png"
+      "name": "Norwich",
+      "logo": "https://crests.football-data.org/68.png"
     },
     "team_b": {
-      "name": "QPR",
-      "logo": "https://crests.football-data.org/69.png"
+      "name": "West Brom",
+      "logo": "https://crests.football-data.org/74.png"
     },
     "score": "vs",
     "time": "14:00"
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Swansea",
       "logo": "https://crests.football-data.org/72.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561768",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Portsmouth",
+      "logo": "https://crests.football-data.org/325.png"
+    },
+    "team_b": {
+      "name": "QPR",
+      "logo": "https://crests.football-data.org/69.png"
     },
     "score": "vs",
     "time": "14:00"
@@ -240,22 +240,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "554964",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-15",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Fluminense",
-      "logo": "https://crests.football-data.org/1765.png"
-    },
-    "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "vs",
-    "time": "19:30"
-  },
-  {
     "match_id": "564633",
     "tournament": "Primera Division",
     "date": "2026-08-15",
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Porto",
       "logo": "https://crests.football-data.org/503.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "554964",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-15",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
+    },
+    "team_b": {
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
     "score": "vs",
     "time": "19:30"
