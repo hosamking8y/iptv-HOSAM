@@ -16,6 +16,54 @@
     "time": "11:30"
   },
   {
+    "match_id": "561763",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Norwich",
+      "logo": "https://crests.football-data.org/68.png"
+    },
+    "team_b": {
+      "name": "West Brom",
+      "logo": "https://crests.football-data.org/74.png"
+    },
+    "score": "1 - 2",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561765",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Middlesbrough",
+      "logo": "https://crests.football-data.org/343.png"
+    },
+    "team_b": {
+      "name": "Lincoln City",
+      "logo": "https://crests.football-data.org/1126.png"
+    },
+    "score": "2 - 1",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561767",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Charlton",
+      "logo": "https://crests.football-data.org/348.png"
+    },
+    "team_b": {
+      "name": "Derby County",
+      "logo": "https://crests.football-data.org/342.png"
+    },
+    "score": "2 - 1",
+    "time": "14:00"
+  },
+  {
     "match_id": "561768",
     "tournament": "Championship",
     "date": "2026-08-15",
@@ -61,54 +109,6 @@
       "logo": "https://crests.football-data.org/72.png"
     },
     "score": "1 - 2",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561767",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Charlton",
-      "logo": "https://crests.football-data.org/348.png"
-    },
-    "team_b": {
-      "name": "Derby County",
-      "logo": "https://crests.football-data.org/342.png"
-    },
-    "score": "2 - 1",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561763",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
-    },
-    "team_b": {
-      "name": "West Brom",
-      "logo": "https://crests.football-data.org/74.png"
-    },
-    "score": "1 - 2",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561765",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Middlesbrough",
-      "logo": "https://crests.football-data.org/343.png"
-    },
-    "team_b": {
-      "name": "Lincoln City",
-      "logo": "https://crests.football-data.org/1126.png"
-    },
-    "score": "2 - 1",
     "time": "14:00"
   },
   {
@@ -211,7 +211,7 @@
     "match_id": "558226",
     "tournament": "Eredivisie",
     "date": "2026-08-15",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Excelsior",
       "logo": "https://crests.football-data.org/670.png"
@@ -238,22 +238,6 @@
     },
     "score": "2 - 1",
     "time": "19:00"
-  },
-  {
-    "match_id": "567274",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-15",
-    "status": "LIVE",
-    "team_a": {
-      "name": "Rio Ave",
-      "logo": "https://crests.football-data.org/496.png"
-    },
-    "team_b": {
-      "name": "Porto",
-      "logo": "https://crests.football-data.org/503.png"
-    },
-    "score": "0 - 1",
-    "time": "19:30"
   },
   {
     "match_id": "554964",
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Rayo Vallecano",
       "logo": "https://crests.football-data.org/87.png"
+    },
+    "score": "0 - 1",
+    "time": "19:30"
+  },
+  {
+    "match_id": "567274",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-15",
+    "status": "LIVE",
+    "team_a": {
+      "name": "Rio Ave",
+      "logo": "https://crests.football-data.org/496.png"
+    },
+    "team_b": {
+      "name": "Porto",
+      "logo": "https://crests.football-data.org/503.png"
     },
     "score": "0 - 1",
     "time": "19:30"
