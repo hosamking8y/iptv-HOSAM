@@ -64,22 +64,6 @@
     "time": "14:00"
   },
   {
-    "match_id": "561767",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Charlton",
-      "logo": "https://crests.football-data.org/348.png"
-    },
-    "team_b": {
-      "name": "Derby County",
-      "logo": "https://crests.football-data.org/342.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
     "match_id": "561763",
     "tournament": "Championship",
     "date": "2026-08-15",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Lincoln City",
       "logo": "https://crests.football-data.org/1126.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561767",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Charlton",
+      "logo": "https://crests.football-data.org/348.png"
+    },
+    "team_b": {
+      "name": "Derby County",
+      "logo": "https://crests.football-data.org/342.png"
     },
     "score": "vs",
     "time": "14:00"
@@ -240,22 +240,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "567274",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-15",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Rio Ave",
-      "logo": "https://crests.football-data.org/496.png"
-    },
-    "team_b": {
-      "name": "Porto",
-      "logo": "https://crests.football-data.org/503.png"
-    },
-    "score": "vs",
-    "time": "19:30"
-  },
-  {
     "match_id": "554964",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-15",
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Rayo Vallecano",
       "logo": "https://crests.football-data.org/87.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "567274",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-15",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Rio Ave",
+      "logo": "https://crests.football-data.org/496.png"
+    },
+    "team_b": {
+      "name": "Porto",
+      "logo": "https://crests.football-data.org/503.png"
     },
     "score": "vs",
     "time": "19:30"
