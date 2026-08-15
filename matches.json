@@ -227,7 +227,7 @@
     "match_id": "558227",
     "tournament": "Eredivisie",
     "date": "2026-08-15",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Sittard",
       "logo": "https://crests.football-data.org/1920.png"
@@ -236,24 +236,8 @@
       "name": "Cambuur",
       "logo": "https://crests.football-data.org/1909.png"
     },
-    "score": "2 - 1",
+    "score": "3 - 1",
     "time": "19:00"
-  },
-  {
-    "match_id": "554964",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-15",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Fluminense",
-      "logo": "https://crests.football-data.org/1765.png"
-    },
-    "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "1 - 1",
-    "time": "19:30"
   },
   {
     "match_id": "564633",
@@ -268,7 +252,7 @@
       "name": "Rayo Vallecano",
       "logo": "https://crests.football-data.org/87.png"
     },
-    "score": "0 - 1",
+    "score": "1 - 1",
     "time": "19:30"
   },
   {
@@ -285,6 +269,22 @@
       "logo": "https://crests.football-data.org/503.png"
     },
     "score": "0 - 1",
+    "time": "19:30"
+  },
+  {
+    "match_id": "554964",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-15",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
+    },
+    "team_b": {
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
+    },
+    "score": "1 - 1",
     "time": "19:30"
   },
   {
