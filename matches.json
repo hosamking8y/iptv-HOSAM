@@ -3,7 +3,7 @@
     "match_id": "561762",
     "tournament": "Championship",
     "date": "2026-08-15",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Bolton",
       "logo": "https://crests.football-data.org/60.png"
@@ -12,7 +12,7 @@
       "name": "Preston NE",
       "logo": "https://crests.football-data.org/1081.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "11:30"
   },
   {
