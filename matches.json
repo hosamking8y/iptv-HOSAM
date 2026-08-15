@@ -112,22 +112,6 @@
     "time": "14:00"
   },
   {
-    "match_id": "558224",
-    "tournament": "Eredivisie",
-    "date": "2026-08-15",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Willem II",
-      "logo": "https://crests.football-data.org/672.png"
-    },
-    "team_b": {
-      "name": "NEC",
-      "logo": "https://crests.football-data.org/1915.png"
-    },
-    "score": "1 - 4",
-    "time": "14:30"
-  },
-  {
     "match_id": "567266",
     "tournament": "Primeira Liga",
     "date": "2026-08-15",
@@ -141,6 +125,22 @@
       "logo": "https://crests.football-data.org/9136.png"
     },
     "score": "2 - 2",
+    "time": "14:30"
+  },
+  {
+    "match_id": "558224",
+    "tournament": "Eredivisie",
+    "date": "2026-08-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Willem II",
+      "logo": "https://crests.football-data.org/672.png"
+    },
+    "team_b": {
+      "name": "NEC",
+      "logo": "https://crests.football-data.org/1915.png"
+    },
+    "score": "1 - 4",
     "time": "14:30"
   },
   {
@@ -179,7 +179,7 @@
     "match_id": "567273",
     "tournament": "Primeira Liga",
     "date": "2026-08-15",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Acad. Viseu",
       "logo": "https://crests.football-data.org/5527.png"
@@ -204,7 +204,7 @@
       "name": "Getafe",
       "logo": "https://crests.football-data.org/82.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "17:30"
   },
   {
@@ -227,7 +227,7 @@
     "match_id": "558227",
     "tournament": "Eredivisie",
     "date": "2026-08-15",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Sittard",
       "logo": "https://crests.football-data.org/1920.png"
@@ -236,24 +236,8 @@
       "name": "Cambuur",
       "logo": "https://crests.football-data.org/1909.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "19:00"
-  },
-  {
-    "match_id": "554964",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-15",
-    "status": "2026-08-15 18:30:00Z",
-    "team_a": {
-      "name": "Fluminense",
-      "logo": "https://crests.football-data.org/1765.png"
-    },
-    "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "vs",
-    "time": "19:30"
   },
   {
     "match_id": "564633",
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Porto",
       "logo": "https://crests.football-data.org/503.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "554964",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-15",
+    "status": "2026-08-15 18:30:00Z",
+    "team_a": {
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
+    },
+    "team_b": {
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
     "score": "vs",
     "time": "19:30"
