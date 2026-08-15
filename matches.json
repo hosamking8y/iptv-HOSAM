@@ -64,22 +64,6 @@
     "time": "14:00"
   },
   {
-    "match_id": "561764",
-    "tournament": "Championship",
-    "date": "2026-08-15",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bristol City",
-      "logo": "https://crests.football-data.org/387.png"
-    },
-    "team_b": {
-      "name": "Millwall",
-      "logo": "https://crests.football-data.org/384.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
     "match_id": "561766",
     "tournament": "Championship",
     "date": "2026-08-15",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "QPR",
       "logo": "https://crests.football-data.org/69.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561764",
+    "tournament": "Championship",
+    "date": "2026-08-15",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bristol City",
+      "logo": "https://crests.football-data.org/387.png"
+    },
+    "team_b": {
+      "name": "Millwall",
+      "logo": "https://crests.football-data.org/384.png"
     },
     "score": "vs",
     "time": "14:00"
