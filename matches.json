@@ -211,7 +211,7 @@
     "match_id": "554961",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "2026-08-16 18:00:00Z",
+    "status": "FINISHED",
     "team_a": {
       "name": "Mineiro",
       "logo": "https://crests.football-data.org/1766.png"
@@ -220,7 +220,7 @@
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
     },
-    "score": "vs",
+    "score": "3 - 0",
     "time": "19:00"
   },
   {
@@ -243,7 +243,7 @@
     "match_id": "567269",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Famalicão",
       "logo": "https://crests.football-data.org/5531.png"
@@ -252,7 +252,7 @@
       "name": "Marítimo",
       "logo": "https://crests.football-data.org/5575.png"
     },
-    "score": "1 - 1",
+    "score": "1 - 2",
     "time": "19:30"
   },
   {
