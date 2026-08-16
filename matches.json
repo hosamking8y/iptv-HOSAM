@@ -44,7 +44,7 @@
       "name": "Zwolle",
       "logo": "https://crests.football-data.org/684.png"
     },
-    "score": "2 - 1",
+    "score": "3 - 1",
     "time": "12:30"
   },
   {
@@ -76,14 +76,14 @@
       "name": "Go Ahead",
       "logo": "https://crests.football-data.org/718.png"
     },
-    "score": "2 - 1",
+    "score": "2 - 2",
     "time": "12:30"
   },
   {
     "match_id": "554962",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "2026-08-16 13:00:00Z",
+    "status": "LIVE",
     "team_a": {
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
@@ -92,7 +92,7 @@
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "14:00"
   },
   {
@@ -160,22 +160,6 @@
     "time": "15:00"
   },
   {
-    "match_id": "567272",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-16",
-    "status": "2026-08-16 16:00:00Z",
-    "team_a": {
-      "name": "Arouca",
-      "logo": "https://crests.football-data.org/712.png"
-    },
-    "team_b": {
-      "name": "Moreirense",
-      "logo": "https://crests.football-data.org/583.png"
-    },
-    "score": "vs",
-    "time": "17:00"
-  },
-  {
     "match_id": "564632",
     "tournament": "Primera Division",
     "date": "2026-08-16",
@@ -187,6 +171,22 @@
     "team_b": {
       "name": "Levante",
       "logo": "https://crests.football-data.org/88.png"
+    },
+    "score": "vs",
+    "time": "17:00"
+  },
+  {
+    "match_id": "567272",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-16",
+    "status": "2026-08-16 16:00:00Z",
+    "team_a": {
+      "name": "Arouca",
+      "logo": "https://crests.football-data.org/712.png"
+    },
+    "team_b": {
+      "name": "Moreirense",
+      "logo": "https://crests.football-data.org/583.png"
     },
     "score": "vs",
     "time": "17:00"
@@ -224,22 +224,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "567269",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-16",
-    "status": "2026-08-16 18:30:00Z",
-    "team_a": {
-      "name": "Famalicão",
-      "logo": "https://crests.football-data.org/5531.png"
-    },
-    "team_b": {
-      "name": "Marítimo",
-      "logo": "https://crests.football-data.org/5575.png"
-    },
-    "score": "vs",
-    "time": "19:30"
-  },
-  {
     "match_id": "567271",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
@@ -251,6 +235,22 @@
     "team_b": {
       "name": "Gil Vicente",
       "logo": "https://crests.football-data.org/5533.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "567269",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-16",
+    "status": "2026-08-16 18:30:00Z",
+    "team_a": {
+      "name": "Famalicão",
+      "logo": "https://crests.football-data.org/5531.png"
+    },
+    "team_b": {
+      "name": "Marítimo",
+      "logo": "https://crests.football-data.org/5575.png"
     },
     "score": "vs",
     "time": "19:30"
