@@ -32,17 +32,17 @@
     "time": "10:15"
   },
   {
-    "match_id": "561770",
-    "tournament": "Championship",
+    "match_id": "558230",
+    "tournament": "Eredivisie",
     "date": "2026-08-16",
     "status": "TIMED",
     "team_a": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
+      "name": "Twente",
+      "logo": "https://crests.football-data.org/666.png"
     },
     "team_b": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
+      "name": "Zwolle",
+      "logo": "https://crests.football-data.org/684.png"
     },
     "score": "vs",
     "time": "12:30"
@@ -64,17 +64,17 @@
     "time": "12:30"
   },
   {
-    "match_id": "558230",
-    "tournament": "Eredivisie",
+    "match_id": "561770",
+    "tournament": "Championship",
     "date": "2026-08-16",
     "status": "TIMED",
     "team_a": {
-      "name": "Twente",
-      "logo": "https://crests.football-data.org/666.png"
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
     },
     "team_b": {
-      "name": "Zwolle",
-      "logo": "https://crests.football-data.org/684.png"
+      "name": "Southampton",
+      "logo": "https://crests.football-data.org/340.png"
     },
     "score": "vs",
     "time": "12:30"
@@ -128,22 +128,6 @@
     "time": "14:45"
   },
   {
-    "match_id": "564629",
-    "tournament": "Primera Division",
-    "date": "2026-08-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Santander",
-      "logo": "https://crests.football-data.org/5335.png"
-    },
-    "team_b": {
-      "name": "Villarreal",
-      "logo": "https://crests.football-data.org/94.png"
-    },
-    "score": "vs",
-    "time": "15:00"
-  },
-  {
     "match_id": "561771",
     "tournament": "Championship",
     "date": "2026-08-16",
@@ -155,6 +139,22 @@
     "team_b": {
       "name": "West Ham",
       "logo": "https://crests.football-data.org/563.png"
+    },
+    "score": "vs",
+    "time": "15:00"
+  },
+  {
+    "match_id": "564629",
+    "tournament": "Primera Division",
+    "date": "2026-08-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Santander",
+      "logo": "https://crests.football-data.org/5335.png"
+    },
+    "team_b": {
+      "name": "Villarreal",
+      "logo": "https://crests.football-data.org/94.png"
     },
     "score": "vs",
     "time": "15:00"
@@ -192,22 +192,6 @@
     "time": "17:00"
   },
   {
-    "match_id": "554968",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
-    },
-    "team_b": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "554961",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
@@ -219,6 +203,22 @@
     "team_b": {
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554968",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
+    },
+    "team_b": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -256,22 +256,6 @@
     "time": "19:30"
   },
   {
-    "match_id": "554966",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Mirassol",
-      "logo": "https://crests.football-data.org/4364.png"
-    },
-    "team_b": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
     "match_id": "554969",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554966",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
+    },
+    "team_b": {
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
     },
     "score": "vs",
     "time": "21:30"
