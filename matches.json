@@ -44,7 +44,23 @@
       "name": "Zwolle",
       "logo": "https://crests.football-data.org/684.png"
     },
-    "score": "1 - 1",
+    "score": "2 - 1",
+    "time": "12:30"
+  },
+  {
+    "match_id": "561770",
+    "tournament": "Championship",
+    "date": "2026-08-16",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
+    },
+    "team_b": {
+      "name": "Southampton",
+      "logo": "https://crests.football-data.org/340.png"
+    },
+    "score": "2 - 1",
     "time": "12:30"
   },
   {
@@ -60,23 +76,7 @@
       "name": "Go Ahead",
       "logo": "https://crests.football-data.org/718.png"
     },
-    "score": "2 - 0",
-    "time": "12:30"
-  },
-  {
-    "match_id": "561770",
-    "tournament": "Championship",
-    "date": "2026-08-16",
-    "status": "PAUSED",
-    "team_a": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
-    },
-    "team_b": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
-    },
-    "score": "2 - 0",
+    "score": "2 - 1",
     "time": "12:30"
   },
   {
@@ -99,7 +99,7 @@
     "match_id": "567270",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 13:30:00Z",
     "team_a": {
       "name": "CD Nacional",
       "logo": "https://crests.football-data.org/5529.png"
@@ -160,6 +160,22 @@
     "time": "15:00"
   },
   {
+    "match_id": "567272",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-16",
+    "status": "2026-08-16 16:00:00Z",
+    "team_a": {
+      "name": "Arouca",
+      "logo": "https://crests.football-data.org/712.png"
+    },
+    "team_b": {
+      "name": "Moreirense",
+      "logo": "https://crests.football-data.org/583.png"
+    },
+    "score": "vs",
+    "time": "17:00"
+  },
+  {
     "match_id": "564632",
     "tournament": "Primera Division",
     "date": "2026-08-16",
@@ -171,22 +187,6 @@
     "team_b": {
       "name": "Levante",
       "logo": "https://crests.football-data.org/88.png"
-    },
-    "score": "vs",
-    "time": "17:00"
-  },
-  {
-    "match_id": "567272",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Arouca",
-      "logo": "https://crests.football-data.org/712.png"
-    },
-    "team_b": {
-      "name": "Moreirense",
-      "logo": "https://crests.football-data.org/583.png"
     },
     "score": "vs",
     "time": "17:00"
@@ -227,7 +227,7 @@
     "match_id": "567269",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 18:30:00Z",
     "team_a": {
       "name": "Famalicão",
       "logo": "https://crests.football-data.org/5531.png"
@@ -243,7 +243,7 @@
     "match_id": "567271",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 18:30:00Z",
     "team_a": {
       "name": "Braga",
       "logo": "https://crests.football-data.org/5613.png"
