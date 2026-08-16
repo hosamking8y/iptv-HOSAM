@@ -16,6 +16,22 @@
     "time": "00:00"
   },
   {
+    "match_id": "567271",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-16",
+    "status": "POSTPONED",
+    "team_a": {
+      "name": "Braga",
+      "logo": "https://crests.football-data.org/5613.png"
+    },
+    "team_b": {
+      "name": "Gil Vicente",
+      "logo": "https://crests.football-data.org/5533.png"
+    },
+    "score": "vs",
+    "time": "00:00"
+  },
+  {
     "match_id": "558228",
     "tournament": "Eredivisie",
     "date": "2026-08-16",
@@ -48,22 +64,6 @@
     "time": "12:30"
   },
   {
-    "match_id": "561770",
-    "tournament": "Championship",
-    "date": "2026-08-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
-    },
-    "team_b": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
-    },
-    "score": "2 - 1",
-    "time": "12:30"
-  },
-  {
     "match_id": "558229",
     "tournament": "Eredivisie",
     "date": "2026-08-16",
@@ -77,6 +77,22 @@
       "logo": "https://crests.football-data.org/718.png"
     },
     "score": "2 - 2",
+    "time": "12:30"
+  },
+  {
+    "match_id": "561770",
+    "tournament": "Championship",
+    "date": "2026-08-16",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
+    },
+    "team_b": {
+      "name": "Southampton",
+      "logo": "https://crests.football-data.org/340.png"
+    },
+    "score": "2 - 1",
     "time": "12:30"
   },
   {
@@ -172,7 +188,7 @@
       "name": "Levante",
       "logo": "https://crests.football-data.org/88.png"
     },
-    "score": "1 - 0",
+    "score": "2 - 0",
     "time": "17:00"
   },
   {
@@ -188,7 +204,7 @@
       "name": "Moreirense",
       "logo": "https://crests.football-data.org/583.png"
     },
-    "score": "1 - 0",
+    "score": "3 - 0",
     "time": "17:00"
   },
   {
@@ -222,22 +238,6 @@
     },
     "score": "vs",
     "time": "19:00"
-  },
-  {
-    "match_id": "567271",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-16",
-    "status": "2026-08-16 18:30:00Z",
-    "team_a": {
-      "name": "Braga",
-      "logo": "https://crests.football-data.org/5613.png"
-    },
-    "team_b": {
-      "name": "Gil Vicente",
-      "logo": "https://crests.football-data.org/5533.png"
-    },
-    "score": "vs",
-    "time": "19:30"
   },
   {
     "match_id": "567269",
