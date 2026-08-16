@@ -48,22 +48,6 @@
     "time": "10:15"
   },
   {
-    "match_id": "558229",
-    "tournament": "Eredivisie",
-    "date": "2026-08-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "team_b": {
-      "name": "Go Ahead",
-      "logo": "https://crests.football-data.org/718.png"
-    },
-    "score": "2 - 2",
-    "time": "12:30"
-  },
-  {
     "match_id": "561770",
     "tournament": "Championship",
     "date": "2026-08-16",
@@ -77,6 +61,22 @@
       "logo": "https://crests.football-data.org/340.png"
     },
     "score": "2 - 1",
+    "time": "12:30"
+  },
+  {
+    "match_id": "558229",
+    "tournament": "Eredivisie",
+    "date": "2026-08-16",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
+    },
+    "team_b": {
+      "name": "Go Ahead",
+      "logo": "https://crests.football-data.org/718.png"
+    },
+    "score": "2 - 2",
     "time": "12:30"
   },
   {
@@ -259,7 +259,7 @@
     "match_id": "554966",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
@@ -275,7 +275,7 @@
     "match_id": "554969",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
@@ -284,7 +284,7 @@
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
     },
-    "score": "2 - 0",
+    "score": "1 - 0",
     "time": "21:30"
   },
   {
