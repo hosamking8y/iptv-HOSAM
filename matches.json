@@ -3,7 +3,7 @@
     "match_id": "554967",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "FINISHED",
+    "status": "2026-08-15 23:00:00Z",
     "team_a": {
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
@@ -35,7 +35,7 @@
     "match_id": "558230",
     "tournament": "Eredivisie",
     "date": "2026-08-16",
-    "status": "LIVE",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Twente",
       "logo": "https://crests.football-data.org/666.png"
@@ -44,14 +44,14 @@
       "name": "Zwolle",
       "logo": "https://crests.football-data.org/684.png"
     },
-    "score": "0 - 1",
+    "score": "1 - 1",
     "time": "12:30"
   },
   {
     "match_id": "558229",
     "tournament": "Eredivisie",
     "date": "2026-08-16",
-    "status": "IN_PLAY",
+    "status": "LIVE",
     "team_a": {
       "name": "Feyenoord",
       "logo": "https://crests.football-data.org/675.png"
@@ -60,14 +60,14 @@
       "name": "Go Ahead",
       "logo": "https://crests.football-data.org/718.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 0",
     "time": "12:30"
   },
   {
     "match_id": "561770",
     "tournament": "Championship",
     "date": "2026-08-16",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Watford",
       "logo": "https://crests.football-data.org/346.png"
@@ -83,7 +83,7 @@
     "match_id": "554962",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 13:00:00Z",
     "team_a": {
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
@@ -195,7 +195,7 @@
     "match_id": "554961",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 18:00:00Z",
     "team_a": {
       "name": "Mineiro",
       "logo": "https://crests.football-data.org/1766.png"
@@ -211,7 +211,7 @@
     "match_id": "554968",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 18:00:00Z",
     "team_a": {
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
@@ -259,7 +259,7 @@
     "match_id": "554969",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 20:30:00Z",
     "team_a": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
@@ -275,7 +275,7 @@
     "match_id": "554966",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 20:30:00Z",
     "team_a": {
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
@@ -291,7 +291,7 @@
     "match_id": "554963",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "TIMED",
+    "status": "2026-08-16 21:30:00Z",
     "team_a": {
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
