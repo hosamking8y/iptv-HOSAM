@@ -48,22 +48,6 @@
     "time": "10:15"
   },
   {
-    "match_id": "558230",
-    "tournament": "Eredivisie",
-    "date": "2026-08-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Twente",
-      "logo": "https://crests.football-data.org/666.png"
-    },
-    "team_b": {
-      "name": "Zwolle",
-      "logo": "https://crests.football-data.org/684.png"
-    },
-    "score": "3 - 1",
-    "time": "12:30"
-  },
-  {
     "match_id": "558229",
     "tournament": "Eredivisie",
     "date": "2026-08-16",
@@ -77,6 +61,22 @@
       "logo": "https://crests.football-data.org/718.png"
     },
     "score": "2 - 2",
+    "time": "12:30"
+  },
+  {
+    "match_id": "558230",
+    "tournament": "Eredivisie",
+    "date": "2026-08-16",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Twente",
+      "logo": "https://crests.football-data.org/666.png"
+    },
+    "team_b": {
+      "name": "Zwolle",
+      "logo": "https://crests.football-data.org/684.png"
+    },
+    "score": "3 - 1",
     "time": "12:30"
   },
   {
@@ -227,7 +227,7 @@
     "match_id": "554968",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "PAUSED",
+    "status": "LIVE",
     "team_a": {
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
@@ -243,7 +243,7 @@
     "match_id": "567269",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
-    "status": "LIVE",
+    "status": "PAUSED",
     "team_a": {
       "name": "Famalicão",
       "logo": "https://crests.football-data.org/5531.png"
