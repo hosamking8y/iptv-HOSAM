@@ -99,7 +99,7 @@
     "match_id": "567270",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "CD Nacional",
       "logo": "https://crests.football-data.org/5529.png"
@@ -115,7 +115,7 @@
     "match_id": "558231",
     "tournament": "Eredivisie",
     "date": "2026-08-16",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Ajax",
       "logo": "https://crests.football-data.org/678.png"
@@ -131,7 +131,7 @@
     "match_id": "561771",
     "tournament": "Championship",
     "date": "2026-08-16",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Burnley",
       "logo": "https://crests.football-data.org/328.png"
@@ -156,24 +156,8 @@
       "name": "Villarreal",
       "logo": "https://crests.football-data.org/94.png"
     },
-    "score": "2 - 0",
+    "score": "2 - 2",
     "time": "15:00"
-  },
-  {
-    "match_id": "564632",
-    "tournament": "Primera Division",
-    "date": "2026-08-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Espanyol",
-      "logo": "https://crests.football-data.org/80.png"
-    },
-    "team_b": {
-      "name": "Levante",
-      "logo": "https://crests.football-data.org/88.png"
-    },
-    "score": "vs",
-    "time": "17:00"
   },
   {
     "match_id": "567272",
@@ -187,6 +171,22 @@
     "team_b": {
       "name": "Moreirense",
       "logo": "https://crests.football-data.org/583.png"
+    },
+    "score": "vs",
+    "time": "17:00"
+  },
+  {
+    "match_id": "564632",
+    "tournament": "Primera Division",
+    "date": "2026-08-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Espanyol",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "team_b": {
+      "name": "Levante",
+      "logo": "https://crests.football-data.org/88.png"
     },
     "score": "vs",
     "time": "17:00"
@@ -224,22 +224,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "567271",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-16",
-    "status": "2026-08-16 18:30:00Z",
-    "team_a": {
-      "name": "Braga",
-      "logo": "https://crests.football-data.org/5613.png"
-    },
-    "team_b": {
-      "name": "Gil Vicente",
-      "logo": "https://crests.football-data.org/5533.png"
-    },
-    "score": "vs",
-    "time": "19:30"
-  },
-  {
     "match_id": "567269",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
@@ -251,6 +235,22 @@
     "team_b": {
       "name": "Marítimo",
       "logo": "https://crests.football-data.org/5575.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "567271",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-16",
+    "status": "2026-08-16 18:30:00Z",
+    "team_a": {
+      "name": "Braga",
+      "logo": "https://crests.football-data.org/5613.png"
+    },
+    "team_b": {
+      "name": "Gil Vicente",
+      "logo": "https://crests.football-data.org/5533.png"
     },
     "score": "vs",
     "time": "19:30"
