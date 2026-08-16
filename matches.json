@@ -64,22 +64,6 @@
     "time": "12:30"
   },
   {
-    "match_id": "558229",
-    "tournament": "Eredivisie",
-    "date": "2026-08-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "team_b": {
-      "name": "Go Ahead",
-      "logo": "https://crests.football-data.org/718.png"
-    },
-    "score": "2 - 2",
-    "time": "12:30"
-  },
-  {
     "match_id": "561770",
     "tournament": "Championship",
     "date": "2026-08-16",
@@ -93,6 +77,22 @@
       "logo": "https://crests.football-data.org/340.png"
     },
     "score": "2 - 1",
+    "time": "12:30"
+  },
+  {
+    "match_id": "558229",
+    "tournament": "Eredivisie",
+    "date": "2026-08-16",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
+    },
+    "team_b": {
+      "name": "Go Ahead",
+      "logo": "https://crests.football-data.org/718.png"
+    },
+    "score": "2 - 2",
     "time": "12:30"
   },
   {
@@ -176,22 +176,6 @@
     "time": "15:00"
   },
   {
-    "match_id": "567272",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Arouca",
-      "logo": "https://crests.football-data.org/712.png"
-    },
-    "team_b": {
-      "name": "Moreirense",
-      "logo": "https://crests.football-data.org/583.png"
-    },
-    "score": "4 - 0",
-    "time": "17:00"
-  },
-  {
     "match_id": "564632",
     "tournament": "Primera Division",
     "date": "2026-08-16",
@@ -205,6 +189,22 @@
       "logo": "https://crests.football-data.org/88.png"
     },
     "score": "3 - 0",
+    "time": "17:00"
+  },
+  {
+    "match_id": "567272",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-16",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Arouca",
+      "logo": "https://crests.football-data.org/712.png"
+    },
+    "team_b": {
+      "name": "Moreirense",
+      "logo": "https://crests.football-data.org/583.png"
+    },
+    "score": "4 - 0",
     "time": "17:00"
   },
   {
@@ -284,7 +284,7 @@
       "name": "Flamengo",
       "logo": "https://crests.football-data.org/1783.png"
     },
-    "score": "0 - 3",
+    "score": "0 - 5",
     "time": "21:30"
   },
   {
