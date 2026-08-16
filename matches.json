@@ -160,22 +160,6 @@
     "time": "15:00"
   },
   {
-    "match_id": "567272",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Arouca",
-      "logo": "https://crests.football-data.org/712.png"
-    },
-    "team_b": {
-      "name": "Moreirense",
-      "logo": "https://crests.football-data.org/583.png"
-    },
-    "score": "vs",
-    "time": "17:00"
-  },
-  {
     "match_id": "564632",
     "tournament": "Primera Division",
     "date": "2026-08-16",
@@ -187,6 +171,22 @@
     "team_b": {
       "name": "Levante",
       "logo": "https://crests.football-data.org/88.png"
+    },
+    "score": "vs",
+    "time": "17:00"
+  },
+  {
+    "match_id": "567272",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Arouca",
+      "logo": "https://crests.football-data.org/712.png"
+    },
+    "team_b": {
+      "name": "Moreirense",
+      "logo": "https://crests.football-data.org/583.png"
     },
     "score": "vs",
     "time": "17:00"
