@@ -19,7 +19,7 @@
     "match_id": "558228",
     "tournament": "Eredivisie",
     "date": "2026-08-16",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
@@ -48,22 +48,6 @@
     "time": "12:30"
   },
   {
-    "match_id": "558229",
-    "tournament": "Eredivisie",
-    "date": "2026-08-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "team_b": {
-      "name": "Go Ahead",
-      "logo": "https://crests.football-data.org/718.png"
-    },
-    "score": "vs",
-    "time": "12:30"
-  },
-  {
     "match_id": "561770",
     "tournament": "Championship",
     "date": "2026-08-16",
@@ -75,6 +59,22 @@
     "team_b": {
       "name": "Southampton",
       "logo": "https://crests.football-data.org/340.png"
+    },
+    "score": "vs",
+    "time": "12:30"
+  },
+  {
+    "match_id": "558229",
+    "tournament": "Eredivisie",
+    "date": "2026-08-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
+    },
+    "team_b": {
+      "name": "Go Ahead",
+      "logo": "https://crests.football-data.org/718.png"
     },
     "score": "vs",
     "time": "12:30"
@@ -224,22 +224,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "567269",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Famalicão",
-      "logo": "https://crests.football-data.org/5531.png"
-    },
-    "team_b": {
-      "name": "Marítimo",
-      "logo": "https://crests.football-data.org/5575.png"
-    },
-    "score": "vs",
-    "time": "19:30"
-  },
-  {
     "match_id": "567271",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
@@ -251,6 +235,22 @@
     "team_b": {
       "name": "Gil Vicente",
       "logo": "https://crests.football-data.org/5533.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "567269",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Famalicão",
+      "logo": "https://crests.football-data.org/5531.png"
+    },
+    "team_b": {
+      "name": "Marítimo",
+      "logo": "https://crests.football-data.org/5575.png"
     },
     "score": "vs",
     "time": "19:30"
