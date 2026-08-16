@@ -243,7 +243,7 @@
     "match_id": "567269",
     "tournament": "Primeira Liga",
     "date": "2026-08-16",
-    "status": "2026-08-16 18:30:00Z",
+    "status": "LIVE",
     "team_a": {
       "name": "Famalicão",
       "logo": "https://crests.football-data.org/5531.png"
@@ -252,14 +252,14 @@
       "name": "Marítimo",
       "logo": "https://crests.football-data.org/5575.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "19:30"
   },
   {
     "match_id": "554966",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "2026-08-16 20:30:00Z",
+    "status": "TIMED",
     "team_a": {
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
@@ -275,7 +275,7 @@
     "match_id": "554969",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-16",
-    "status": "2026-08-16 20:30:00Z",
+    "status": "TIMED",
     "team_a": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
