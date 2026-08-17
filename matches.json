@@ -3,7 +3,7 @@
     "match_id": "564635",
     "tournament": "Primera Division",
     "date": "2026-08-17",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Deportivo",
       "logo": "https://crests.football-data.org/560.png"
@@ -19,7 +19,7 @@
     "match_id": "561772",
     "tournament": "Championship",
     "date": "2026-08-17",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Cardiff",
       "logo": "https://crests.football-data.org/715.png"
@@ -35,7 +35,7 @@
     "match_id": "567267",
     "tournament": "Primeira Liga",
     "date": "2026-08-17",
-    "status": "LIVE",
+    "status": "PAUSED",
     "team_a": {
       "name": "Casa Pia",
       "logo": "https://crests.football-data.org/6618.png"
