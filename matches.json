@@ -19,7 +19,7 @@
     "match_id": "564628",
     "tournament": "Primera Division",
     "date": "2026-08-19",
-    "status": "PAUSED",
+    "status": "LIVE",
     "team_a": {
       "name": "Atleti",
       "logo": "https://crests.football-data.org/78.png"
@@ -28,24 +28,8 @@
       "name": "Málaga",
       "logo": "https://crests.football-data.org/84.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "19:00"
-  },
-  {
-    "match_id": "564466",
-    "tournament": "Copa Libertadores",
-    "date": "2026-08-19",
-    "status": "SCHEDULED",
-    "team_a": {
-      "name": "Cerro Porteño",
-      "logo": "https://crests.football-data.org/9373.png"
-    },
-    "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "vs",
-    "time": "22:00"
   },
   {
     "match_id": "564467",
@@ -59,6 +43,22 @@
     "team_b": {
       "name": "Platense",
       "logo": "https://crests.football-data.org/7580.png"
+    },
+    "score": "vs",
+    "time": "22:00"
+  },
+  {
+    "match_id": "564466",
+    "tournament": "Copa Libertadores",
+    "date": "2026-08-19",
+    "status": "SCHEDULED",
+    "team_a": {
+      "name": "Cerro Porteño",
+      "logo": "https://crests.football-data.org/9373.png"
+    },
+    "team_b": {
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
     "score": "vs",
     "time": "22:00"
