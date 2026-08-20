@@ -1,64 +1,48 @@
 [
   {
-    "match_id": "564465",
+    "match_id": "564468",
     "tournament": "Copa Libertadores",
-    "date": "2026-08-19",
-    "status": "FINISHED",
+    "date": "2026-08-20",
+    "status": "SCHEDULED",
     "team_a": {
-      "name": "Univ Católica",
-      "logo": "https://crests.football-data.org/6993.png"
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
     },
     "team_b": {
-      "name": "Estudiantes LP",
-      "logo": "https://crests.football-data.org/2051.png"
+      "name": "Cruzeiro",
+      "logo": "https://crests.football-data.org/1771.png"
     },
-    "score": "0 - 3",
+    "score": "vs",
     "time": "00:30"
   },
   {
-    "match_id": "564628",
+    "match_id": "564638",
     "tournament": "Primera Division",
-    "date": "2026-08-19",
-    "status": "FINISHED",
+    "date": "2026-08-20",
+    "status": "TIMED",
     "team_a": {
-      "name": "Atleti",
-      "logo": "https://crests.football-data.org/78.png"
+      "name": "Rayo Vallecano",
+      "logo": "https://crests.football-data.org/87.png"
     },
     "team_b": {
-      "name": "Málaga",
-      "logo": "https://crests.football-data.org/84.png"
+      "name": "Alavés",
+      "logo": "https://crests.football-data.org/263.png"
     },
-    "score": "2 - 0",
+    "score": "vs",
     "time": "19:00"
   },
   {
-    "match_id": "564466",
+    "match_id": "564469",
     "tournament": "Copa Libertadores",
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "status": "SCHEDULED",
     "team_a": {
-      "name": "Cerro Porteño",
-      "logo": "https://crests.football-data.org/9373.png"
+      "name": "LDU de Quito",
+      "logo": "https://crests.football-data.org/4528.png"
     },
     "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "vs",
-    "time": "22:00"
-  },
-  {
-    "match_id": "564467",
-    "tournament": "Copa Libertadores",
-    "date": "2026-08-19",
-    "status": "SCHEDULED",
-    "team_a": {
-      "name": "Coquimbo Unido",
-      "logo": "https://crests.football-data.org/7912.png"
-    },
-    "team_b": {
-      "name": "Platense",
-      "logo": "https://crests.football-data.org/7580.png"
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
     },
     "score": "vs",
     "time": "22:00"
