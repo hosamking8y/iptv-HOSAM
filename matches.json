@@ -19,7 +19,7 @@
     "match_id": "564638",
     "tournament": "Primera Division",
     "date": "2026-08-20",
-    "status": "LIVE",
+    "status": "PAUSED",
     "team_a": {
       "name": "Rayo Vallecano",
       "logo": "https://crests.football-data.org/87.png"
@@ -28,7 +28,7 @@
       "name": "Alavés",
       "logo": "https://crests.football-data.org/263.png"
     },
-    "score": "1 - 0",
+    "score": "0 - 0",
     "time": "19:00"
   },
   {
