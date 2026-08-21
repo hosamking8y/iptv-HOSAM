@@ -28,8 +28,24 @@
       "name": "Strasbourg",
       "logo": "https://crests.football-data.org/576.png"
     },
-    "score": "1 - 0",
+    "score": "3 - 0",
     "time": "18:45"
+  },
+  {
+    "match_id": "564647",
+    "tournament": "Primera Division",
+    "date": "2026-08-21",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Real Betis",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "team_b": {
+      "name": "Real Sociedad",
+      "logo": "https://crests.football-data.org/92.png"
+    },
+    "score": "1 - 0",
+    "time": "19:00"
   },
   {
     "match_id": "560542",
@@ -45,22 +61,6 @@
       "logo": "https://crests.football-data.org/1076.png"
     },
     "score": "3 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "564647",
-    "tournament": "Primera Division",
-    "date": "2026-08-21",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "team_b": {
-      "name": "Real Sociedad",
-      "logo": "https://crests.football-data.org/92.png"
-    },
-    "score": "0 - 0",
     "time": "19:00"
   },
   {
