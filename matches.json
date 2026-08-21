@@ -32,22 +32,6 @@
     "time": "18:45"
   },
   {
-    "match_id": "560542",
-    "tournament": "Premier League",
-    "date": "2026-08-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
-    },
-    "team_b": {
-      "name": "Coventry City",
-      "logo": "https://crests.football-data.org/1076.png"
-    },
-    "score": "3 - 0",
-    "time": "19:00"
-  },
-  {
     "match_id": "564647",
     "tournament": "Primera Division",
     "date": "2026-08-21",
@@ -61,6 +45,22 @@
       "logo": "https://crests.football-data.org/92.png"
     },
     "score": "1 - 0",
+    "time": "19:00"
+  },
+  {
+    "match_id": "560542",
+    "tournament": "Premier League",
+    "date": "2026-08-21",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Arsenal",
+      "logo": "https://crests.football-data.org/57.png"
+    },
+    "team_b": {
+      "name": "Coventry City",
+      "logo": "https://crests.football-data.org/1076.png"
+    },
+    "score": "3 - 0",
     "time": "19:00"
   },
   {
