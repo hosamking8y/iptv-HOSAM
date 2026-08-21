@@ -19,7 +19,7 @@
     "match_id": "559715",
     "tournament": "Ligue 1",
     "date": "2026-08-21",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Marseille",
       "logo": "https://crests.football-data.org/516.png"
@@ -28,8 +28,24 @@
       "name": "Strasbourg",
       "logo": "https://crests.football-data.org/576.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "18:45"
+  },
+  {
+    "match_id": "560542",
+    "tournament": "Premier League",
+    "date": "2026-08-21",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Arsenal",
+      "logo": "https://crests.football-data.org/57.png"
+    },
+    "team_b": {
+      "name": "Coventry City",
+      "logo": "https://crests.football-data.org/1076.png"
+    },
+    "score": "3 - 0",
+    "time": "19:00"
   },
   {
     "match_id": "564647",
@@ -45,22 +61,6 @@
       "logo": "https://crests.football-data.org/92.png"
     },
     "score": "0 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "560542",
-    "tournament": "Premier League",
-    "date": "2026-08-21",
-    "status": "PAUSED",
-    "team_a": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
-    },
-    "team_b": {
-      "name": "Coventry City",
-      "logo": "https://crests.football-data.org/1076.png"
-    },
-    "score": "2 - 0",
     "time": "19:00"
   },
   {
