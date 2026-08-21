@@ -19,7 +19,7 @@
     "match_id": "559715",
     "tournament": "Ligue 1",
     "date": "2026-08-21",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Marseille",
       "logo": "https://crests.football-data.org/516.png"
@@ -28,7 +28,7 @@
       "name": "Strasbourg",
       "logo": "https://crests.football-data.org/576.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "18:45"
   },
   {
