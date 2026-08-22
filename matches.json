@@ -80,22 +80,6 @@
     "time": "11:30"
   },
   {
-    "match_id": "561783",
-    "tournament": "Championship",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "QPR",
-      "logo": "https://crests.football-data.org/69.png"
-    },
-    "team_b": {
-      "name": "Bolton",
-      "logo": "https://crests.football-data.org/60.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
     "match_id": "561779",
     "tournament": "Championship",
     "date": "2026-08-22",
@@ -176,17 +160,17 @@
     "time": "14:00"
   },
   {
-    "match_id": "561778",
+    "match_id": "561783",
     "tournament": "Championship",
     "date": "2026-08-22",
     "status": "TIMED",
     "team_a": {
-      "name": "Preston NE",
-      "logo": "https://crests.football-data.org/1081.png"
+      "name": "QPR",
+      "logo": "https://crests.football-data.org/69.png"
     },
     "team_b": {
-      "name": "Wolverhampton",
-      "logo": "https://crests.football-data.org/76.png"
+      "name": "Bolton",
+      "logo": "https://crests.football-data.org/60.png"
     },
     "score": "vs",
     "time": "14:00"
@@ -256,6 +240,22 @@
     "time": "14:00"
   },
   {
+    "match_id": "561778",
+    "tournament": "Championship",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Preston NE",
+      "logo": "https://crests.football-data.org/1081.png"
+    },
+    "team_b": {
+      "name": "Wolverhampton",
+      "logo": "https://crests.football-data.org/76.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
     "match_id": "567283",
     "tournament": "Primeira Liga",
     "date": "2026-08-22",
@@ -320,6 +320,22 @@
     "time": "15:15"
   },
   {
+    "match_id": "558632",
+    "tournament": "Serie A",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Inter",
+      "logo": "https://crests.football-data.org/108.png"
+    },
+    "team_b": {
+      "name": "Monza",
+      "logo": "https://crests.football-data.org/5911.png"
+    },
+    "score": "vs",
+    "time": "16:30"
+  },
+  {
     "match_id": "558629",
     "tournament": "Serie A",
     "date": "2026-08-22",
@@ -347,22 +363,6 @@
     "team_b": {
       "name": "Tottenham",
       "logo": "https://crests.football-data.org/73.png"
-    },
-    "score": "vs",
-    "time": "16:30"
-  },
-  {
-    "match_id": "558632",
-    "tournament": "Serie A",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
-    },
-    "team_b": {
-      "name": "Monza",
-      "logo": "https://crests.football-data.org/5911.png"
     },
     "score": "vs",
     "time": "16:30"
@@ -414,22 +414,6 @@
     },
     "score": "vs",
     "time": "17:30"
-  },
-  {
-    "match_id": "559718",
-    "tournament": "Ligue 1",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Toulouse",
-      "logo": "https://crests.football-data.org/511.png"
-    },
-    "team_b": {
-      "name": "Olympique Lyon",
-      "logo": "https://crests.football-data.org/523.png"
-    },
-    "score": "vs",
-    "time": "18:45"
   },
   {
     "match_id": "559711",
@@ -491,6 +475,22 @@
     "team_b": {
       "name": "Cagliari",
       "logo": "https://crests.football-data.org/104.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "559718",
+    "tournament": "Ligue 1",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Toulouse",
+      "logo": "https://crests.football-data.org/511.png"
+    },
+    "team_b": {
+      "name": "Olympique Lyon",
+      "logo": "https://crests.football-data.org/523.png"
     },
     "score": "vs",
     "time": "18:45"
