@@ -80,6 +80,38 @@
     "time": "11:30"
   },
   {
+    "match_id": "561782",
+    "tournament": "Championship",
+    "date": "2026-08-22",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Southampton",
+      "logo": "https://crests.football-data.org/340.png"
+    },
+    "team_b": {
+      "name": "Stoke",
+      "logo": "https://crests.football-data.org/70.png"
+    },
+    "score": "3 - 1",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561778",
+    "tournament": "Championship",
+    "date": "2026-08-22",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Preston NE",
+      "logo": "https://crests.football-data.org/1081.png"
+    },
+    "team_b": {
+      "name": "Wolverhampton",
+      "logo": "https://crests.football-data.org/76.png"
+    },
+    "score": "1 - 3",
+    "time": "14:00"
+  },
+  {
     "match_id": "561780",
     "tournament": "Championship",
     "date": "2026-08-22",
@@ -125,70 +157,6 @@
       "logo": "https://crests.football-data.org/341.png"
     },
     "score": "0 - 1",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561782",
-    "tournament": "Championship",
-    "date": "2026-08-22",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
-    },
-    "team_b": {
-      "name": "Stoke",
-      "logo": "https://crests.football-data.org/70.png"
-    },
-    "score": "3 - 1",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561778",
-    "tournament": "Championship",
-    "date": "2026-08-22",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Preston NE",
-      "logo": "https://crests.football-data.org/1081.png"
-    },
-    "team_b": {
-      "name": "Wolverhampton",
-      "logo": "https://crests.football-data.org/76.png"
-    },
-    "score": "1 - 3",
-    "time": "14:00"
-  },
-  {
-    "match_id": "560544",
-    "tournament": "Premier League",
-    "date": "2026-08-22",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Ipswich Town",
-      "logo": "https://crests.football-data.org/349.png"
-    },
-    "team_b": {
-      "name": "Sunderland",
-      "logo": "https://crests.football-data.org/71.png"
-    },
-    "score": "2 - 1",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561777",
-    "tournament": "Championship",
-    "date": "2026-08-22",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Derby County",
-      "logo": "https://crests.football-data.org/342.png"
-    },
-    "team_b": {
-      "name": "Cardiff",
-      "logo": "https://crests.football-data.org/715.png"
-    },
-    "score": "2 - 2",
     "time": "14:00"
   },
   {
@@ -256,6 +224,38 @@
     "time": "14:00"
   },
   {
+    "match_id": "560544",
+    "tournament": "Premier League",
+    "date": "2026-08-22",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Ipswich Town",
+      "logo": "https://crests.football-data.org/349.png"
+    },
+    "team_b": {
+      "name": "Sunderland",
+      "logo": "https://crests.football-data.org/71.png"
+    },
+    "score": "2 - 1",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561777",
+    "tournament": "Championship",
+    "date": "2026-08-22",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Derby County",
+      "logo": "https://crests.football-data.org/342.png"
+    },
+    "team_b": {
+      "name": "Cardiff",
+      "logo": "https://crests.football-data.org/715.png"
+    },
+    "score": "2 - 2",
+    "time": "14:00"
+  },
+  {
     "match_id": "558232",
     "tournament": "Eredivisie",
     "date": "2026-08-22",
@@ -291,7 +291,7 @@
     "match_id": "564641",
     "tournament": "Primera Division",
     "date": "2026-08-22",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Athletic",
       "logo": "https://crests.football-data.org/77.png"
@@ -316,24 +316,8 @@
       "name": "Auxerre",
       "logo": "https://crests.football-data.org/519.png"
     },
-    "score": "4 - 2",
+    "score": "5 - 2",
     "time": "15:15"
-  },
-  {
-    "match_id": "558632",
-    "tournament": "Serie A",
-    "date": "2026-08-22",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
-    },
-    "team_b": {
-      "name": "Monza",
-      "logo": "https://crests.football-data.org/5911.png"
-    },
-    "score": "1 - 0",
-    "time": "16:30"
   },
   {
     "match_id": "558629",
@@ -348,7 +332,7 @@
       "name": "Como 1907",
       "logo": "https://crests.football-data.org/7397.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "16:30"
   },
   {
@@ -364,7 +348,23 @@
       "name": "Tottenham",
       "logo": "https://crests.football-data.org/73.png"
     },
-    "score": "1 - 0",
+    "score": "2 - 0",
+    "time": "16:30"
+  },
+  {
+    "match_id": "558632",
+    "tournament": "Serie A",
+    "date": "2026-08-22",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Inter",
+      "logo": "https://crests.football-data.org/108.png"
+    },
+    "team_b": {
+      "name": "Monza",
+      "logo": "https://crests.football-data.org/5911.png"
+    },
+    "score": "1 - 1",
     "time": "16:30"
   },
   {
@@ -380,14 +380,14 @@
       "name": "Utrecht",
       "logo": "https://crests.football-data.org/676.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "16:45"
   },
   {
     "match_id": "567279",
     "tournament": "Primeira Liga",
     "date": "2026-08-22",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Estoril Praia",
       "logo": "https://crests.football-data.org/582.png"
@@ -396,7 +396,7 @@
       "name": "Rio Ave",
       "logo": "https://crests.football-data.org/496.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "17:00"
   },
   {
@@ -427,38 +427,6 @@
     "team_b": {
       "name": "Lorient",
       "logo": "https://crests.football-data.org/525.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "559714",
-    "tournament": "Ligue 1",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Troyes",
-      "logo": "https://crests.football-data.org/531.png"
-    },
-    "team_b": {
-      "name": "Paris FC",
-      "logo": "https://crests.football-data.org/1045.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "558636",
-    "tournament": "Serie A",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Parma",
-      "logo": "https://crests.football-data.org/112.png"
-    },
-    "team_b": {
-      "name": "Cagliari",
-      "logo": "https://crests.football-data.org/104.png"
     },
     "score": "vs",
     "time": "18:45"
@@ -507,6 +475,38 @@
     "team_b": {
       "name": "Napoli",
       "logo": "https://crests.football-data.org/113.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "559714",
+    "tournament": "Ligue 1",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Troyes",
+      "logo": "https://crests.football-data.org/531.png"
+    },
+    "team_b": {
+      "name": "Paris FC",
+      "logo": "https://crests.football-data.org/1045.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "558636",
+    "tournament": "Serie A",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Parma",
+      "logo": "https://crests.football-data.org/112.png"
+    },
+    "team_b": {
+      "name": "Cagliari",
+      "logo": "https://crests.football-data.org/104.png"
     },
     "score": "vs",
     "time": "18:45"
