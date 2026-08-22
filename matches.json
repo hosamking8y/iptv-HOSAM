@@ -19,7 +19,7 @@
     "match_id": "561781",
     "tournament": "Championship",
     "date": "2026-08-22",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Lincoln City",
       "logo": "https://crests.football-data.org/1126.png"
@@ -28,14 +28,14 @@
       "name": "Portsmouth",
       "logo": "https://crests.football-data.org/325.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "11:30"
   },
   {
     "match_id": "561773",
     "tournament": "Championship",
     "date": "2026-08-22",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Birmingham",
       "logo": "https://crests.football-data.org/332.png"
@@ -44,14 +44,14 @@
       "name": "Bristol City",
       "logo": "https://crests.football-data.org/387.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "11:30"
   },
   {
     "match_id": "561784",
     "tournament": "Championship",
     "date": "2026-08-22",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Millwall",
       "logo": "https://crests.football-data.org/384.png"
@@ -60,14 +60,14 @@
       "name": "Norwich",
       "logo": "https://crests.football-data.org/68.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "11:30"
   },
   {
     "match_id": "560543",
     "tournament": "Premier League",
     "date": "2026-08-22",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Hull City",
       "logo": "https://crests.football-data.org/322.png"
@@ -76,7 +76,7 @@
       "name": "Man United",
       "logo": "https://crests.football-data.org/66.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "11:30"
   },
   {
