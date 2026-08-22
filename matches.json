@@ -16,22 +16,6 @@
     "time": "00:00"
   },
   {
-    "match_id": "561773",
-    "tournament": "Championship",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Birmingham",
-      "logo": "https://crests.football-data.org/332.png"
-    },
-    "team_b": {
-      "name": "Bristol City",
-      "logo": "https://crests.football-data.org/387.png"
-    },
-    "score": "vs",
-    "time": "11:30"
-  },
-  {
     "match_id": "561784",
     "tournament": "Championship",
     "date": "2026-08-22",
@@ -64,6 +48,22 @@
     "time": "11:30"
   },
   {
+    "match_id": "561773",
+    "tournament": "Championship",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Birmingham",
+      "logo": "https://crests.football-data.org/332.png"
+    },
+    "team_b": {
+      "name": "Bristol City",
+      "logo": "https://crests.football-data.org/387.png"
+    },
+    "score": "vs",
+    "time": "11:30"
+  },
+  {
     "match_id": "561781",
     "tournament": "Championship",
     "date": "2026-08-22",
@@ -78,6 +78,22 @@
     },
     "score": "vs",
     "time": "11:30"
+  },
+  {
+    "match_id": "561780",
+    "tournament": "Championship",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Blackburn",
+      "logo": "https://crests.football-data.org/59.png"
+    },
+    "team_b": {
+      "name": "Middlesbrough",
+      "logo": "https://crests.football-data.org/343.png"
+    },
+    "score": "vs",
+    "time": "14:00"
   },
   {
     "match_id": "561775",
@@ -144,17 +160,49 @@
     "time": "14:00"
   },
   {
-    "match_id": "561780",
+    "match_id": "561779",
     "tournament": "Championship",
     "date": "2026-08-22",
     "status": "TIMED",
     "team_a": {
-      "name": "Blackburn",
-      "logo": "https://crests.football-data.org/59.png"
+      "name": "Wrexham",
+      "logo": "https://crests.football-data.org/404.png"
     },
     "team_b": {
-      "name": "Middlesbrough",
-      "logo": "https://crests.football-data.org/343.png"
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561774",
+    "tournament": "Championship",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Swansea",
+      "logo": "https://crests.football-data.org/72.png"
+    },
+    "team_b": {
+      "name": "Sheffield Utd",
+      "logo": "https://crests.football-data.org/356.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
+    "match_id": "560544",
+    "tournament": "Premier League",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Ipswich Town",
+      "logo": "https://crests.football-data.org/349.png"
+    },
+    "team_b": {
+      "name": "Sunderland",
+      "logo": "https://crests.football-data.org/71.png"
     },
     "score": "vs",
     "time": "14:00"
@@ -203,54 +251,6 @@
     "team_b": {
       "name": "Bolton",
       "logo": "https://crests.football-data.org/60.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561779",
-    "tournament": "Championship",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Wrexham",
-      "logo": "https://crests.football-data.org/404.png"
-    },
-    "team_b": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561774",
-    "tournament": "Championship",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Swansea",
-      "logo": "https://crests.football-data.org/72.png"
-    },
-    "team_b": {
-      "name": "Sheffield Utd",
-      "logo": "https://crests.football-data.org/356.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
-    "match_id": "560544",
-    "tournament": "Premier League",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Ipswich Town",
-      "logo": "https://crests.football-data.org/349.png"
-    },
-    "team_b": {
-      "name": "Sunderland",
-      "logo": "https://crests.football-data.org/71.png"
     },
     "score": "vs",
     "time": "14:00"
@@ -320,6 +320,22 @@
     "time": "15:15"
   },
   {
+    "match_id": "558632",
+    "tournament": "Serie A",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Inter",
+      "logo": "https://crests.football-data.org/108.png"
+    },
+    "team_b": {
+      "name": "Monza",
+      "logo": "https://crests.football-data.org/5911.png"
+    },
+    "score": "vs",
+    "time": "16:30"
+  },
+  {
     "match_id": "558629",
     "tournament": "Serie A",
     "date": "2026-08-22",
@@ -347,22 +363,6 @@
     "team_b": {
       "name": "Tottenham",
       "logo": "https://crests.football-data.org/73.png"
-    },
-    "score": "vs",
-    "time": "16:30"
-  },
-  {
-    "match_id": "558632",
-    "tournament": "Serie A",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
-    },
-    "team_b": {
-      "name": "Monza",
-      "logo": "https://crests.football-data.org/5911.png"
     },
     "score": "vs",
     "time": "16:30"
@@ -432,6 +432,22 @@
     "time": "18:45"
   },
   {
+    "match_id": "558631",
+    "tournament": "Serie A",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Genoa",
+      "logo": "https://crests.football-data.org/107.png"
+    },
+    "team_b": {
+      "name": "Napoli",
+      "logo": "https://crests.football-data.org/113.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
     "match_id": "559714",
     "tournament": "Ligue 1",
     "date": "2026-08-22",
@@ -491,22 +507,6 @@
     "team_b": {
       "name": "Brest",
       "logo": "https://crests.football-data.org/512.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "558631",
-    "tournament": "Serie A",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Genoa",
-      "logo": "https://crests.football-data.org/107.png"
-    },
-    "team_b": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
     },
     "score": "vs",
     "time": "18:45"
