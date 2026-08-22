@@ -128,6 +128,22 @@
     "time": "14:00"
   },
   {
+    "match_id": "561783",
+    "tournament": "Championship",
+    "date": "2026-08-22",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "QPR",
+      "logo": "https://crests.football-data.org/69.png"
+    },
+    "team_b": {
+      "name": "Bolton",
+      "logo": "https://crests.football-data.org/60.png"
+    },
+    "score": "0 - 0",
+    "time": "14:00"
+  },
+  {
     "match_id": "560544",
     "tournament": "Premier League",
     "date": "2026-08-22",
@@ -157,22 +173,6 @@
       "logo": "https://crests.football-data.org/354.png"
     },
     "score": "2 - 0",
-    "time": "14:00"
-  },
-  {
-    "match_id": "561783",
-    "tournament": "Championship",
-    "date": "2026-08-22",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "QPR",
-      "logo": "https://crests.football-data.org/69.png"
-    },
-    "team_b": {
-      "name": "Bolton",
-      "logo": "https://crests.football-data.org/60.png"
-    },
-    "score": "0 - 0",
     "time": "14:00"
   },
   {
@@ -224,22 +224,6 @@
     "time": "14:00"
   },
   {
-    "match_id": "560545",
-    "tournament": "Premier League",
-    "date": "2026-08-22",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Nottingham",
-      "logo": "https://crests.football-data.org/351.png"
-    },
-    "team_b": {
-      "name": "Leeds United",
-      "logo": "https://crests.football-data.org/341.png"
-    },
-    "score": "0 - 1",
-    "time": "14:00"
-  },
-  {
     "match_id": "561782",
     "tournament": "Championship",
     "date": "2026-08-22",
@@ -256,20 +240,20 @@
     "time": "14:00"
   },
   {
-    "match_id": "567283",
-    "tournament": "Primeira Liga",
+    "match_id": "560545",
+    "tournament": "Premier League",
     "date": "2026-08-22",
     "status": "FINISHED",
     "team_a": {
-      "name": "Marítimo",
-      "logo": "https://crests.football-data.org/5575.png"
+      "name": "Nottingham",
+      "logo": "https://crests.football-data.org/351.png"
     },
     "team_b": {
-      "name": "Acad. Viseu",
-      "logo": "https://crests.football-data.org/5527.png"
+      "name": "Leeds United",
+      "logo": "https://crests.football-data.org/341.png"
     },
-    "score": "2 - 2",
-    "time": "14:30"
+    "score": "0 - 1",
+    "time": "14:00"
   },
   {
     "match_id": "558232",
@@ -285,6 +269,22 @@
       "logo": "https://crests.football-data.org/682.png"
     },
     "score": "0 - 2",
+    "time": "14:30"
+  },
+  {
+    "match_id": "567283",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-22",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Marítimo",
+      "logo": "https://crests.football-data.org/5575.png"
+    },
+    "team_b": {
+      "name": "Acad. Viseu",
+      "logo": "https://crests.football-data.org/5527.png"
+    },
+    "score": "2 - 2",
     "time": "14:30"
   },
   {
@@ -332,14 +332,14 @@
       "name": "Monza",
       "logo": "https://crests.football-data.org/5911.png"
     },
-    "score": "1 - 1",
+    "score": "3 - 1",
     "time": "16:30"
   },
   {
     "match_id": "558629",
     "tournament": "Serie A",
     "date": "2026-08-22",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Udinese",
       "logo": "https://crests.football-data.org/115.png"
@@ -348,7 +348,7 @@
       "name": "Como 1907",
       "logo": "https://crests.football-data.org/7397.png"
     },
-    "score": "1 - 0",
+    "score": "1 - 1",
     "time": "16:30"
   },
   {
@@ -371,7 +371,7 @@
     "match_id": "558234",
     "tournament": "Eredivisie",
     "date": "2026-08-22",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Sparta",
       "logo": "https://crests.football-data.org/6806.png"
@@ -380,14 +380,14 @@
       "name": "Utrecht",
       "logo": "https://crests.football-data.org/676.png"
     },
-    "score": "1 - 1",
+    "score": "1 - 2",
     "time": "16:45"
   },
   {
     "match_id": "567279",
     "tournament": "Primeira Liga",
     "date": "2026-08-22",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Estoril Praia",
       "logo": "https://crests.football-data.org/582.png"
@@ -414,38 +414,6 @@
     },
     "score": "0 - 0",
     "time": "17:30"
-  },
-  {
-    "match_id": "559711",
-    "tournament": "Ligue 1",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Le Mans",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
-    },
-    "team_b": {
-      "name": "Brest",
-      "logo": "https://crests.football-data.org/512.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "559714",
-    "tournament": "Ligue 1",
-    "date": "2026-08-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Troyes",
-      "logo": "https://crests.football-data.org/531.png"
-    },
-    "team_b": {
-      "name": "Paris FC",
-      "logo": "https://crests.football-data.org/1045.png"
-    },
-    "score": "vs",
-    "time": "18:45"
   },
   {
     "match_id": "559718",
@@ -512,20 +480,36 @@
     "time": "18:45"
   },
   {
-    "match_id": "558235",
-    "tournament": "Eredivisie",
+    "match_id": "559711",
+    "tournament": "Ligue 1",
     "date": "2026-08-22",
     "status": "TIMED",
     "team_a": {
-      "name": "Heerenveen",
-      "logo": "https://crests.football-data.org/673.png"
+      "name": "Le Mans",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
     },
     "team_b": {
-      "name": "Zwolle",
-      "logo": "https://crests.football-data.org/684.png"
+      "name": "Brest",
+      "logo": "https://crests.football-data.org/512.png"
     },
     "score": "vs",
-    "time": "19:00"
+    "time": "18:45"
+  },
+  {
+    "match_id": "559714",
+    "tournament": "Ligue 1",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Troyes",
+      "logo": "https://crests.football-data.org/531.png"
+    },
+    "team_b": {
+      "name": "Paris FC",
+      "logo": "https://crests.football-data.org/1045.png"
+    },
+    "score": "vs",
+    "time": "18:45"
   },
   {
     "match_id": "554975",
@@ -539,6 +523,22 @@
     "team_b": {
       "name": "Clube do Remo",
       "logo": "https://crests.football-data.org/4287.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "558235",
+    "tournament": "Eredivisie",
+    "date": "2026-08-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Heerenveen",
+      "logo": "https://crests.football-data.org/673.png"
+    },
+    "team_b": {
+      "name": "Zwolle",
+      "logo": "https://crests.football-data.org/684.png"
     },
     "score": "vs",
     "time": "19:00"
