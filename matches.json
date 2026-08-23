@@ -291,7 +291,7 @@
     "match_id": "554971",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bragantino",
       "logo": "https://crests.football-data.org/4286.png"
@@ -300,30 +300,14 @@
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
     },
-    "score": "0 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "554979",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-23",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
-    },
-    "team_b": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "score": "0 - 1",
+    "score": "1 - 0",
     "time": "19:00"
   },
   {
     "match_id": "554977",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Palmeiras",
       "logo": "https://crests.football-data.org/1769.png"
@@ -332,8 +316,40 @@
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
     },
-    "score": "4 - 0",
+    "score": "4 - 1",
     "time": "19:00"
+  },
+  {
+    "match_id": "554979",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "team_b": {
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
+    },
+    "score": "0 - 2",
+    "time": "19:00"
+  },
+  {
+    "match_id": "564642",
+    "tournament": "Primera Division",
+    "date": "2026-08-23",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Elche",
+      "logo": "https://crests.football-data.org/285.png"
+    },
+    "team_b": {
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "score": "0 - 4",
+    "time": "19:30"
   },
   {
     "match_id": "567280",
@@ -349,22 +365,6 @@
       "logo": "https://crests.football-data.org/712.png"
     },
     "score": "1 - 0",
-    "time": "19:30"
-  },
-  {
-    "match_id": "564642",
-    "tournament": "Primera Division",
-    "date": "2026-08-23",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Elche",
-      "logo": "https://crests.football-data.org/285.png"
-    },
-    "team_b": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
-    },
-    "score": "0 - 2",
     "time": "19:30"
   },
   {
