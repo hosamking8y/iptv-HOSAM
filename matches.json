@@ -48,6 +48,22 @@
     "time": "12:30"
   },
   {
+    "match_id": "560548",
+    "tournament": "Premier League",
+    "date": "2026-08-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Man City",
+      "logo": "https://crests.football-data.org/65.png"
+    },
+    "team_b": {
+      "name": "Bournemouth",
+      "logo": "https://crests.football-data.org/bournemouth.png"
+    },
+    "score": "2 - 1",
+    "time": "13:00"
+  },
+  {
     "match_id": "560549",
     "tournament": "Premier League",
     "date": "2026-08-23",
@@ -76,23 +92,7 @@
       "name": "Lille",
       "logo": "https://crests.football-data.org/521.png"
     },
-    "score": "0 - 2",
-    "time": "13:00"
-  },
-  {
-    "match_id": "560548",
-    "tournament": "Premier League",
-    "date": "2026-08-23",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
-    },
-    "team_b": {
-      "name": "Bournemouth",
-      "logo": "https://crests.football-data.org/bournemouth.png"
-    },
-    "score": "2 - 1",
+    "score": "0 - 3",
     "time": "13:00"
   },
   {
@@ -176,22 +176,6 @@
     "time": "15:30"
   },
   {
-    "match_id": "558635",
-    "tournament": "Serie A",
-    "date": "2026-08-23",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Frosinone",
-      "logo": "https://crests.football-data.org/470.png"
-    },
-    "team_b": {
-      "name": "Juventus",
-      "logo": "https://crests.football-data.org/109.png"
-    },
-    "score": "0 - 1",
-    "time": "16:30"
-  },
-  {
     "match_id": "558637",
     "tournament": "Serie A",
     "date": "2026-08-23",
@@ -208,10 +192,26 @@
     "time": "16:30"
   },
   {
+    "match_id": "558635",
+    "tournament": "Serie A",
+    "date": "2026-08-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Frosinone",
+      "logo": "https://crests.football-data.org/470.png"
+    },
+    "team_b": {
+      "name": "Juventus",
+      "logo": "https://crests.football-data.org/109.png"
+    },
+    "score": "0 - 1",
+    "time": "16:30"
+  },
+  {
     "match_id": "567281",
     "tournament": "Primeira Liga",
     "date": "2026-08-23",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Santa Clara",
       "logo": "https://crests.football-data.org/5530.png"
@@ -240,26 +240,10 @@
     "time": "17:30"
   },
   {
-    "match_id": "558633",
-    "tournament": "Serie A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Atalanta",
-      "logo": "https://crests.football-data.org/102.png"
-    },
-    "team_b": {
-      "name": "Sassuolo",
-      "logo": "https://crests.football-data.org/471.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "558634",
     "tournament": "Serie A",
     "date": "2026-08-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Torino",
       "logo": "https://crests.football-data.org/586.png"
@@ -268,14 +252,14 @@
       "name": "Milan",
       "logo": "https://crests.football-data.org/98.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "18:45"
   },
   {
     "match_id": "559713",
     "tournament": "Ligue 1",
     "date": "2026-08-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "PSG",
       "logo": "https://crests.football-data.org/524.png"
@@ -284,30 +268,30 @@
       "name": "Stade Rennais",
       "logo": "https://crests.football-data.org/529.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "18:45"
   },
   {
-    "match_id": "554971",
-    "tournament": "Campeonato Brasileiro Série A",
+    "match_id": "558633",
+    "tournament": "Serie A",
     "date": "2026-08-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
+      "name": "Atalanta",
+      "logo": "https://crests.football-data.org/102.png"
     },
     "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
+      "name": "Sassuolo",
+      "logo": "https://crests.football-data.org/471.png"
     },
-    "score": "vs",
-    "time": "19:00"
+    "score": "1 - 0",
+    "time": "18:45"
   },
   {
     "match_id": "554977",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Palmeiras",
       "logo": "https://crests.football-data.org/1769.png"
@@ -316,14 +300,14 @@
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:00"
   },
   {
     "match_id": "554979",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
@@ -332,7 +316,23 @@
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554971",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-23",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
+    },
+    "team_b": {
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
+    },
+    "score": "0 - 0",
     "time": "19:00"
   },
   {
@@ -368,22 +368,6 @@
     "time": "19:30"
   },
   {
-    "match_id": "554978",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "team_b": {
-      "name": "Mirassol",
-      "logo": "https://crests.football-data.org/4364.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
     "match_id": "554972",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
@@ -395,6 +379,22 @@
     "team_b": {
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554978",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
+    },
+    "team_b": {
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
     },
     "score": "vs",
     "time": "21:30"
