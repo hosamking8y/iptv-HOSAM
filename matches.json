@@ -3,7 +3,7 @@
     "match_id": "558236",
     "tournament": "Eredivisie",
     "date": "2026-08-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Go Ahead",
       "logo": "https://crests.football-data.org/718.png"
@@ -12,7 +12,7 @@
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "10:15"
   },
   {
@@ -48,17 +48,17 @@
     "time": "12:30"
   },
   {
-    "match_id": "559717",
-    "tournament": "Ligue 1",
+    "match_id": "560548",
+    "tournament": "Premier League",
     "date": "2026-08-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Angers SCO",
-      "logo": "https://crests.football-data.org/532.png"
+      "name": "Man City",
+      "logo": "https://crests.football-data.org/65.png"
     },
     "team_b": {
-      "name": "Lille",
-      "logo": "https://crests.football-data.org/521.png"
+      "name": "Bournemouth",
+      "logo": "https://crests.football-data.org/bournemouth.png"
     },
     "score": "vs",
     "time": "13:00"
@@ -80,17 +80,17 @@
     "time": "13:00"
   },
   {
-    "match_id": "560548",
-    "tournament": "Premier League",
+    "match_id": "559717",
+    "tournament": "Ligue 1",
     "date": "2026-08-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
+      "name": "Angers SCO",
+      "logo": "https://crests.football-data.org/532.png"
     },
     "team_b": {
-      "name": "Bournemouth",
-      "logo": "https://crests.football-data.org/bournemouth.png"
+      "name": "Lille",
+      "logo": "https://crests.football-data.org/521.png"
     },
     "score": "vs",
     "time": "13:00"
@@ -176,22 +176,6 @@
     "time": "15:30"
   },
   {
-    "match_id": "558635",
-    "tournament": "Serie A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Frosinone",
-      "logo": "https://crests.football-data.org/470.png"
-    },
-    "team_b": {
-      "name": "Juventus",
-      "logo": "https://crests.football-data.org/109.png"
-    },
-    "score": "vs",
-    "time": "16:30"
-  },
-  {
     "match_id": "558637",
     "tournament": "Serie A",
     "date": "2026-08-23",
@@ -203,6 +187,22 @@
     "team_b": {
       "name": "Lecce",
       "logo": "https://crests.football-data.org/5890.png"
+    },
+    "score": "vs",
+    "time": "16:30"
+  },
+  {
+    "match_id": "558635",
+    "tournament": "Serie A",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Frosinone",
+      "logo": "https://crests.football-data.org/470.png"
+    },
+    "team_b": {
+      "name": "Juventus",
+      "logo": "https://crests.football-data.org/109.png"
     },
     "score": "vs",
     "time": "16:30"
@@ -240,17 +240,17 @@
     "time": "17:30"
   },
   {
-    "match_id": "558633",
+    "match_id": "558634",
     "tournament": "Serie A",
     "date": "2026-08-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Atalanta",
-      "logo": "https://crests.football-data.org/102.png"
+      "name": "Torino",
+      "logo": "https://crests.football-data.org/586.png"
     },
     "team_b": {
-      "name": "Sassuolo",
-      "logo": "https://crests.football-data.org/471.png"
+      "name": "Milan",
+      "logo": "https://crests.football-data.org/98.png"
     },
     "score": "vs",
     "time": "18:45"
@@ -272,36 +272,20 @@
     "time": "18:45"
   },
   {
-    "match_id": "558634",
+    "match_id": "558633",
     "tournament": "Serie A",
     "date": "2026-08-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Torino",
-      "logo": "https://crests.football-data.org/586.png"
+      "name": "Atalanta",
+      "logo": "https://crests.football-data.org/102.png"
     },
     "team_b": {
-      "name": "Milan",
-      "logo": "https://crests.football-data.org/98.png"
+      "name": "Sassuolo",
+      "logo": "https://crests.football-data.org/471.png"
     },
     "score": "vs",
     "time": "18:45"
-  },
-  {
-    "match_id": "554971",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
-    },
-    "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "score": "vs",
-    "time": "19:00"
   },
   {
     "match_id": "554977",
@@ -331,6 +315,22 @@
     "team_b": {
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554971",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
+    },
+    "team_b": {
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -368,22 +368,6 @@
     "time": "19:30"
   },
   {
-    "match_id": "554978",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "team_b": {
-      "name": "Mirassol",
-      "logo": "https://crests.football-data.org/4364.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
     "match_id": "554972",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
@@ -395,6 +379,22 @@
     "team_b": {
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554978",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
+    },
+    "team_b": {
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
     },
     "score": "vs",
     "time": "21:30"
