@@ -64,22 +64,6 @@
     "time": "13:00"
   },
   {
-    "match_id": "560548",
-    "tournament": "Premier League",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
-    },
-    "team_b": {
-      "name": "Bournemouth",
-      "logo": "https://crests.football-data.org/bournemouth.png"
-    },
-    "score": "vs",
-    "time": "13:00"
-  },
-  {
     "match_id": "560549",
     "tournament": "Premier League",
     "date": "2026-08-23",
@@ -91,6 +75,22 @@
     "team_b": {
       "name": "Aston Villa",
       "logo": "https://crests.football-data.org/58.png"
+    },
+    "score": "vs",
+    "time": "13:00"
+  },
+  {
+    "match_id": "560548",
+    "tournament": "Premier League",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Man City",
+      "logo": "https://crests.football-data.org/65.png"
+    },
+    "team_b": {
+      "name": "Bournemouth",
+      "logo": "https://crests.football-data.org/bournemouth.png"
     },
     "score": "vs",
     "time": "13:00"
@@ -256,22 +256,6 @@
     "time": "18:45"
   },
   {
-    "match_id": "558634",
-    "tournament": "Serie A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Torino",
-      "logo": "https://crests.football-data.org/586.png"
-    },
-    "team_b": {
-      "name": "Milan",
-      "logo": "https://crests.football-data.org/98.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "559713",
     "tournament": "Ligue 1",
     "date": "2026-08-23",
@@ -288,17 +272,33 @@
     "time": "18:45"
   },
   {
-    "match_id": "554971",
+    "match_id": "558634",
+    "tournament": "Serie A",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Torino",
+      "logo": "https://crests.football-data.org/586.png"
+    },
+    "team_b": {
+      "name": "Milan",
+      "logo": "https://crests.football-data.org/98.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "554979",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
     },
     "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -320,17 +320,17 @@
     "time": "19:00"
   },
   {
-    "match_id": "554979",
+    "match_id": "554971",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
     },
     "team_b": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -368,22 +368,6 @@
     "time": "19:30"
   },
   {
-    "match_id": "554972",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Chapecoense",
-      "logo": "https://crests.football-data.org/1772_large.png"
-    },
-    "team_b": {
-      "name": "São Paulo",
-      "logo": "https://crests.football-data.org/1776.png"
-    },
-    "score": "vs",
-    "time": "21:30"
-  },
-  {
     "match_id": "554978",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
@@ -395,6 +379,22 @@
     "team_b": {
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
+    },
+    "score": "vs",
+    "time": "21:30"
+  },
+  {
+    "match_id": "554972",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
+    },
+    "team_b": {
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
     },
     "score": "vs",
     "time": "21:30"
