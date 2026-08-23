@@ -48,22 +48,6 @@
     "time": "12:30"
   },
   {
-    "match_id": "559717",
-    "tournament": "Ligue 1",
-    "date": "2026-08-23",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Angers SCO",
-      "logo": "https://crests.football-data.org/532.png"
-    },
-    "team_b": {
-      "name": "Lille",
-      "logo": "https://crests.football-data.org/521.png"
-    },
-    "score": "0 - 2",
-    "time": "13:00"
-  },
-  {
     "match_id": "560549",
     "tournament": "Premier League",
     "date": "2026-08-23",
@@ -77,6 +61,22 @@
       "logo": "https://crests.football-data.org/58.png"
     },
     "score": "4 - 0",
+    "time": "13:00"
+  },
+  {
+    "match_id": "559717",
+    "tournament": "Ligue 1",
+    "date": "2026-08-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Angers SCO",
+      "logo": "https://crests.football-data.org/532.png"
+    },
+    "team_b": {
+      "name": "Lille",
+      "logo": "https://crests.football-data.org/521.png"
+    },
+    "score": "0 - 3",
     "time": "13:00"
   },
   {
@@ -99,7 +99,7 @@
     "match_id": "567278",
     "tournament": "Primeira Liga",
     "date": "2026-08-23",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Vitória SC",
       "logo": "https://crests.football-data.org/5543.png"
@@ -147,7 +147,7 @@
     "match_id": "559719",
     "tournament": "Ligue 1",
     "date": "2026-08-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Le Havre",
       "logo": "https://crests.football-data.org/533.png"
@@ -156,7 +156,7 @@
       "name": "Monaco",
       "logo": "https://crests.football-data.org/548.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "15:15"
   },
   {
@@ -256,22 +256,6 @@
     "time": "18:45"
   },
   {
-    "match_id": "559713",
-    "tournament": "Ligue 1",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "PSG",
-      "logo": "https://crests.football-data.org/524.png"
-    },
-    "team_b": {
-      "name": "Stade Rennais",
-      "logo": "https://crests.football-data.org/529.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "558634",
     "tournament": "Serie A",
     "date": "2026-08-23",
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Milan",
       "logo": "https://crests.football-data.org/98.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "559713",
+    "tournament": "Ligue 1",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "PSG",
+      "logo": "https://crests.football-data.org/524.png"
+    },
+    "team_b": {
+      "name": "Stade Rennais",
+      "logo": "https://crests.football-data.org/529.png"
     },
     "score": "vs",
     "time": "18:45"
@@ -304,22 +304,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "554979",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
-    },
-    "team_b": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "554977",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
@@ -331,6 +315,22 @@
     "team_b": {
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554979",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "team_b": {
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
     },
     "score": "vs",
     "time": "19:00"
