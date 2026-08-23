@@ -76,7 +76,7 @@
       "name": "Lille",
       "logo": "https://crests.football-data.org/521.png"
     },
-    "score": "0 - 3",
+    "score": "0 - 2",
     "time": "13:00"
   },
   {
@@ -211,7 +211,7 @@
     "match_id": "567281",
     "tournament": "Primeira Liga",
     "date": "2026-08-23",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Santa Clara",
       "logo": "https://crests.football-data.org/5530.png"
