@@ -179,7 +179,7 @@
     "match_id": "558635",
     "tournament": "Serie A",
     "date": "2026-08-23",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Frosinone",
       "logo": "https://crests.football-data.org/470.png"
@@ -195,7 +195,7 @@
     "match_id": "558637",
     "tournament": "Serie A",
     "date": "2026-08-23",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Venezia FC",
       "logo": "https://crests.football-data.org/454.png"
@@ -204,7 +204,7 @@
       "name": "Lecce",
       "logo": "https://crests.football-data.org/5890.png"
     },
-    "score": "0 - 1",
+    "score": "0 - 2",
     "time": "16:30"
   },
   {
@@ -336,22 +336,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "567280",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Porto",
-      "logo": "https://crests.football-data.org/503.png"
-    },
-    "team_b": {
-      "name": "Arouca",
-      "logo": "https://crests.football-data.org/712.png"
-    },
-    "score": "vs",
-    "time": "19:30"
-  },
-  {
     "match_id": "564642",
     "tournament": "Primera Division",
     "date": "2026-08-23",
@@ -363,6 +347,22 @@
     "team_b": {
       "name": "Barça",
       "logo": "https://crests.football-data.org/81.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "567280",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Porto",
+      "logo": "https://crests.football-data.org/503.png"
+    },
+    "team_b": {
+      "name": "Arouca",
+      "logo": "https://crests.football-data.org/712.png"
     },
     "score": "vs",
     "time": "19:30"
