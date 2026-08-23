@@ -48,19 +48,19 @@
     "time": "12:30"
   },
   {
-    "match_id": "560548",
-    "tournament": "Premier League",
+    "match_id": "559717",
+    "tournament": "Ligue 1",
     "date": "2026-08-23",
     "status": "FINISHED",
     "team_a": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
+      "name": "Angers SCO",
+      "logo": "https://crests.football-data.org/532.png"
     },
     "team_b": {
-      "name": "Bournemouth",
-      "logo": "https://crests.football-data.org/bournemouth.png"
+      "name": "Lille",
+      "logo": "https://crests.football-data.org/521.png"
     },
-    "score": "2 - 1",
+    "score": "0 - 2",
     "time": "13:00"
   },
   {
@@ -80,19 +80,19 @@
     "time": "13:00"
   },
   {
-    "match_id": "559717",
-    "tournament": "Ligue 1",
+    "match_id": "560548",
+    "tournament": "Premier League",
     "date": "2026-08-23",
     "status": "FINISHED",
     "team_a": {
-      "name": "Angers SCO",
-      "logo": "https://crests.football-data.org/532.png"
+      "name": "Man City",
+      "logo": "https://crests.football-data.org/65.png"
     },
     "team_b": {
-      "name": "Lille",
-      "logo": "https://crests.football-data.org/521.png"
+      "name": "Bournemouth",
+      "logo": "https://crests.football-data.org/bournemouth.png"
     },
-    "score": "0 - 3",
+    "score": "2 - 1",
     "time": "13:00"
   },
   {
@@ -176,22 +176,6 @@
     "time": "15:30"
   },
   {
-    "match_id": "558637",
-    "tournament": "Serie A",
-    "date": "2026-08-23",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Venezia FC",
-      "logo": "https://crests.football-data.org/454.png"
-    },
-    "team_b": {
-      "name": "Lecce",
-      "logo": "https://crests.football-data.org/5890.png"
-    },
-    "score": "0 - 2",
-    "time": "16:30"
-  },
-  {
     "match_id": "558635",
     "tournament": "Serie A",
     "date": "2026-08-23",
@@ -205,6 +189,22 @@
       "logo": "https://crests.football-data.org/109.png"
     },
     "score": "0 - 1",
+    "time": "16:30"
+  },
+  {
+    "match_id": "558637",
+    "tournament": "Serie A",
+    "date": "2026-08-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Venezia FC",
+      "logo": "https://crests.football-data.org/454.png"
+    },
+    "team_b": {
+      "name": "Lecce",
+      "logo": "https://crests.football-data.org/5890.png"
+    },
+    "score": "0 - 2",
     "time": "16:30"
   },
   {
@@ -240,6 +240,22 @@
     "time": "17:30"
   },
   {
+    "match_id": "558633",
+    "tournament": "Serie A",
+    "date": "2026-08-23",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Atalanta",
+      "logo": "https://crests.football-data.org/102.png"
+    },
+    "team_b": {
+      "name": "Sassuolo",
+      "logo": "https://crests.football-data.org/471.png"
+    },
+    "score": "2 - 1",
+    "time": "18:45"
+  },
+  {
     "match_id": "558634",
     "tournament": "Serie A",
     "date": "2026-08-23",
@@ -272,35 +288,19 @@
     "time": "18:45"
   },
   {
-    "match_id": "558633",
-    "tournament": "Serie A",
-    "date": "2026-08-23",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Atalanta",
-      "logo": "https://crests.football-data.org/102.png"
-    },
-    "team_b": {
-      "name": "Sassuolo",
-      "logo": "https://crests.football-data.org/471.png"
-    },
-    "score": "2 - 1",
-    "time": "18:45"
-  },
-  {
-    "match_id": "554977",
+    "match_id": "554971",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
     "status": "FINISHED",
     "team_a": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
     },
     "team_b": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
     },
-    "score": "4 - 1",
+    "score": "1 - 0",
     "time": "19:00"
   },
   {
@@ -320,19 +320,19 @@
     "time": "19:00"
   },
   {
-    "match_id": "554971",
+    "match_id": "554977",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
     "status": "FINISHED",
     "team_a": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
     "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
     },
-    "score": "1 - 0",
+    "score": "4 - 1",
     "time": "19:00"
   },
   {
@@ -368,10 +368,26 @@
     "time": "19:30"
   },
   {
+    "match_id": "554978",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-08-23",
+    "status": "PAUSED",
+    "team_a": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
+    },
+    "team_b": {
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
+    },
+    "score": "0 - 1",
+    "time": "21:30"
+  },
+  {
     "match_id": "554972",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
@@ -384,26 +400,10 @@
     "time": "21:30"
   },
   {
-    "match_id": "554978",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-23",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "team_b": {
-      "name": "Mirassol",
-      "logo": "https://crests.football-data.org/4364.png"
-    },
-    "score": "0 - 0",
-    "time": "21:30"
-  },
-  {
     "match_id": "554973",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Coritiba",
       "logo": "https://crests.football-data.org/4241.png"
@@ -412,7 +412,7 @@
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "22:30"
   }
 ]
