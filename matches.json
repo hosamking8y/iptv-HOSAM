@@ -240,22 +240,6 @@
     "time": "17:30"
   },
   {
-    "match_id": "559713",
-    "tournament": "Ligue 1",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "PSG",
-      "logo": "https://crests.football-data.org/524.png"
-    },
-    "team_b": {
-      "name": "Stade Rennais",
-      "logo": "https://crests.football-data.org/529.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "558634",
     "tournament": "Serie A",
     "date": "2026-08-23",
@@ -267,6 +251,22 @@
     "team_b": {
       "name": "Milan",
       "logo": "https://crests.football-data.org/98.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "559713",
+    "tournament": "Ligue 1",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "PSG",
+      "logo": "https://crests.football-data.org/524.png"
+    },
+    "team_b": {
+      "name": "Stade Rennais",
+      "logo": "https://crests.football-data.org/529.png"
     },
     "score": "vs",
     "time": "18:45"
