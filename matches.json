@@ -12,7 +12,7 @@
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 1",
     "time": "10:15"
   },
   {
@@ -48,22 +48,6 @@
     "time": "12:30"
   },
   {
-    "match_id": "559717",
-    "tournament": "Ligue 1",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Angers SCO",
-      "logo": "https://crests.football-data.org/532.png"
-    },
-    "team_b": {
-      "name": "Lille",
-      "logo": "https://crests.football-data.org/521.png"
-    },
-    "score": "vs",
-    "time": "13:00"
-  },
-  {
     "match_id": "560549",
     "tournament": "Premier League",
     "date": "2026-08-23",
@@ -75,6 +59,22 @@
     "team_b": {
       "name": "Aston Villa",
       "logo": "https://crests.football-data.org/58.png"
+    },
+    "score": "vs",
+    "time": "13:00"
+  },
+  {
+    "match_id": "559717",
+    "tournament": "Ligue 1",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Angers SCO",
+      "logo": "https://crests.football-data.org/532.png"
+    },
+    "team_b": {
+      "name": "Lille",
+      "logo": "https://crests.football-data.org/521.png"
     },
     "score": "vs",
     "time": "13:00"
@@ -304,22 +304,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "554979",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
-    },
-    "team_b": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "554977",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
@@ -336,20 +320,20 @@
     "time": "19:00"
   },
   {
-    "match_id": "564642",
-    "tournament": "Primera Division",
+    "match_id": "554979",
+    "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Elche",
-      "logo": "https://crests.football-data.org/285.png"
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
     },
     "team_b": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
     },
     "score": "vs",
-    "time": "19:30"
+    "time": "19:00"
   },
   {
     "match_id": "567280",
@@ -363,6 +347,22 @@
     "team_b": {
       "name": "Arouca",
       "logo": "https://crests.football-data.org/712.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "564642",
+    "tournament": "Primera Division",
+    "date": "2026-08-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Elche",
+      "logo": "https://crests.football-data.org/285.png"
+    },
+    "team_b": {
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
     },
     "score": "vs",
     "time": "19:30"
