@@ -3,7 +3,7 @@
     "match_id": "558630",
     "tournament": "Serie A",
     "date": "2026-08-24",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Bologna",
       "logo": "https://crests.football-data.org/103.png"
@@ -12,7 +12,7 @@
       "name": "Lazio",
       "logo": "https://crests.football-data.org/110.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "16:30"
   },
   {
