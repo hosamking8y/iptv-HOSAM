@@ -12,14 +12,14 @@
       "name": "Lazio",
       "logo": "https://crests.football-data.org/110.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "16:30"
   },
   {
     "match_id": "564639",
     "tournament": "Primera Division",
     "date": "2026-08-24",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Osasuna",
       "logo": "https://crests.football-data.org/79.png"
