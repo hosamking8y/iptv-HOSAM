@@ -35,7 +35,7 @@
     "match_id": "558638",
     "tournament": "Serie A",
     "date": "2026-08-24",
-    "status": "PAUSED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Roma",
       "logo": "https://crests.football-data.org/100.png"
@@ -44,7 +44,7 @@
       "name": "Fiorentina",
       "logo": "https://crests.football-data.org/99.png"
     },
-    "score": "1 - 0",
+    "score": "3 - 0",
     "time": "18:45"
   },
   {
@@ -60,7 +60,7 @@
       "name": "Chelsea",
       "logo": "https://crests.football-data.org/61.png"
     },
-    "score": "1 - 1",
+    "score": "2 - 3",
     "time": "19:00"
   },
   {
@@ -76,14 +76,14 @@
       "name": "Casa Pia",
       "logo": "https://crests.football-data.org/6618.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 0",
     "time": "19:15"
   },
   {
     "match_id": "564640",
     "tournament": "Primera Division",
     "date": "2026-08-24",
-    "status": "IN_PLAY",
+    "status": "PAUSED",
     "team_a": {
       "name": "Málaga",
       "logo": "https://crests.football-data.org/84.png"
@@ -92,7 +92,7 @@
       "name": "Deportivo",
       "logo": "https://crests.football-data.org/560.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 1",
     "time": "19:30"
   },
   {
