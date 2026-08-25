@@ -3,7 +3,7 @@
     "match_id": "564637",
     "tournament": "Primera Division",
     "date": "2026-08-25",
-    "status": "TIMED",
+    "status": "LIVE",
     "team_a": {
       "name": "Valencia",
       "logo": "https://crests.football-data.org/95.png"
@@ -12,7 +12,7 @@
       "name": "Real Betis",
       "logo": "https://crests.football-data.org/90.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:00"
   }
 ]
