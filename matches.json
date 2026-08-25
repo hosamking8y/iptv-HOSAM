@@ -1,114 +1,18 @@
 [
   {
-    "match_id": "558630",
-    "tournament": "Serie A",
-    "date": "2026-08-24",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Bologna",
-      "logo": "https://crests.football-data.org/103.png"
-    },
-    "team_b": {
-      "name": "Lazio",
-      "logo": "https://crests.football-data.org/110.png"
-    },
-    "score": "0 - 1",
-    "time": "16:30"
-  },
-  {
-    "match_id": "564639",
+    "match_id": "564637",
     "tournament": "Primera Division",
-    "date": "2026-08-24",
-    "status": "FINISHED",
+    "date": "2026-08-25",
+    "status": "TIMED",
     "team_a": {
-      "name": "Osasuna",
-      "logo": "https://crests.football-data.org/79.png"
+      "name": "Valencia",
+      "logo": "https://crests.football-data.org/95.png"
     },
     "team_b": {
-      "name": "Levante",
-      "logo": "https://crests.football-data.org/88.png"
+      "name": "Real Betis",
+      "logo": "https://crests.football-data.org/90.png"
     },
-    "score": "0 - 0",
-    "time": "17:30"
-  },
-  {
-    "match_id": "558638",
-    "tournament": "Serie A",
-    "date": "2026-08-24",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Roma",
-      "logo": "https://crests.football-data.org/100.png"
-    },
-    "team_b": {
-      "name": "Fiorentina",
-      "logo": "https://crests.football-data.org/99.png"
-    },
-    "score": "4 - 0",
-    "time": "18:45"
-  },
-  {
-    "match_id": "560551",
-    "tournament": "Premier League",
-    "date": "2026-08-24",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Fulham",
-      "logo": "https://crests.football-data.org/63.png"
-    },
-    "team_b": {
-      "name": "Chelsea",
-      "logo": "https://crests.football-data.org/61.png"
-    },
-    "score": "2 - 3",
+    "score": "vs",
     "time": "19:00"
-  },
-  {
-    "match_id": "567277",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-24",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Gil Vicente",
-      "logo": "https://crests.football-data.org/5533.png"
-    },
-    "team_b": {
-      "name": "Casa Pia",
-      "logo": "https://crests.football-data.org/6618.png"
-    },
-    "score": "2 - 0",
-    "time": "19:15"
-  },
-  {
-    "match_id": "564640",
-    "tournament": "Primera Division",
-    "date": "2026-08-24",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Málaga",
-      "logo": "https://crests.football-data.org/84.png"
-    },
-    "team_b": {
-      "name": "Deportivo",
-      "logo": "https://crests.football-data.org/560.png"
-    },
-    "score": "1 - 1",
-    "time": "19:30"
-  },
-  {
-    "match_id": "554970",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-08-24",
-    "status": "PAUSED",
-    "team_a": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
-    },
-    "team_b": {
-      "name": "Paranaense",
-      "logo": "https://crests.football-data.org/1768.png"
-    },
-    "score": "0 - 2",
-    "time": "23:00"
   }
 ]
