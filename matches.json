@@ -35,7 +35,7 @@
     "match_id": "558247",
     "tournament": "Eredivisie",
     "date": "2026-08-30",
-    "status": "2026-08-30 11:30:00Z",
+    "status": "FINISHED",
     "team_a": {
       "name": "Feyenoord",
       "logo": "https://crests.football-data.org/675.png"
@@ -44,14 +44,14 @@
       "name": "Den Haag",
       "logo": "https://crests.football-data.org/680.png"
     },
-    "score": "vs",
+    "score": "2 - 2",
     "time": "12:30"
   },
   {
     "match_id": "558246",
     "tournament": "Eredivisie",
     "date": "2026-08-30",
-    "status": "2026-08-30 11:30:00Z",
+    "status": "FINISHED",
     "team_a": {
       "name": "Willem II",
       "logo": "https://crests.football-data.org/672.png"
@@ -60,14 +60,14 @@
       "name": "Heerenveen",
       "logo": "https://crests.football-data.org/673.png"
     },
-    "score": "vs",
+    "score": "2 - 2",
     "time": "12:30"
   },
   {
     "match_id": "559707",
     "tournament": "Ligue 1",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Paris FC",
       "logo": "https://crests.football-data.org/1045.png"
@@ -76,14 +76,14 @@
       "name": "Nice",
       "logo": "https://crests.football-data.org/522.png"
     },
-    "score": "vs",
+    "score": "3 - 0",
     "time": "13:00"
   },
   {
     "match_id": "560554",
     "tournament": "Premier League",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Sunderland",
       "logo": "https://crests.football-data.org/71.png"
@@ -92,14 +92,14 @@
       "name": "Fulham",
       "logo": "https://crests.football-data.org/63.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "13:00"
   },
   {
     "match_id": "560559",
     "tournament": "Premier League",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Leeds United",
       "logo": "https://crests.football-data.org/341.png"
@@ -108,14 +108,14 @@
       "name": "Brentford",
       "logo": "https://crests.football-data.org/402.png"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "13:00"
   },
   {
     "match_id": "560556",
     "tournament": "Premier League",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Chelsea",
       "logo": "https://crests.football-data.org/61.png"
@@ -124,14 +124,14 @@
       "name": "Brighton Hove",
       "logo": "https://crests.football-data.org/397.png"
     },
-    "score": "vs",
+    "score": "4 - 3",
     "time": "13:00"
   },
   {
     "match_id": "565784",
     "tournament": "Bundesliga",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Freiburg",
       "logo": "https://crests.football-data.org/17.png"
@@ -140,14 +140,14 @@
       "name": "Bremen",
       "logo": "https://crests.football-data.org/12.png"
     },
-    "score": "vs",
+    "score": "4 - 1",
     "time": "13:30"
   },
   {
     "match_id": "554980",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Paranaense",
       "logo": "https://crests.football-data.org/1768.png"
@@ -156,14 +156,14 @@
       "name": "Fluminense",
       "logo": "https://crests.football-data.org/1765.png"
     },
-    "score": "vs",
+    "score": "3 - 3",
     "time": "14:00"
   },
   {
     "match_id": "567286",
     "tournament": "Primeira Liga",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "CD Nacional",
       "logo": "https://crests.football-data.org/5529.png"
@@ -172,14 +172,14 @@
       "name": "Amadora",
       "logo": "https://crests.football-data.org/9136.png"
     },
-    "score": "vs",
+    "score": "2 - 3",
     "time": "14:30"
   },
   {
     "match_id": "558248",
     "tournament": "Eredivisie",
     "date": "2026-08-30",
-    "status": "2026-08-30 13:45:00Z",
+    "status": "FINISHED",
     "team_a": {
       "name": "Telstar",
       "logo": "https://crests.football-data.org/1912.png"
@@ -188,14 +188,14 @@
       "name": "Ajax",
       "logo": "https://crests.football-data.org/678.png"
     },
-    "score": "vs",
+    "score": "0 - 4",
     "time": "14:45"
   },
   {
     "match_id": "564656",
     "tournament": "Primera Division",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Real Madrid",
       "logo": "https://crests.football-data.org/86.png"
@@ -204,14 +204,14 @@
       "name": "Málaga",
       "logo": "https://crests.football-data.org/84.png"
     },
-    "score": "vs",
+    "score": "3 - 0",
     "time": "15:00"
   },
   {
     "match_id": "559709",
     "tournament": "Ligue 1",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Stade Rennais",
       "logo": "https://crests.football-data.org/529.png"
@@ -220,14 +220,14 @@
       "name": "Le Mans",
       "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
     },
-    "score": "vs",
+    "score": "2 - 2",
     "time": "15:15"
   },
   {
     "match_id": "565782",
     "tournament": "Bundesliga",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Augsburg",
       "logo": "https://crests.football-data.org/16.png"
@@ -236,14 +236,14 @@
       "name": "Schalke",
       "logo": "https://crests.football-data.org/6.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "15:30"
   },
   {
     "match_id": "560553",
     "tournament": "Premier League",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Man United",
       "logo": "https://crests.football-data.org/66.png"
@@ -252,14 +252,14 @@
       "name": "Ipswich Town",
       "logo": "https://crests.football-data.org/349.png"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "15:30"
   },
   {
     "match_id": "558626",
     "tournament": "Serie A",
     "date": "2026-08-30",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Napoli",
       "logo": "https://crests.football-data.org/113.png"
@@ -268,7 +268,7 @@
       "name": "Como 1907",
       "logo": "https://crests.football-data.org/7397.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "16:30"
   },
   {
