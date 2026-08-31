@@ -64,22 +64,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "567288",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-31",
-    "status": "TIMED",
-    "team_a": {
-      "name": "SL Benfica",
-      "logo": "https://crests.football-data.org/1903.png"
-    },
-    "team_b": {
-      "name": "Estoril Praia",
-      "logo": "https://crests.football-data.org/582.png"
-    },
-    "score": "vs",
-    "time": "19:15"
-  },
-  {
     "match_id": "567292",
     "tournament": "Primeira Liga",
     "date": "2026-08-31",
@@ -91,6 +75,22 @@
     "team_b": {
       "name": "Vitória SC",
       "logo": "https://crests.football-data.org/5543.png"
+    },
+    "score": "vs",
+    "time": "19:15"
+  },
+  {
+    "match_id": "567288",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-31",
+    "status": "TIMED",
+    "team_a": {
+      "name": "SL Benfica",
+      "logo": "https://crests.football-data.org/1903.png"
+    },
+    "team_b": {
+      "name": "Estoril Praia",
+      "logo": "https://crests.football-data.org/582.png"
     },
     "score": "vs",
     "time": "19:15"
