@@ -28,14 +28,14 @@
       "name": "Getafe",
       "logo": "https://crests.football-data.org/82.png"
     },
-    "score": "1 - 1",
+    "score": "1 - 0",
     "time": "17:30"
   },
   {
     "match_id": "558628",
     "tournament": "Serie A",
     "date": "2026-08-31",
-    "status": "PAUSED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Atalanta",
       "logo": "https://crests.football-data.org/102.png"
@@ -44,14 +44,14 @@
       "name": "Bologna",
       "logo": "https://crests.football-data.org/103.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "18:45"
   },
   {
     "match_id": "560557",
     "tournament": "Premier League",
     "date": "2026-08-31",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Aston Villa",
       "logo": "https://crests.football-data.org/58.png"
@@ -60,30 +60,14 @@
       "name": "Arsenal",
       "logo": "https://crests.football-data.org/57.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "19:00"
-  },
-  {
-    "match_id": "567288",
-    "tournament": "Primeira Liga",
-    "date": "2026-08-31",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "SL Benfica",
-      "logo": "https://crests.football-data.org/1903.png"
-    },
-    "team_b": {
-      "name": "Estoril Praia",
-      "logo": "https://crests.football-data.org/582.png"
-    },
-    "score": "0 - 0",
-    "time": "19:15"
   },
   {
     "match_id": "567292",
     "tournament": "Primeira Liga",
     "date": "2026-08-31",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Braga",
       "logo": "https://crests.football-data.org/5613.png"
@@ -92,14 +76,30 @@
       "name": "Vitória SC",
       "logo": "https://crests.football-data.org/5543.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 0",
+    "time": "19:15"
+  },
+  {
+    "match_id": "567288",
+    "tournament": "Primeira Liga",
+    "date": "2026-08-31",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "SL Benfica",
+      "logo": "https://crests.football-data.org/1903.png"
+    },
+    "team_b": {
+      "name": "Estoril Praia",
+      "logo": "https://crests.football-data.org/582.png"
+    },
+    "score": "2 - 1",
     "time": "19:15"
   },
   {
     "match_id": "564650",
     "tournament": "Primera Division",
     "date": "2026-08-31",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Barça",
       "logo": "https://crests.football-data.org/81.png"
@@ -108,14 +108,14 @@
       "name": "Rayo Vallecano",
       "logo": "https://crests.football-data.org/87.png"
     },
-    "score": "0 - 0",
+    "score": "5 - 2",
     "time": "19:30"
   },
   {
     "match_id": "554987",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-08-31",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Clube do Remo",
       "logo": "https://crests.football-data.org/4287.png"
@@ -124,7 +124,7 @@
       "name": "Coritiba",
       "logo": "https://crests.football-data.org/4241.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "23:00"
   }
 ]
