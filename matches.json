@@ -1,25 +1,9 @@
 [
   {
-    "match_id": "561801",
-    "tournament": "Championship",
-    "date": "2026-09-01",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Sheffield Utd",
-      "logo": "https://crests.football-data.org/356.png"
-    },
-    "team_b": {
-      "name": "Bolton",
-      "logo": "https://crests.football-data.org/60.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "561799",
     "tournament": "Championship",
     "date": "2026-09-01",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "West Ham",
       "logo": "https://crests.football-data.org/563.png"
@@ -28,30 +12,30 @@
       "name": "Wolverhampton",
       "logo": "https://crests.football-data.org/76.png"
     },
-    "score": "vs",
+    "score": "2 - 0",
     "time": "18:45"
   },
   {
-    "match_id": "561800",
+    "match_id": "561801",
     "tournament": "Championship",
     "date": "2026-09-01",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
-      "name": "Lincoln City",
-      "logo": "https://crests.football-data.org/1126.png"
+      "name": "Sheffield Utd",
+      "logo": "https://crests.football-data.org/356.png"
     },
     "team_b": {
-      "name": "Blackburn",
-      "logo": "https://crests.football-data.org/59.png"
+      "name": "Bolton",
+      "logo": "https://crests.football-data.org/60.png"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "18:45"
   },
   {
     "match_id": "561802",
     "tournament": "Championship",
     "date": "2026-09-01",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Portsmouth",
       "logo": "https://crests.football-data.org/325.png"
@@ -60,14 +44,14 @@
       "name": "Derby County",
       "logo": "https://crests.football-data.org/342.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "18:45"
   },
   {
     "match_id": "561798",
     "tournament": "Championship",
     "date": "2026-09-01",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Preston NE",
       "logo": "https://crests.football-data.org/1081.png"
@@ -76,14 +60,14 @@
       "name": "Bristol City",
       "logo": "https://crests.football-data.org/387.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "18:45"
   },
   {
     "match_id": "561804",
     "tournament": "Championship",
     "date": "2026-09-01",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Swansea",
       "logo": "https://crests.football-data.org/72.png"
@@ -92,14 +76,30 @@
       "name": "Watford",
       "logo": "https://crests.football-data.org/346.png"
     },
-    "score": "vs",
+    "score": "2 - 0",
+    "time": "18:45"
+  },
+  {
+    "match_id": "561800",
+    "tournament": "Championship",
+    "date": "2026-09-01",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Lincoln City",
+      "logo": "https://crests.football-data.org/1126.png"
+    },
+    "team_b": {
+      "name": "Blackburn",
+      "logo": "https://crests.football-data.org/59.png"
+    },
+    "score": "0 - 0",
     "time": "18:45"
   },
   {
     "match_id": "561797",
     "tournament": "Championship",
     "date": "2026-09-01",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Stoke",
       "logo": "https://crests.football-data.org/70.png"
@@ -108,14 +108,14 @@
       "name": "Norwich",
       "logo": "https://crests.football-data.org/68.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "19:00"
   },
   {
     "match_id": "561803",
     "tournament": "Championship",
     "date": "2026-09-01",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Birmingham",
       "logo": "https://crests.football-data.org/332.png"
@@ -124,7 +124,7 @@
       "name": "Southampton",
       "logo": "https://crests.football-data.org/340.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:00"
   }
 ]
