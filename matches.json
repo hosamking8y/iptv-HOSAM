@@ -32,22 +32,6 @@
     "time": "18:45"
   },
   {
-    "match_id": "561802",
-    "tournament": "Championship",
-    "date": "2026-09-01",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Portsmouth",
-      "logo": "https://crests.football-data.org/325.png"
-    },
-    "team_b": {
-      "name": "Derby County",
-      "logo": "https://crests.football-data.org/342.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "561798",
     "tournament": "Championship",
     "date": "2026-09-01",
@@ -96,20 +80,20 @@
     "time": "18:45"
   },
   {
-    "match_id": "561797",
+    "match_id": "561802",
     "tournament": "Championship",
     "date": "2026-09-01",
     "status": "TIMED",
     "team_a": {
-      "name": "Stoke",
-      "logo": "https://crests.football-data.org/70.png"
+      "name": "Portsmouth",
+      "logo": "https://crests.football-data.org/325.png"
     },
     "team_b": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
+      "name": "Derby County",
+      "logo": "https://crests.football-data.org/342.png"
     },
     "score": "vs",
-    "time": "19:00"
+    "time": "18:45"
   },
   {
     "match_id": "561803",
@@ -123,6 +107,22 @@
     "team_b": {
       "name": "Southampton",
       "logo": "https://crests.football-data.org/340.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "561797",
+    "tournament": "Championship",
+    "date": "2026-09-01",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Stoke",
+      "logo": "https://crests.football-data.org/70.png"
+    },
+    "team_b": {
+      "name": "Norwich",
+      "logo": "https://crests.football-data.org/68.png"
     },
     "score": "vs",
     "time": "19:00"
