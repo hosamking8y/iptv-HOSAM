@@ -32,6 +32,22 @@
     "time": "18:45"
   },
   {
+    "match_id": "561800",
+    "tournament": "Championship",
+    "date": "2026-09-01",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Lincoln City",
+      "logo": "https://crests.football-data.org/1126.png"
+    },
+    "team_b": {
+      "name": "Blackburn",
+      "logo": "https://crests.football-data.org/59.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
     "match_id": "561802",
     "tournament": "Championship",
     "date": "2026-09-01",
@@ -75,22 +91,6 @@
     "team_b": {
       "name": "Watford",
       "logo": "https://crests.football-data.org/346.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "561800",
-    "tournament": "Championship",
-    "date": "2026-09-01",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Lincoln City",
-      "logo": "https://crests.football-data.org/1126.png"
-    },
-    "team_b": {
-      "name": "Blackburn",
-      "logo": "https://crests.football-data.org/59.png"
     },
     "score": "vs",
     "time": "18:45"
