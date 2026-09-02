@@ -1,25 +1,9 @@
 [
   {
-    "match_id": "561808",
-    "tournament": "Championship",
-    "date": "2026-09-02",
-    "status": "TIMED",
-    "team_a": {
-      "name": "West Brom",
-      "logo": "https://crests.football-data.org/74.png"
-    },
-    "team_b": {
-      "name": "Charlton",
-      "logo": "https://crests.football-data.org/348.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "561806",
     "tournament": "Championship",
     "date": "2026-09-02",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Millwall",
       "logo": "https://crests.football-data.org/384.png"
@@ -28,14 +12,30 @@
       "name": "Wrexham",
       "logo": "https://crests.football-data.org/404.png"
     },
-    "score": "vs",
+    "score": "0 - 3",
+    "time": "18:45"
+  },
+  {
+    "match_id": "561808",
+    "tournament": "Championship",
+    "date": "2026-09-02",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "West Brom",
+      "logo": "https://crests.football-data.org/74.png"
+    },
+    "team_b": {
+      "name": "Charlton",
+      "logo": "https://crests.football-data.org/348.png"
+    },
+    "score": "1 - 1",
     "time": "18:45"
   },
   {
     "match_id": "561807",
     "tournament": "Championship",
     "date": "2026-09-02",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "QPR",
       "logo": "https://crests.football-data.org/69.png"
@@ -44,14 +44,14 @@
       "name": "Cardiff",
       "logo": "https://crests.football-data.org/715.png"
     },
-    "score": "vs",
+    "score": "2 - 1",
     "time": "18:45"
   },
   {
     "match_id": "561805",
     "tournament": "Championship",
     "date": "2026-09-02",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Burnley",
       "logo": "https://crests.football-data.org/328.png"
@@ -60,7 +60,7 @@
       "name": "Middlesbrough",
       "logo": "https://crests.football-data.org/343.png"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "19:00"
   },
   {
