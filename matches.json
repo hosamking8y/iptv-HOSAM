@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "561806",
-    "tournament": "Championship",
-    "date": "2026-09-02",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Millwall",
-      "logo": "https://crests.football-data.org/384.png"
-    },
-    "team_b": {
-      "name": "Wrexham",
-      "logo": "https://crests.football-data.org/404.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "561808",
     "tournament": "Championship",
     "date": "2026-09-02",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Charlton",
       "logo": "https://crests.football-data.org/348.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "561806",
+    "tournament": "Championship",
+    "date": "2026-09-02",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Millwall",
+      "logo": "https://crests.football-data.org/384.png"
+    },
+    "team_b": {
+      "name": "Wrexham",
+      "logo": "https://crests.football-data.org/404.png"
     },
     "score": "vs",
     "time": "18:45"
