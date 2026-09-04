@@ -3,7 +3,7 @@
     "match_id": "559699",
     "tournament": "Ligue 1",
     "date": "2026-09-04",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Olympique Lyon",
       "logo": "https://crests.football-data.org/523.png"
@@ -12,14 +12,14 @@
       "name": "Auxerre",
       "logo": "https://crests.football-data.org/519.png"
     },
-    "score": "0 - 0",
+    "score": "3 - 1",
     "time": "17:00"
   },
   {
     "match_id": "558250",
     "tournament": "Eredivisie",
     "date": "2026-09-04",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Sparta",
       "logo": "https://crests.football-data.org/6806.png"
@@ -28,14 +28,14 @@
       "name": "Zwolle",
       "logo": "https://crests.football-data.org/684.png"
     },
-    "score": "vs",
+    "score": "2 - 1",
     "time": "18:00"
   },
   {
     "match_id": "565791",
     "tournament": "Bundesliga",
     "date": "2026-09-04",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Stuttgart",
       "logo": "https://crests.football-data.org/10.png"
@@ -44,14 +44,14 @@
       "name": "1. FC Köln",
       "logo": "https://crests.football-data.org/1.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "18:30"
   },
   {
     "match_id": "558609",
     "tournament": "Serie A",
     "date": "2026-09-04",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Genoa",
       "logo": "https://crests.football-data.org/107.png"
@@ -60,30 +60,14 @@
       "name": "Como 1907",
       "logo": "https://crests.football-data.org/7397.png"
     },
-    "score": "vs",
+    "score": "1 - 3",
     "time": "18:45"
-  },
-  {
-    "match_id": "564667",
-    "tournament": "Primera Division",
-    "date": "2026-09-04",
-    "status": "2026-09-04 18:00:00Z",
-    "team_a": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "team_b": {
-      "name": "Real Madrid",
-      "logo": "https://crests.football-data.org/86.png"
-    },
-    "score": "vs",
-    "time": "19:00"
   },
   {
     "match_id": "560566",
     "tournament": "Premier League",
     "date": "2026-09-04",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Ipswich Town",
       "logo": "https://crests.football-data.org/349.png"
@@ -92,14 +76,30 @@
       "name": "Liverpool",
       "logo": "https://crests.football-data.org/64.png"
     },
-    "score": "vs",
+    "score": "0 - 2",
+    "time": "19:00"
+  },
+  {
+    "match_id": "564667",
+    "tournament": "Primera Division",
+    "date": "2026-09-04",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Real Betis",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "team_b": {
+      "name": "Real Madrid",
+      "logo": "https://crests.football-data.org/86.png"
+    },
+    "score": "0 - 0",
     "time": "19:00"
   },
   {
     "match_id": "559697",
     "tournament": "Ligue 1",
     "date": "2026-09-04",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "PSG",
       "logo": "https://crests.football-data.org/524.png"
@@ -108,14 +108,14 @@
       "name": "Monaco",
       "logo": "https://crests.football-data.org/548.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:05"
   },
   {
     "match_id": "567299",
     "tournament": "Primeira Liga",
     "date": "2026-09-04",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Porto",
       "logo": "https://crests.football-data.org/503.png"
@@ -124,7 +124,7 @@
       "name": "Moreirense",
       "logo": "https://crests.football-data.org/583.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:15"
   }
 ]
