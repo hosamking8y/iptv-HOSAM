@@ -64,22 +64,6 @@
     "time": "18:45"
   },
   {
-    "match_id": "564667",
-    "tournament": "Primera Division",
-    "date": "2026-09-04",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "team_b": {
-      "name": "Real Madrid",
-      "logo": "https://crests.football-data.org/86.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "560566",
     "tournament": "Premier League",
     "date": "2026-09-04",
@@ -91,6 +75,22 @@
     "team_b": {
       "name": "Liverpool",
       "logo": "https://crests.football-data.org/64.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "564667",
+    "tournament": "Primera Division",
+    "date": "2026-09-04",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Real Betis",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "team_b": {
+      "name": "Real Madrid",
+      "logo": "https://crests.football-data.org/86.png"
     },
     "score": "vs",
     "time": "19:00"
