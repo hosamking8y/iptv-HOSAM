@@ -3,7 +3,7 @@
     "match_id": "561813",
     "tournament": "Championship",
     "date": "2026-09-05",
-    "status": "FINISHED",
+    "status": "TIMED",
     "team_a": {
       "name": "Preston NE",
       "logo": "https://crests.football-data.org/1081.png"
@@ -12,7 +12,7 @@
       "name": "Blackburn",
       "logo": "https://crests.football-data.org/59.png"
     },
-    "score": "2 - 1",
+    "score": "vs",
     "time": "11:30"
   },
   {
@@ -160,38 +160,6 @@
     "time": "13:30"
   },
   {
-    "match_id": "561809",
-    "tournament": "Championship",
-    "date": "2026-09-05",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "QPR",
-      "logo": "https://crests.football-data.org/69.png"
-    },
-    "team_b": {
-      "name": "Middlesbrough",
-      "logo": "https://crests.football-data.org/343.png"
-    },
-    "score": "0 - 1",
-    "time": "14:00"
-  },
-  {
-    "match_id": "560564",
-    "tournament": "Premier League",
-    "date": "2026-09-05",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Brighton Hove",
-      "logo": "https://crests.football-data.org/397.png"
-    },
-    "team_b": {
-      "name": "Leeds United",
-      "logo": "https://crests.football-data.org/341.png"
-    },
-    "score": "1 - 1",
-    "time": "14:00"
-  },
-  {
     "match_id": "560568",
     "tournament": "Premier League",
     "date": "2026-09-05",
@@ -237,6 +205,54 @@
       "logo": "https://crests.football-data.org/73.png"
     },
     "score": "0 - 0",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561809",
+    "tournament": "Championship",
+    "date": "2026-09-05",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "QPR",
+      "logo": "https://crests.football-data.org/69.png"
+    },
+    "team_b": {
+      "name": "Middlesbrough",
+      "logo": "https://crests.football-data.org/343.png"
+    },
+    "score": "0 - 1",
+    "time": "14:00"
+  },
+  {
+    "match_id": "560564",
+    "tournament": "Premier League",
+    "date": "2026-09-05",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Brighton Hove",
+      "logo": "https://crests.football-data.org/397.png"
+    },
+    "team_b": {
+      "name": "Leeds United",
+      "logo": "https://crests.football-data.org/341.png"
+    },
+    "score": "1 - 1",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561812",
+    "tournament": "Championship",
+    "date": "2026-09-05",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Portsmouth",
+      "logo": "https://crests.football-data.org/325.png"
+    },
+    "team_b": {
+      "name": "Cardiff",
+      "logo": "https://crests.football-data.org/715.png"
+    },
+    "score": "2 - 0",
     "time": "14:00"
   },
   {
@@ -336,22 +352,6 @@
     "time": "14:00"
   },
   {
-    "match_id": "561812",
-    "tournament": "Championship",
-    "date": "2026-09-05",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Portsmouth",
-      "logo": "https://crests.football-data.org/325.png"
-    },
-    "team_b": {
-      "name": "Cardiff",
-      "logo": "https://crests.football-data.org/715.png"
-    },
-    "score": "2 - 0",
-    "time": "14:00"
-  },
-  {
     "match_id": "564663",
     "tournament": "Primera Division",
     "date": "2026-09-05",
@@ -432,22 +432,6 @@
     "time": "16:00"
   },
   {
-    "match_id": "564660",
-    "tournament": "Primera Division",
-    "date": "2026-09-05",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Rayo Vallecano",
-      "logo": "https://crests.football-data.org/87.png"
-    },
-    "team_b": {
-      "name": "Santander",
-      "logo": "https://crests.football-data.org/5335.png"
-    },
-    "score": "3 - 2",
-    "time": "16:30"
-  },
-  {
     "match_id": "565789",
     "tournament": "Bundesliga",
     "date": "2026-09-05",
@@ -461,6 +445,22 @@
       "logo": "https://crests.football-data.org/5.png"
     },
     "score": "0 - 0",
+    "time": "16:30"
+  },
+  {
+    "match_id": "564660",
+    "tournament": "Primera Division",
+    "date": "2026-09-05",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Rayo Vallecano",
+      "logo": "https://crests.football-data.org/87.png"
+    },
+    "team_b": {
+      "name": "Santander",
+      "logo": "https://crests.football-data.org/5335.png"
+    },
+    "score": "3 - 2",
     "time": "16:30"
   },
   {
@@ -675,7 +675,7 @@
     "match_id": "554998",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-05",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
@@ -684,7 +684,7 @@
       "name": "Mineiro",
       "logo": "https://crests.football-data.org/1766.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 0",
     "time": "21:30"
   },
   {
