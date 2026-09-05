@@ -160,22 +160,6 @@
     "time": "13:30"
   },
   {
-    "match_id": "561817",
-    "tournament": "Championship",
-    "date": "2026-09-05",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Burnley",
-      "logo": "https://crests.football-data.org/328.png"
-    },
-    "team_b": {
-      "name": "Bristol City",
-      "logo": "https://crests.football-data.org/387.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
     "match_id": "560562",
     "tournament": "Premier League",
     "date": "2026-09-05",
@@ -235,6 +219,22 @@
     "team_b": {
       "name": "Crystal Palace",
       "logo": "https://crests.football-data.org/354.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561817",
+    "tournament": "Championship",
+    "date": "2026-09-05",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Burnley",
+      "logo": "https://crests.football-data.org/328.png"
+    },
+    "team_b": {
+      "name": "Bristol City",
+      "logo": "https://crests.football-data.org/387.png"
     },
     "score": "vs",
     "time": "14:00"
@@ -432,22 +432,6 @@
     "time": "16:00"
   },
   {
-    "match_id": "565789",
-    "tournament": "Bundesliga",
-    "date": "2026-09-05",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Schalke",
-      "logo": "https://crests.football-data.org/6.png"
-    },
-    "team_b": {
-      "name": "Bayern",
-      "logo": "https://crests.football-data.org/5.png"
-    },
-    "score": "vs",
-    "time": "16:30"
-  },
-  {
     "match_id": "564660",
     "tournament": "Primera Division",
     "date": "2026-09-05",
@@ -459,6 +443,22 @@
     "team_b": {
       "name": "Santander",
       "logo": "https://crests.football-data.org/5335.png"
+    },
+    "score": "vs",
+    "time": "16:30"
+  },
+  {
+    "match_id": "565789",
+    "tournament": "Bundesliga",
+    "date": "2026-09-05",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Schalke",
+      "logo": "https://crests.football-data.org/6.png"
+    },
+    "team_b": {
+      "name": "Bayern",
+      "logo": "https://crests.football-data.org/5.png"
     },
     "score": "vs",
     "time": "16:30"
