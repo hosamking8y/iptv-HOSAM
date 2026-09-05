@@ -160,22 +160,6 @@
     "time": "13:30"
   },
   {
-    "match_id": "560568",
-    "tournament": "Premier League",
-    "date": "2026-09-05",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Fulham",
-      "logo": "https://crests.football-data.org/63.png"
-    },
-    "team_b": {
-      "name": "Crystal Palace",
-      "logo": "https://crests.football-data.org/354.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
     "match_id": "561817",
     "tournament": "Championship",
     "date": "2026-09-05",
@@ -240,17 +224,17 @@
     "time": "14:00"
   },
   {
-    "match_id": "561812",
-    "tournament": "Championship",
+    "match_id": "560568",
+    "tournament": "Premier League",
     "date": "2026-09-05",
     "status": "TIMED",
     "team_a": {
-      "name": "Portsmouth",
-      "logo": "https://crests.football-data.org/325.png"
+      "name": "Fulham",
+      "logo": "https://crests.football-data.org/63.png"
     },
     "team_b": {
-      "name": "Cardiff",
-      "logo": "https://crests.football-data.org/715.png"
+      "name": "Crystal Palace",
+      "logo": "https://crests.football-data.org/354.png"
     },
     "score": "vs",
     "time": "14:00"
@@ -347,6 +331,22 @@
     "team_b": {
       "name": "Derby County",
       "logo": "https://crests.football-data.org/342.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
+    "match_id": "561812",
+    "tournament": "Championship",
+    "date": "2026-09-05",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Portsmouth",
+      "logo": "https://crests.football-data.org/325.png"
+    },
+    "team_b": {
+      "name": "Cardiff",
+      "logo": "https://crests.football-data.org/715.png"
     },
     "score": "vs",
     "time": "14:00"
