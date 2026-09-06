@@ -3,7 +3,7 @@
     "match_id": "554995",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-06",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Fluminense",
       "logo": "https://crests.football-data.org/1765.png"
@@ -96,22 +96,6 @@
     "time": "13:00"
   },
   {
-    "match_id": "558615",
-    "tournament": "Serie A",
-    "date": "2026-09-06",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Frosinone",
-      "logo": "https://crests.football-data.org/470.png"
-    },
-    "team_b": {
-      "name": "Venezia FC",
-      "logo": "https://crests.football-data.org/454.png"
-    },
-    "score": "vs",
-    "time": "13:00"
-  },
-  {
     "match_id": "560567",
     "tournament": "Premier League",
     "date": "2026-09-06",
@@ -139,6 +123,22 @@
     "team_b": {
       "name": "Monza",
       "logo": "https://crests.football-data.org/5911.png"
+    },
+    "score": "vs",
+    "time": "13:00"
+  },
+  {
+    "match_id": "558615",
+    "tournament": "Serie A",
+    "date": "2026-09-06",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Frosinone",
+      "logo": "https://crests.football-data.org/470.png"
+    },
+    "team_b": {
+      "name": "Venezia FC",
+      "logo": "https://crests.football-data.org/454.png"
     },
     "score": "vs",
     "time": "13:00"
@@ -368,22 +368,6 @@
     "time": "18:45"
   },
   {
-    "match_id": "554996",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-09-06",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
-    },
-    "team_b": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "554994",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-06",
@@ -400,17 +384,17 @@
     "time": "19:00"
   },
   {
-    "match_id": "554997",
+    "match_id": "554996",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-06",
     "status": "TIMED",
     "team_a": {
-      "name": "Clube do Remo",
-      "logo": "https://crests.football-data.org/4287.png"
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
     },
     "team_b": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -427,6 +411,22 @@
     "team_b": {
       "name": "Sevilla FC",
       "logo": "https://crests.football-data.org/559.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "554997",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-09-06",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Clube do Remo",
+      "logo": "https://crests.football-data.org/4287.png"
+    },
+    "team_b": {
+      "name": "Flamengo",
+      "logo": "https://crests.football-data.org/1783.png"
     },
     "score": "vs",
     "time": "19:00"
