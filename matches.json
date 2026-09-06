@@ -435,7 +435,7 @@
     "match_id": "567301",
     "tournament": "Primeira Liga",
     "date": "2026-09-06",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Gil Vicente",
       "logo": "https://crests.football-data.org/5533.png"
@@ -451,7 +451,7 @@
     "match_id": "554990",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-06",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
@@ -460,14 +460,14 @@
       "name": "Palmeiras",
       "logo": "https://crests.football-data.org/1769.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "21:30"
   },
   {
     "match_id": "554992",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-06",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
@@ -476,7 +476,7 @@
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "22:30"
   }
 ]
