@@ -3,7 +3,7 @@
     "match_id": "558610",
     "tournament": "Serie A",
     "date": "2026-09-07",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Cagliari",
       "logo": "https://crests.football-data.org/104.png"
@@ -12,14 +12,14 @@
       "name": "Lecce",
       "logo": "https://crests.football-data.org/5890.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "16:30"
   },
   {
     "match_id": "564665",
     "tournament": "Primera Division",
     "date": "2026-09-07",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Getafe",
       "logo": "https://crests.football-data.org/82.png"
@@ -28,14 +28,14 @@
       "name": "Celta",
       "logo": "https://crests.football-data.org/558.png"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "17:00"
   },
   {
     "match_id": "558617",
     "tournament": "Serie A",
     "date": "2026-09-07",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Udinese",
       "logo": "https://crests.football-data.org/115.png"
@@ -44,14 +44,14 @@
       "name": "Lazio",
       "logo": "https://crests.football-data.org/110.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "18:45"
   },
   {
     "match_id": "567295",
     "tournament": "Primeira Liga",
     "date": "2026-09-07",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Estoril Praia",
       "logo": "https://crests.football-data.org/582.png"
@@ -60,7 +60,7 @@
       "name": "Arouca",
       "logo": "https://crests.football-data.org/712.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:15"
   },
   {
