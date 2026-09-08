@@ -32,22 +32,6 @@
     "time": "12:00"
   },
   {
-    "match_id": "558233",
-    "tournament": "Eredivisie",
-    "date": "2026-09-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "NEC",
-      "logo": "https://crests.football-data.org/1915.png"
-    },
-    "team_b": {
-      "name": "Excelsior",
-      "logo": "https://crests.football-data.org/670.png"
-    },
-    "score": "vs",
-    "time": "16:45"
-  },
-  {
     "match_id": "575323",
     "tournament": "UEFA Champions League",
     "date": "2026-09-08",
@@ -59,6 +43,22 @@
     "team_b": {
       "name": "Aston Villa",
       "logo": "https://crests.football-data.org/58.png"
+    },
+    "score": "vs",
+    "time": "16:45"
+  },
+  {
+    "match_id": "558233",
+    "tournament": "Eredivisie",
+    "date": "2026-09-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "NEC",
+      "logo": "https://crests.football-data.org/1915.png"
+    },
+    "team_b": {
+      "name": "Excelsior",
+      "logo": "https://crests.football-data.org/670.png"
     },
     "score": "vs",
     "time": "16:45"
@@ -112,22 +112,6 @@
     "time": "18:45"
   },
   {
-    "match_id": "561824",
-    "tournament": "Championship",
-    "date": "2026-09-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Cardiff",
-      "logo": "https://crests.football-data.org/715.png"
-    },
-    "team_b": {
-      "name": "Stoke",
-      "logo": "https://crests.football-data.org/70.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "561830",
     "tournament": "Championship",
     "date": "2026-09-08",
@@ -155,6 +139,22 @@
     "team_b": {
       "name": "Swansea",
       "logo": "https://crests.football-data.org/72.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "561824",
+    "tournament": "Championship",
+    "date": "2026-09-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Cardiff",
+      "logo": "https://crests.football-data.org/715.png"
+    },
+    "team_b": {
+      "name": "Stoke",
+      "logo": "https://crests.football-data.org/70.png"
     },
     "score": "vs",
     "time": "18:45"
