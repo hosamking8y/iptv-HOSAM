@@ -32,6 +32,22 @@
     "time": "12:00"
   },
   {
+    "match_id": "575324",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "PAE AEK",
+      "logo": "https://crests.football-data.org/1899.png"
+    },
+    "team_b": {
+      "name": "LASK",
+      "logo": "https://crests.football-data.org/2016.png"
+    },
+    "score": "vs",
+    "time": "16:45"
+  },
+  {
     "match_id": "575323",
     "tournament": "UEFA Champions League",
     "date": "2026-09-08",
@@ -64,49 +80,17 @@
     "time": "16:45"
   },
   {
-    "match_id": "575324",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "PAE AEK",
-      "logo": "https://crests.football-data.org/1899.png"
-    },
-    "team_b": {
-      "name": "LASK",
-      "logo": "https://crests.football-data.org/2016.png"
-    },
-    "score": "vs",
-    "time": "16:45"
-  },
-  {
-    "match_id": "561823",
+    "match_id": "561822",
     "tournament": "Championship",
     "date": "2026-09-08",
     "status": "TIMED",
     "team_a": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
+      "name": "Southampton",
+      "logo": "https://crests.football-data.org/340.png"
     },
     "team_b": {
-      "name": "Preston NE",
-      "logo": "https://crests.football-data.org/1081.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "561821",
-    "tournament": "Championship",
-    "date": "2026-09-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Blackburn",
-      "logo": "https://crests.football-data.org/59.png"
-    },
-    "team_b": {
-      "name": "Sheffield Utd",
-      "logo": "https://crests.football-data.org/356.png"
+      "name": "Swansea",
+      "logo": "https://crests.football-data.org/72.png"
     },
     "score": "vs",
     "time": "18:45"
@@ -144,20 +128,68 @@
     "time": "18:45"
   },
   {
-    "match_id": "561822",
+    "match_id": "561823",
     "tournament": "Championship",
     "date": "2026-09-08",
     "status": "TIMED",
     "team_a": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
     },
     "team_b": {
-      "name": "Swansea",
-      "logo": "https://crests.football-data.org/72.png"
+      "name": "Preston NE",
+      "logo": "https://crests.football-data.org/1081.png"
     },
     "score": "vs",
     "time": "18:45"
+  },
+  {
+    "match_id": "561821",
+    "tournament": "Championship",
+    "date": "2026-09-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Blackburn",
+      "logo": "https://crests.football-data.org/59.png"
+    },
+    "team_b": {
+      "name": "Sheffield Utd",
+      "logo": "https://crests.football-data.org/356.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "575328",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Lille",
+      "logo": "https://crests.football-data.org/521.png"
+    },
+    "team_b": {
+      "name": "Real Betis",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575326",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-08",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Porto",
+      "logo": "https://crests.football-data.org/503.png"
+    },
+    "team_b": {
+      "name": "Man City",
+      "logo": "https://crests.football-data.org/65.png"
+    },
+    "score": "vs",
+    "time": "19:00"
   },
   {
     "match_id": "575325",
@@ -203,38 +235,6 @@
     "team_b": {
       "name": "Villarreal",
       "logo": "https://crests.football-data.org/94.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575328",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Lille",
-      "logo": "https://crests.football-data.org/521.png"
-    },
-    "team_b": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575326",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-08",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Porto",
-      "logo": "https://crests.football-data.org/503.png"
-    },
-    "team_b": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
     },
     "score": "vs",
     "time": "19:00"
