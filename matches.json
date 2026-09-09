@@ -16,22 +16,6 @@
     "time": "16:45"
   },
   {
-    "match_id": "575329",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
-    },
-    "team_b": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "score": "5 - 1",
-    "time": "16:45"
-  },
-  {
     "match_id": "558239",
     "tournament": "Eredivisie",
     "date": "2026-09-09",
@@ -48,26 +32,26 @@
     "time": "16:45"
   },
   {
-    "match_id": "561832",
-    "tournament": "Championship",
+    "match_id": "575329",
+    "tournament": "UEFA Champions League",
     "date": "2026-09-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
     },
     "team_b": {
-      "name": "Birmingham",
-      "logo": "https://crests.football-data.org/332.png"
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
     },
-    "score": "2 - 0",
-    "time": "18:45"
+    "score": "5 - 1",
+    "time": "16:45"
   },
   {
     "match_id": "561829",
     "tournament": "Championship",
     "date": "2026-09-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Derby County",
       "logo": "https://crests.football-data.org/342.png"
@@ -80,10 +64,26 @@
     "time": "18:45"
   },
   {
+    "match_id": "561832",
+    "tournament": "Championship",
+    "date": "2026-09-09",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Norwich",
+      "logo": "https://crests.football-data.org/68.png"
+    },
+    "team_b": {
+      "name": "Birmingham",
+      "logo": "https://crests.football-data.org/332.png"
+    },
+    "score": "2 - 1",
+    "time": "18:45"
+  },
+  {
     "match_id": "575334",
     "tournament": "UEFA Champions League",
     "date": "2026-09-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
@@ -92,14 +92,14 @@
       "name": "Galatasaray",
       "logo": "https://crests.football-data.org/610.png"
     },
-    "score": "1 - 1",
+    "score": "3 - 1",
     "time": "19:00"
   },
   {
     "match_id": "575332",
     "tournament": "UEFA Champions League",
     "date": "2026-09-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "PSG",
       "logo": "https://crests.football-data.org/524.png"
@@ -108,30 +108,14 @@
       "name": "Sl. Bratislava",
       "logo": "https://crests.football-data.org/7509.png"
     },
-    "score": "3 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575333",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
-    },
-    "team_b": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
-    },
-    "score": "0 - 0",
+    "score": "6 - 1",
     "time": "19:00"
   },
   {
     "match_id": "575331",
     "tournament": "UEFA Champions League",
     "date": "2026-09-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Liverpool",
       "logo": "https://crests.football-data.org/64.png"
@@ -140,14 +124,14 @@
       "name": "Atleti",
       "logo": "https://crests.football-data.org/78.png"
     },
-    "score": "1 - 1",
+    "score": "2 - 1",
     "time": "19:00"
   },
   {
     "match_id": "561831",
     "tournament": "Championship",
     "date": "2026-09-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Charlton",
       "logo": "https://crests.football-data.org/348.png"
@@ -160,10 +144,26 @@
     "time": "19:00"
   },
   {
+    "match_id": "575333",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-09",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Napoli",
+      "logo": "https://crests.football-data.org/113.png"
+    },
+    "team_b": {
+      "name": "Arsenal",
+      "logo": "https://crests.football-data.org/57.png"
+    },
+    "score": "0 - 1",
+    "time": "19:00"
+  },
+  {
     "match_id": "567282",
     "tournament": "Primeira Liga",
     "date": "2026-09-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Moreirense",
       "logo": "https://crests.football-data.org/583.png"
@@ -172,7 +172,7 @@
       "name": "SL Benfica",
       "logo": "https://crests.football-data.org/1903.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 4",
     "time": "19:45"
   },
   {
