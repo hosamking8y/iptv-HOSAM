@@ -1,25 +1,9 @@
 [
   {
-    "match_id": "575329",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
-    },
-    "team_b": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "score": "vs",
-    "time": "16:45"
-  },
-  {
     "match_id": "558239",
     "tournament": "Eredivisie",
     "date": "2026-09-09",
-    "status": "TIMED",
+    "status": "PAUSED",
     "team_a": {
       "name": "Twente",
       "logo": "https://crests.football-data.org/666.png"
@@ -28,14 +12,30 @@
       "name": "Telstar",
       "logo": "https://crests.football-data.org/1912.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
+    "time": "16:45"
+  },
+  {
+    "match_id": "575329",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-09",
+    "status": "PAUSED",
+    "team_a": {
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "team_b": {
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
+    },
+    "score": "2 - 0",
     "time": "16:45"
   },
   {
     "match_id": "575330",
     "tournament": "UEFA Champions League",
     "date": "2026-09-09",
-    "status": "TIMED",
+    "status": "PAUSED",
     "team_a": {
       "name": "Stuttgart",
       "logo": "https://crests.football-data.org/10.png"
@@ -44,30 +44,14 @@
       "name": "Viking",
       "logo": "https://crests.football-data.org/5720.png"
     },
-    "score": "vs",
+    "score": "3 - 1",
     "time": "16:45"
-  },
-  {
-    "match_id": "561832",
-    "tournament": "Championship",
-    "date": "2026-09-09",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
-    },
-    "team_b": {
-      "name": "Birmingham",
-      "logo": "https://crests.football-data.org/332.png"
-    },
-    "score": "vs",
-    "time": "18:45"
   },
   {
     "match_id": "561829",
     "tournament": "Championship",
     "date": "2026-09-09",
-    "status": "TIMED",
+    "status": "2026-09-09 18:45:00Z",
     "team_a": {
       "name": "Derby County",
       "logo": "https://crests.football-data.org/342.png"
@@ -80,10 +64,42 @@
     "time": "18:45"
   },
   {
+    "match_id": "561832",
+    "tournament": "Championship",
+    "date": "2026-09-09",
+    "status": "2026-09-09 18:45:00Z",
+    "team_a": {
+      "name": "Norwich",
+      "logo": "https://crests.football-data.org/68.png"
+    },
+    "team_b": {
+      "name": "Birmingham",
+      "logo": "https://crests.football-data.org/332.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "575331",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-09",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Liverpool",
+      "logo": "https://crests.football-data.org/64.png"
+    },
+    "team_b": {
+      "name": "Atleti",
+      "logo": "https://crests.football-data.org/78.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
     "match_id": "561831",
     "tournament": "Championship",
     "date": "2026-09-09",
-    "status": "TIMED",
+    "status": "2026-09-09 19:00:00Z",
     "team_a": {
       "name": "Charlton",
       "logo": "https://crests.football-data.org/348.png"
@@ -107,22 +123,6 @@
     "team_b": {
       "name": "Arsenal",
       "logo": "https://crests.football-data.org/57.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575331",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Liverpool",
-      "logo": "https://crests.football-data.org/64.png"
-    },
-    "team_b": {
-      "name": "Atleti",
-      "logo": "https://crests.football-data.org/78.png"
     },
     "score": "vs",
     "time": "19:00"
