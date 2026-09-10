@@ -1,194 +1,130 @@
 [
   {
-    "match_id": "575330",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Stuttgart",
-      "logo": "https://crests.football-data.org/10.png"
-    },
-    "team_b": {
-      "name": "Viking",
-      "logo": "https://crests.football-data.org/5720.png"
-    },
-    "score": "3 - 1",
-    "time": "16:45"
-  },
-  {
-    "match_id": "558239",
-    "tournament": "Eredivisie",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Twente",
-      "logo": "https://crests.football-data.org/666.png"
-    },
-    "team_b": {
-      "name": "Telstar",
-      "logo": "https://crests.football-data.org/1912.png"
-    },
-    "score": "1 - 0",
-    "time": "16:45"
-  },
-  {
-    "match_id": "575329",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
-    },
-    "team_b": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "score": "5 - 1",
-    "time": "16:45"
-  },
-  {
-    "match_id": "561829",
-    "tournament": "Championship",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Derby County",
-      "logo": "https://crests.football-data.org/342.png"
-    },
-    "team_b": {
-      "name": "West Brom",
-      "logo": "https://crests.football-data.org/74.png"
-    },
-    "score": "0 - 1",
-    "time": "18:45"
-  },
-  {
-    "match_id": "561832",
-    "tournament": "Championship",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
-    },
-    "team_b": {
-      "name": "Birmingham",
-      "logo": "https://crests.football-data.org/332.png"
-    },
-    "score": "2 - 1",
-    "time": "18:45"
-  },
-  {
-    "match_id": "575334",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Sporting CP",
-      "logo": "https://crests.football-data.org/498.png"
-    },
-    "team_b": {
-      "name": "Galatasaray",
-      "logo": "https://crests.football-data.org/610.png"
-    },
-    "score": "3 - 1",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575332",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "PSG",
-      "logo": "https://crests.football-data.org/524.png"
-    },
-    "team_b": {
-      "name": "Sl. Bratislava",
-      "logo": "https://crests.football-data.org/7509.png"
-    },
-    "score": "6 - 1",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575331",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Liverpool",
-      "logo": "https://crests.football-data.org/64.png"
-    },
-    "team_b": {
-      "name": "Atleti",
-      "logo": "https://crests.football-data.org/78.png"
-    },
-    "score": "2 - 1",
-    "time": "19:00"
-  },
-  {
-    "match_id": "561831",
-    "tournament": "Championship",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Charlton",
-      "logo": "https://crests.football-data.org/348.png"
-    },
-    "team_b": {
-      "name": "QPR",
-      "logo": "https://crests.football-data.org/69.png"
-    },
-    "score": "0 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575333",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
-    },
-    "team_b": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
-    },
-    "score": "0 - 1",
-    "time": "19:00"
-  },
-  {
-    "match_id": "567282",
-    "tournament": "Primeira Liga",
-    "date": "2026-09-09",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Moreirense",
-      "logo": "https://crests.football-data.org/583.png"
-    },
-    "team_b": {
-      "name": "SL Benfica",
-      "logo": "https://crests.football-data.org/1903.png"
-    },
-    "score": "0 - 4",
-    "time": "19:45"
-  },
-  {
-    "match_id": "557182",
+    "match_id": "576253",
     "tournament": "Copa Libertadores",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "status": "SCHEDULED",
     "team_a": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
+      "name": "Estudiantes LP",
+      "logo": "https://crests.football-data.org/2051.png"
     },
     "team_b": {
-      "name": "LDU de Quito",
-      "logo": "https://crests.football-data.org/4528.png"
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
     },
     "score": "vs",
-    "time": "22:00"
+    "time": "00:30"
+  },
+  {
+    "match_id": "575336",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-10",
+    "status": "TIMED",
+    "team_a": {
+      "name": "PSV",
+      "logo": "https://crests.football-data.org/674.png"
+    },
+    "team_b": {
+      "name": "Shaktar",
+      "logo": "https://crests.football-data.org/1887.png"
+    },
+    "score": "vs",
+    "time": "16:45"
+  },
+  {
+    "match_id": "575335",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-10",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Fenerbahçe",
+      "logo": "https://crests.football-data.org/613.png"
+    },
+    "team_b": {
+      "name": "Roma",
+      "logo": "https://crests.football-data.org/100.png"
+    },
+    "score": "vs",
+    "time": "16:45"
+  },
+  {
+    "match_id": "575338",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-10",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Man United",
+      "logo": "https://crests.football-data.org/66.png"
+    },
+    "team_b": {
+      "name": "Sabah FK",
+      "logo": "https://crests.football-data.org/10233.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575340",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-10",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Slavia Praha",
+      "logo": "https://crests.football-data.org/930.png"
+    },
+    "team_b": {
+      "name": "RC Lens",
+      "logo": "https://crests.football-data.org/546.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575337",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-10",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bayern",
+      "logo": "https://crests.football-data.org/5.png"
+    },
+    "team_b": {
+      "name": "Bodø/Glimt",
+      "logo": "https://crests.football-data.org/5721.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575339",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-10",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Como 1907",
+      "logo": "https://crests.football-data.org/7397.png"
+    },
+    "team_b": {
+      "name": "RB Leipzig",
+      "logo": "https://crests.football-data.org/721.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "567276",
+    "tournament": "Primeira Liga",
+    "date": "2026-09-10",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Amadora",
+      "logo": "https://crests.football-data.org/9136.png"
+    },
+    "team_b": {
+      "name": "Braga",
+      "logo": "https://crests.football-data.org/5613.png"
+    },
+    "score": "vs",
+    "time": "19:15"
   }
 ]
