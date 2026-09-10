@@ -19,7 +19,7 @@
     "match_id": "575335",
     "tournament": "UEFA Champions League",
     "date": "2026-09-10",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Fenerbahçe",
       "logo": "https://crests.football-data.org/613.png"
@@ -28,14 +28,14 @@
       "name": "Roma",
       "logo": "https://crests.football-data.org/100.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "16:45"
   },
   {
     "match_id": "575336",
     "tournament": "UEFA Champions League",
     "date": "2026-09-10",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "PSV",
       "logo": "https://crests.football-data.org/674.png"
@@ -44,24 +44,8 @@
       "name": "Shaktar",
       "logo": "https://crests.football-data.org/1887.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "16:45"
-  },
-  {
-    "match_id": "575337",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-10",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bayern",
-      "logo": "https://crests.football-data.org/5.png"
-    },
-    "team_b": {
-      "name": "Bodø/Glimt",
-      "logo": "https://crests.football-data.org/5721.png"
-    },
-    "score": "vs",
-    "time": "19:00"
   },
   {
     "match_id": "575339",
@@ -75,6 +59,22 @@
     "team_b": {
       "name": "RB Leipzig",
       "logo": "https://crests.football-data.org/721.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575337",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-10",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bayern",
+      "logo": "https://crests.football-data.org/5.png"
+    },
+    "team_b": {
+      "name": "Bodø/Glimt",
+      "logo": "https://crests.football-data.org/5721.png"
     },
     "score": "vs",
     "time": "19:00"
