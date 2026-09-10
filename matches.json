@@ -48,26 +48,10 @@
     "time": "16:45"
   },
   {
-    "match_id": "575338",
-    "tournament": "UEFA Champions League",
-    "date": "2026-09-10",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Man United",
-      "logo": "https://crests.football-data.org/66.png"
-    },
-    "team_b": {
-      "name": "Sabah FK",
-      "logo": "https://crests.football-data.org/10233.png"
-    },
-    "score": "3 - 0",
-    "time": "19:00"
-  },
-  {
     "match_id": "575340",
     "tournament": "UEFA Champions League",
     "date": "2026-09-10",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Slavia Praha",
       "logo": "https://crests.football-data.org/930.png"
@@ -76,30 +60,30 @@
       "name": "RC Lens",
       "logo": "https://crests.football-data.org/546.png"
     },
-    "score": "1 - 0",
+    "score": "2 - 3",
     "time": "19:00"
   },
   {
-    "match_id": "575337",
+    "match_id": "575338",
     "tournament": "UEFA Champions League",
     "date": "2026-09-10",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Bayern",
-      "logo": "https://crests.football-data.org/5.png"
+      "name": "Man United",
+      "logo": "https://crests.football-data.org/66.png"
     },
     "team_b": {
-      "name": "Bodø/Glimt",
-      "logo": "https://crests.football-data.org/5721.png"
+      "name": "Sabah FK",
+      "logo": "https://crests.football-data.org/10233.png"
     },
-    "score": "0 - 0",
+    "score": "4 - 0",
     "time": "19:00"
   },
   {
     "match_id": "575339",
     "tournament": "UEFA Champions League",
     "date": "2026-09-10",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Como 1907",
       "logo": "https://crests.football-data.org/7397.png"
@@ -108,14 +92,30 @@
       "name": "RB Leipzig",
       "logo": "https://crests.football-data.org/721.png"
     },
-    "score": "2 - 0",
+    "score": "4 - 1",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575337",
+    "tournament": "UEFA Champions League",
+    "date": "2026-09-10",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Bayern",
+      "logo": "https://crests.football-data.org/5.png"
+    },
+    "team_b": {
+      "name": "Bodø/Glimt",
+      "logo": "https://crests.football-data.org/5721.png"
+    },
+    "score": "5 - 0",
     "time": "19:00"
   },
   {
     "match_id": "567276",
     "tournament": "Primeira Liga",
     "date": "2026-09-10",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Amadora",
       "logo": "https://crests.football-data.org/9136.png"
@@ -124,7 +124,7 @@
       "name": "Braga",
       "logo": "https://crests.football-data.org/5613.png"
     },
-    "score": "0 - 1",
+    "score": "2 - 1",
     "time": "19:15"
   }
 ]
