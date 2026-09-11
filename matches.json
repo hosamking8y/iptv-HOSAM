@@ -48,22 +48,6 @@
     "time": "18:30"
   },
   {
-    "match_id": "558606",
-    "tournament": "Serie A",
-    "date": "2026-09-11",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Venezia FC",
-      "logo": "https://crests.football-data.org/454.png"
-    },
-    "team_b": {
-      "name": "Fiorentina",
-      "logo": "https://crests.football-data.org/99.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "559689",
     "tournament": "Ligue 1",
     "date": "2026-09-11",
@@ -75,6 +59,22 @@
     "team_b": {
       "name": "Marseille",
       "logo": "https://crests.football-data.org/516.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "558606",
+    "tournament": "Serie A",
+    "date": "2026-09-11",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Venezia FC",
+      "logo": "https://crests.football-data.org/454.png"
+    },
+    "team_b": {
+      "name": "Fiorentina",
+      "logo": "https://crests.football-data.org/99.png"
     },
     "score": "vs",
     "time": "18:45"
