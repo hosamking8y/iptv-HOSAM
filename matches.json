@@ -48,22 +48,6 @@
     "time": "18:30"
   },
   {
-    "match_id": "559689",
-    "tournament": "Ligue 1",
-    "date": "2026-09-11",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Stade Rennais",
-      "logo": "https://crests.football-data.org/529.png"
-    },
-    "team_b": {
-      "name": "Marseille",
-      "logo": "https://crests.football-data.org/516.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "558606",
     "tournament": "Serie A",
     "date": "2026-09-11",
@@ -80,20 +64,20 @@
     "time": "18:45"
   },
   {
-    "match_id": "564669",
-    "tournament": "Primera Division",
+    "match_id": "559689",
+    "tournament": "Ligue 1",
     "date": "2026-09-11",
     "status": "TIMED",
     "team_a": {
-      "name": "Sevilla FC",
-      "logo": "https://crests.football-data.org/559.png"
+      "name": "Stade Rennais",
+      "logo": "https://crests.football-data.org/529.png"
     },
     "team_b": {
-      "name": "Valencia",
-      "logo": "https://crests.football-data.org/95.png"
+      "name": "Marseille",
+      "logo": "https://crests.football-data.org/516.png"
     },
     "score": "vs",
-    "time": "19:00"
+    "time": "18:45"
   },
   {
     "match_id": "561842",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Wrexham",
       "logo": "https://crests.football-data.org/404.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "564669",
+    "tournament": "Primera Division",
+    "date": "2026-09-11",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Sevilla FC",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "team_b": {
+      "name": "Valencia",
+      "logo": "https://crests.football-data.org/95.png"
     },
     "score": "vs",
     "time": "19:00"
