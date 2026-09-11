@@ -80,22 +80,6 @@
     "time": "18:45"
   },
   {
-    "match_id": "561842",
-    "tournament": "Championship",
-    "date": "2026-09-11",
-    "status": "TIMED",
-    "team_a": {
-      "name": "West Ham",
-      "logo": "https://crests.football-data.org/563.png"
-    },
-    "team_b": {
-      "name": "Wrexham",
-      "logo": "https://crests.football-data.org/404.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "564669",
     "tournament": "Primera Division",
     "date": "2026-09-11",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Valencia",
       "logo": "https://crests.football-data.org/95.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "561842",
+    "tournament": "Championship",
+    "date": "2026-09-11",
+    "status": "TIMED",
+    "team_a": {
+      "name": "West Ham",
+      "logo": "https://crests.football-data.org/563.png"
+    },
+    "team_b": {
+      "name": "Wrexham",
+      "logo": "https://crests.football-data.org/404.png"
     },
     "score": "vs",
     "time": "19:00"
