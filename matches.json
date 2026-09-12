@@ -3,7 +3,7 @@
     "match_id": "555004",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-12",
-    "status": "PAUSED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Coritiba",
       "logo": "https://crests.football-data.org/4241.png"
@@ -12,8 +12,24 @@
       "name": "Paranaense",
       "logo": "https://crests.football-data.org/1768.png"
     },
-    "score": "1 - 2",
+    "score": "3 - 3",
     "time": "00:00"
+  },
+  {
+    "match_id": "561837",
+    "tournament": "Championship",
+    "date": "2026-09-12",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bolton",
+      "logo": "https://crests.football-data.org/60.png"
+    },
+    "team_b": {
+      "name": "Cardiff",
+      "logo": "https://crests.football-data.org/715.png"
+    },
+    "score": "vs",
+    "time": "11:30"
   },
   {
     "match_id": "561839",
@@ -43,22 +59,6 @@
     "team_b": {
       "name": "Birmingham",
       "logo": "https://crests.football-data.org/332.png"
-    },
-    "score": "vs",
-    "time": "11:30"
-  },
-  {
-    "match_id": "561837",
-    "tournament": "Championship",
-    "date": "2026-09-12",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bolton",
-      "logo": "https://crests.football-data.org/60.png"
-    },
-    "team_b": {
-      "name": "Cardiff",
-      "logo": "https://crests.football-data.org/715.png"
     },
     "score": "vs",
     "time": "11:30"
@@ -128,6 +128,22 @@
     "time": "13:30"
   },
   {
+    "match_id": "565796",
+    "tournament": "Bundesliga",
+    "date": "2026-09-12",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Augsburg",
+      "logo": "https://crests.football-data.org/16.png"
+    },
+    "team_b": {
+      "name": "Leverkusen",
+      "logo": "https://crests.football-data.org/3.png"
+    },
+    "score": "vs",
+    "time": "13:30"
+  },
+  {
     "match_id": "565801",
     "tournament": "Bundesliga",
     "date": "2026-09-12",
@@ -155,22 +171,6 @@
     "team_b": {
       "name": "Stuttgart",
       "logo": "https://crests.football-data.org/10.png"
-    },
-    "score": "vs",
-    "time": "13:30"
-  },
-  {
-    "match_id": "565796",
-    "tournament": "Bundesliga",
-    "date": "2026-09-12",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Augsburg",
-      "logo": "https://crests.football-data.org/16.png"
-    },
-    "team_b": {
-      "name": "Leverkusen",
-      "logo": "https://crests.football-data.org/3.png"
     },
     "score": "vs",
     "time": "13:30"
@@ -560,6 +560,22 @@
     "time": "18:45"
   },
   {
+    "match_id": "559692",
+    "tournament": "Ligue 1",
+    "date": "2026-09-12",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Paris FC",
+      "logo": "https://crests.football-data.org/1045.png"
+    },
+    "team_b": {
+      "name": "Olympique Lyon",
+      "logo": "https://crests.football-data.org/523.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
     "match_id": "559684",
     "tournament": "Ligue 1",
     "date": "2026-09-12",
@@ -603,22 +619,6 @@
     "team_b": {
       "name": "Nice",
       "logo": "https://crests.football-data.org/522.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "559692",
-    "tournament": "Ligue 1",
-    "date": "2026-09-12",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Paris FC",
-      "logo": "https://crests.football-data.org/1045.png"
-    },
-    "team_b": {
-      "name": "Olympique Lyon",
-      "logo": "https://crests.football-data.org/523.png"
     },
     "score": "vs",
     "time": "18:45"
