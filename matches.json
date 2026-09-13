@@ -323,7 +323,7 @@
     "match_id": "559691",
     "tournament": "Ligue 1",
     "date": "2026-09-13",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Brest",
       "logo": "https://crests.football-data.org/512.png"
@@ -339,7 +339,7 @@
     "match_id": "564674",
     "tournament": "Primera Division",
     "date": "2026-09-13",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Real Sociedad",
       "logo": "https://crests.football-data.org/92.png"
@@ -348,14 +348,14 @@
       "name": "Atleti",
       "logo": "https://crests.football-data.org/78.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 3",
     "time": "19:00"
   },
   {
     "match_id": "555007",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-13",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
@@ -364,14 +364,14 @@
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
     },
-    "score": "1 - 2",
+    "score": "2 - 2",
     "time": "19:00"
   },
   {
     "match_id": "567305",
     "tournament": "Primeira Liga",
     "date": "2026-09-13",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Famalicão",
       "logo": "https://crests.football-data.org/5531.png"
@@ -380,14 +380,14 @@
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 1",
     "time": "19:30"
   },
   {
     "match_id": "555005",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-13",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Flamengo",
       "logo": "https://crests.football-data.org/1783.png"
@@ -396,7 +396,7 @@
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 1",
     "time": "20:30"
   }
 ]
