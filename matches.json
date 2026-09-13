@@ -19,7 +19,7 @@
     "match_id": "558894",
     "tournament": "Eredivisie",
     "date": "2026-09-13",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Excelsior",
       "logo": "https://crests.football-data.org/670.png"
@@ -28,14 +28,14 @@
       "name": "Utrecht",
       "logo": "https://crests.football-data.org/676.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "10:15"
   },
   {
     "match_id": "561844",
     "tournament": "Championship",
     "date": "2026-09-13",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Sheffield Utd",
       "logo": "https://crests.football-data.org/356.png"
@@ -44,7 +44,7 @@
       "name": "Wolverhampton",
       "logo": "https://crests.football-data.org/76.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "11:00"
   },
   {
@@ -256,22 +256,6 @@
     "time": "16:30"
   },
   {
-    "match_id": "567310",
-    "tournament": "Primeira Liga",
-    "date": "2026-09-13",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Arouca",
-      "logo": "https://crests.football-data.org/712.png"
-    },
-    "team_b": {
-      "name": "Santa Clara",
-      "logo": "https://crests.football-data.org/5530.png"
-    },
-    "score": "vs",
-    "time": "17:00"
-  },
-  {
     "match_id": "567304",
     "tournament": "Primeira Liga",
     "date": "2026-09-13",
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Gil Vicente",
       "logo": "https://crests.football-data.org/5533.png"
+    },
+    "score": "vs",
+    "time": "17:00"
+  },
+  {
+    "match_id": "567310",
+    "tournament": "Primeira Liga",
+    "date": "2026-09-13",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Arouca",
+      "logo": "https://crests.football-data.org/712.png"
+    },
+    "team_b": {
+      "name": "Santa Clara",
+      "logo": "https://crests.football-data.org/5530.png"
     },
     "score": "vs",
     "time": "17:00"
