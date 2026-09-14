@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "558603",
-    "tournament": "Serie A",
-    "date": "2026-09-14",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Torino",
-      "logo": "https://crests.football-data.org/586.png"
-    },
-    "team_b": {
-      "name": "Roma",
-      "logo": "https://crests.football-data.org/100.png"
-    },
-    "score": "0 - 2",
-    "time": "16:30"
-  },
-  {
     "match_id": "558602",
     "tournament": "Serie A",
     "date": "2026-09-14",
@@ -29,6 +13,22 @@
       "logo": "https://crests.football-data.org/112.png"
     },
     "score": "2 - 1",
+    "time": "16:30"
+  },
+  {
+    "match_id": "558603",
+    "tournament": "Serie A",
+    "date": "2026-09-14",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Torino",
+      "logo": "https://crests.football-data.org/586.png"
+    },
+    "team_b": {
+      "name": "Roma",
+      "logo": "https://crests.football-data.org/100.png"
+    },
+    "score": "0 - 2",
     "time": "16:30"
   },
   {
@@ -51,7 +51,7 @@
     "match_id": "558601",
     "tournament": "Serie A",
     "date": "2026-09-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Inter",
       "logo": "https://crests.football-data.org/108.png"
@@ -60,14 +60,30 @@
       "name": "Udinese",
       "logo": "https://crests.football-data.org/115.png"
     },
-    "score": "5 - 2",
+    "score": "5 - 3",
     "time": "18:45"
+  },
+  {
+    "match_id": "560579",
+    "tournament": "Premier League",
+    "date": "2026-09-14",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Leeds United",
+      "logo": "https://crests.football-data.org/341.png"
+    },
+    "team_b": {
+      "name": "Newcastle",
+      "logo": "https://crests.football-data.org/67.png"
+    },
+    "score": "4 - 1",
+    "time": "19:00"
   },
   {
     "match_id": "564671",
     "tournament": "Primera Division",
     "date": "2026-09-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Villarreal",
       "logo": "https://crests.football-data.org/94.png"
@@ -80,26 +96,10 @@
     "time": "19:00"
   },
   {
-    "match_id": "560579",
-    "tournament": "Premier League",
-    "date": "2026-09-14",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Leeds United",
-      "logo": "https://crests.football-data.org/341.png"
-    },
-    "team_b": {
-      "name": "Newcastle",
-      "logo": "https://crests.football-data.org/67.png"
-    },
-    "score": "4 - 0",
-    "time": "19:00"
-  },
-  {
     "match_id": "567302",
     "tournament": "Primeira Liga",
     "date": "2026-09-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Moreirense",
       "logo": "https://crests.football-data.org/583.png"
@@ -108,14 +108,14 @@
       "name": "Marítimo",
       "logo": "https://crests.football-data.org/5575.png"
     },
-    "score": "2 - 0",
+    "score": "3 - 1",
     "time": "19:15"
   },
   {
     "match_id": "567308",
     "tournament": "Primeira Liga",
     "date": "2026-09-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Braga",
       "logo": "https://crests.football-data.org/5613.png"
@@ -124,14 +124,14 @@
       "name": "Estoril Praia",
       "logo": "https://crests.football-data.org/582.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "19:45"
   },
   {
     "match_id": "555001",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-14",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
@@ -140,7 +140,7 @@
       "name": "Clube do Remo",
       "logo": "https://crests.football-data.org/4287.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "23:00"
   }
 ]
