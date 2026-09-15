@@ -1,146 +1,114 @@
 [
   {
-    "match_id": "558602",
-    "tournament": "Serie A",
-    "date": "2026-09-14",
-    "status": "FINISHED",
+    "match_id": "564678",
+    "tournament": "Primera Division",
+    "date": "2026-09-15",
+    "status": "TIMED",
     "team_a": {
-      "name": "Como 1907",
-      "logo": "https://crests.football-data.org/7397.png"
+      "name": "Rayo Vallecano",
+      "logo": "https://crests.football-data.org/87.png"
     },
     "team_b": {
-      "name": "Parma",
-      "logo": "https://crests.football-data.org/112.png"
+      "name": "Espanyol",
+      "logo": "https://crests.football-data.org/80.png"
     },
-    "score": "2 - 1",
-    "time": "16:30"
+    "score": "vs",
+    "time": "17:00"
   },
   {
-    "match_id": "558603",
-    "tournament": "Serie A",
-    "date": "2026-09-14",
-    "status": "FINISHED",
+    "match_id": "564680",
+    "tournament": "Primera Division",
+    "date": "2026-09-15",
+    "status": "TIMED",
     "team_a": {
-      "name": "Torino",
-      "logo": "https://crests.football-data.org/586.png"
+      "name": "Alavés",
+      "logo": "https://crests.football-data.org/263.png"
     },
     "team_b": {
-      "name": "Roma",
-      "logo": "https://crests.football-data.org/100.png"
+      "name": "Valencia",
+      "logo": "https://crests.football-data.org/95.png"
     },
-    "score": "0 - 2",
-    "time": "16:30"
+    "score": "vs",
+    "time": "18:00"
   },
   {
-    "match_id": "567303",
-    "tournament": "Primeira Liga",
-    "date": "2026-09-14",
-    "status": "FINISHED",
+    "match_id": "558240",
+    "tournament": "Eredivisie",
+    "date": "2026-09-15",
+    "status": "TIMED",
     "team_a": {
-      "name": "Rio Ave",
-      "logo": "https://crests.football-data.org/496.png"
+      "name": "Ajax",
+      "logo": "https://crests.football-data.org/678.png"
     },
     "team_b": {
-      "name": "Amadora",
-      "logo": "https://crests.football-data.org/9136.png"
+      "name": "Willem II",
+      "logo": "https://crests.football-data.org/672.png"
     },
-    "score": "3 - 3",
-    "time": "17:45"
+    "score": "vs",
+    "time": "18:00"
   },
   {
-    "match_id": "558601",
-    "tournament": "Serie A",
-    "date": "2026-09-14",
-    "status": "FINISHED",
+    "match_id": "561825",
+    "tournament": "Championship",
+    "date": "2026-09-15",
+    "status": "TIMED",
     "team_a": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
+      "name": "Middlesbrough",
+      "logo": "https://crests.football-data.org/343.png"
     },
     "team_b": {
-      "name": "Udinese",
-      "logo": "https://crests.football-data.org/115.png"
+      "name": "Millwall",
+      "logo": "https://crests.football-data.org/384.png"
     },
-    "score": "5 - 3",
+    "score": "vs",
     "time": "18:45"
   },
   {
-    "match_id": "560579",
-    "tournament": "Premier League",
-    "date": "2026-09-14",
-    "status": "FINISHED",
+    "match_id": "561828",
+    "tournament": "Championship",
+    "date": "2026-09-15",
+    "status": "TIMED",
     "team_a": {
-      "name": "Leeds United",
-      "logo": "https://crests.football-data.org/341.png"
+      "name": "Bristol City",
+      "logo": "https://crests.football-data.org/387.png"
     },
     "team_b": {
-      "name": "Newcastle",
-      "logo": "https://crests.football-data.org/67.png"
+      "name": "Lincoln City",
+      "logo": "https://crests.football-data.org/1126.png"
     },
-    "score": "4 - 1",
-    "time": "19:00"
+    "score": "vs",
+    "time": "18:45"
   },
   {
-    "match_id": "564671",
+    "match_id": "564681",
     "tournament": "Primera Division",
-    "date": "2026-09-14",
-    "status": "FINISHED",
+    "date": "2026-09-15",
+    "status": "TIMED",
     "team_a": {
-      "name": "Villarreal",
-      "logo": "https://crests.football-data.org/94.png"
+      "name": "Elche",
+      "logo": "https://crests.football-data.org/285.png"
     },
     "team_b": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
+      "name": "Real Madrid",
+      "logo": "https://crests.football-data.org/86.png"
     },
-    "score": "1 - 2",
-    "time": "19:00"
+    "score": "vs",
+    "time": "19:30"
   },
   {
-    "match_id": "567302",
-    "tournament": "Primeira Liga",
-    "date": "2026-09-14",
-    "status": "FINISHED",
+    "match_id": "576251",
+    "tournament": "Copa Libertadores",
+    "date": "2026-09-15",
+    "status": "SCHEDULED",
     "team_a": {
-      "name": "Moreirense",
-      "logo": "https://crests.football-data.org/583.png"
+      "name": "Platense",
+      "logo": "https://crests.football-data.org/7580.png"
     },
     "team_b": {
-      "name": "Marítimo",
-      "logo": "https://crests.football-data.org/5575.png"
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
     },
-    "score": "3 - 1",
-    "time": "19:15"
-  },
-  {
-    "match_id": "567308",
-    "tournament": "Primeira Liga",
-    "date": "2026-09-14",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Braga",
-      "logo": "https://crests.football-data.org/5613.png"
-    },
-    "team_b": {
-      "name": "Estoril Praia",
-      "logo": "https://crests.football-data.org/582.png"
-    },
-    "score": "1 - 0",
-    "time": "19:45"
-  },
-  {
-    "match_id": "555001",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-09-14",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "team_b": {
-      "name": "Clube do Remo",
-      "logo": "https://crests.football-data.org/4287.png"
-    },
-    "score": "0 - 0",
-    "time": "23:00"
+    "score": "vs",
+    "time": "22:00"
   }
 ]
