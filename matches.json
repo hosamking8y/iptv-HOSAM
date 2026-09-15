@@ -19,7 +19,7 @@
     "match_id": "564680",
     "tournament": "Primera Division",
     "date": "2026-09-15",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Alavés",
       "logo": "https://crests.football-data.org/263.png"
@@ -35,7 +35,7 @@
     "match_id": "558240",
     "tournament": "Eredivisie",
     "date": "2026-09-15",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Ajax",
       "logo": "https://crests.football-data.org/678.png"
@@ -48,26 +48,10 @@
     "time": "18:00"
   },
   {
-    "match_id": "561825",
-    "tournament": "Championship",
-    "date": "2026-09-15",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Middlesbrough",
-      "logo": "https://crests.football-data.org/343.png"
-    },
-    "team_b": {
-      "name": "Millwall",
-      "logo": "https://crests.football-data.org/384.png"
-    },
-    "score": "0 - 2",
-    "time": "18:45"
-  },
-  {
     "match_id": "561828",
     "tournament": "Championship",
     "date": "2026-09-15",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bristol City",
       "logo": "https://crests.football-data.org/387.png"
@@ -76,14 +60,30 @@
       "name": "Lincoln City",
       "logo": "https://crests.football-data.org/1126.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
+    "time": "18:45"
+  },
+  {
+    "match_id": "561825",
+    "tournament": "Championship",
+    "date": "2026-09-15",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Middlesbrough",
+      "logo": "https://crests.football-data.org/343.png"
+    },
+    "team_b": {
+      "name": "Millwall",
+      "logo": "https://crests.football-data.org/384.png"
+    },
+    "score": "2 - 2",
     "time": "18:45"
   },
   {
     "match_id": "564681",
     "tournament": "Primera Division",
     "date": "2026-09-15",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Elche",
       "logo": "https://crests.football-data.org/285.png"
@@ -92,7 +92,7 @@
       "name": "Real Madrid",
       "logo": "https://crests.football-data.org/86.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 3",
     "time": "19:30"
   },
   {
