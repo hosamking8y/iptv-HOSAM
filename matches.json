@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "564679",
-    "tournament": "Primera Division",
-    "date": "2026-09-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Deportivo",
-      "logo": "https://crests.football-data.org/560.png"
-    },
-    "team_b": {
-      "name": "Sevilla FC",
-      "logo": "https://crests.football-data.org/559.png"
-    },
-    "score": "0 - 1",
-    "time": "17:00"
-  },
-  {
     "match_id": "564684",
     "tournament": "Primera Division",
     "date": "2026-09-16",
@@ -32,20 +16,20 @@
     "time": "17:00"
   },
   {
-    "match_id": "564685",
+    "match_id": "564679",
     "tournament": "Primera Division",
     "date": "2026-09-16",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Levante",
-      "logo": "https://crests.football-data.org/88.png"
+      "name": "Deportivo",
+      "logo": "https://crests.football-data.org/560.png"
     },
     "team_b": {
-      "name": "Athletic",
-      "logo": "https://crests.football-data.org/77.png"
+      "name": "Sevilla FC",
+      "logo": "https://crests.football-data.org/559.png"
     },
-    "score": "0 - 0",
-    "time": "19:30"
+    "score": "0 - 1",
+    "time": "17:00"
   },
   {
     "match_id": "564687",
@@ -61,6 +45,22 @@
       "logo": "https://crests.football-data.org/5335.png"
     },
     "score": "7 - 2",
+    "time": "19:30"
+  },
+  {
+    "match_id": "564685",
+    "tournament": "Primera Division",
+    "date": "2026-09-16",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Levante",
+      "logo": "https://crests.football-data.org/88.png"
+    },
+    "team_b": {
+      "name": "Athletic",
+      "logo": "https://crests.football-data.org/77.png"
+    },
+    "score": "0 - 0",
     "time": "19:30"
   },
   {
@@ -83,7 +83,7 @@
     "match_id": "554941",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-16",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
@@ -92,7 +92,7 @@
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
     },
-    "score": "vs",
+    "score": "2 - 1",
     "time": "22:30"
   }
 ]
