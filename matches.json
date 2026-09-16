@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "564684",
-    "tournament": "Primera Division",
-    "date": "2026-09-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Atleti",
-      "logo": "https://crests.football-data.org/78.png"
-    },
-    "team_b": {
-      "name": "Osasuna",
-      "logo": "https://crests.football-data.org/79.png"
-    },
-    "score": "vs",
-    "time": "17:00"
-  },
-  {
     "match_id": "564679",
     "tournament": "Primera Division",
     "date": "2026-09-16",
@@ -32,20 +16,20 @@
     "time": "17:00"
   },
   {
-    "match_id": "564687",
+    "match_id": "564684",
     "tournament": "Primera Division",
     "date": "2026-09-16",
     "status": "TIMED",
     "team_a": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
+      "name": "Atleti",
+      "logo": "https://crests.football-data.org/78.png"
     },
     "team_b": {
-      "name": "Santander",
-      "logo": "https://crests.football-data.org/5335.png"
+      "name": "Osasuna",
+      "logo": "https://crests.football-data.org/79.png"
     },
     "score": "vs",
-    "time": "19:30"
+    "time": "17:00"
   },
   {
     "match_id": "564685",
@@ -59,6 +43,22 @@
     "team_b": {
       "name": "Athletic",
       "logo": "https://crests.football-data.org/77.png"
+    },
+    "score": "vs",
+    "time": "19:30"
+  },
+  {
+    "match_id": "564687",
+    "tournament": "Primera Division",
+    "date": "2026-09-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "team_b": {
+      "name": "Santander",
+      "logo": "https://crests.football-data.org/5335.png"
     },
     "score": "vs",
     "time": "19:30"
