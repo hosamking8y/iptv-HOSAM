@@ -1,98 +1,50 @@
 [
   {
-    "match_id": "564684",
-    "tournament": "Primera Division",
-    "date": "2026-09-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Atleti",
-      "logo": "https://crests.football-data.org/78.png"
-    },
-    "team_b": {
-      "name": "Osasuna",
-      "logo": "https://crests.football-data.org/79.png"
-    },
-    "score": "4 - 0",
-    "time": "17:00"
-  },
-  {
-    "match_id": "564679",
-    "tournament": "Primera Division",
-    "date": "2026-09-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Deportivo",
-      "logo": "https://crests.football-data.org/560.png"
-    },
-    "team_b": {
-      "name": "Sevilla FC",
-      "logo": "https://crests.football-data.org/559.png"
-    },
-    "score": "0 - 1",
-    "time": "17:00"
-  },
-  {
-    "match_id": "564687",
-    "tournament": "Primera Division",
-    "date": "2026-09-16",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
-    },
-    "team_b": {
-      "name": "Santander",
-      "logo": "https://crests.football-data.org/5335.png"
-    },
-    "score": "7 - 2",
-    "time": "19:30"
-  },
-  {
-    "match_id": "564685",
-    "tournament": "Primera Division",
-    "date": "2026-09-16",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Levante",
-      "logo": "https://crests.football-data.org/88.png"
-    },
-    "team_b": {
-      "name": "Athletic",
-      "logo": "https://crests.football-data.org/77.png"
-    },
-    "score": "0 - 0",
-    "time": "19:30"
-  },
-  {
-    "match_id": "576250",
+    "match_id": "576249",
     "tournament": "Copa Libertadores",
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "status": "SCHEDULED",
     "team_a": {
-      "name": "LDU de Quito",
-      "logo": "https://crests.football-data.org/4528.png"
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
     },
     "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
+      "name": "Estudiantes LP",
+      "logo": "https://crests.football-data.org/2051.png"
     },
     "score": "vs",
-    "time": "22:00"
+    "time": "00:30"
   },
   {
-    "match_id": "554941",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-09-16",
-    "status": "IN_PLAY",
+    "match_id": "564686",
+    "tournament": "Primera Division",
+    "date": "2026-09-17",
+    "status": "TIMED",
     "team_a": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
+      "name": "Real Betis",
+      "logo": "https://crests.football-data.org/90.png"
     },
     "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
+      "name": "Getafe",
+      "logo": "https://crests.football-data.org/82.png"
     },
-    "score": "2 - 1",
-    "time": "22:30"
+    "score": "vs",
+    "time": "17:00"
+  },
+  {
+    "match_id": "564683",
+    "tournament": "Primera Division",
+    "date": "2026-09-17",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Málaga",
+      "logo": "https://crests.football-data.org/84.png"
+    },
+    "team_b": {
+      "name": "Villarreal",
+      "logo": "https://crests.football-data.org/94.png"
+    },
+    "score": "vs",
+    "time": "19:30"
   }
 ]
