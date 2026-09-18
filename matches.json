@@ -80,6 +80,22 @@
     "time": "18:45"
   },
   {
+    "match_id": "561845",
+    "tournament": "Championship",
+    "date": "2026-09-18",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bristol City",
+      "logo": "https://crests.football-data.org/387.png"
+    },
+    "team_b": {
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
     "match_id": "560591",
     "tournament": "Premier League",
     "date": "2026-09-18",
@@ -107,22 +123,6 @@
     "team_b": {
       "name": "Elche",
       "logo": "https://crests.football-data.org/285.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "561845",
-    "tournament": "Championship",
-    "date": "2026-09-18",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bristol City",
-      "logo": "https://crests.football-data.org/387.png"
-    },
-    "team_b": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
     },
     "score": "vs",
     "time": "19:00"
