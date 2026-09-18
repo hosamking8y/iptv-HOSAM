@@ -48,6 +48,22 @@
     "time": "18:30"
   },
   {
+    "match_id": "559682",
+    "tournament": "Ligue 1",
+    "date": "2026-09-18",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Monaco",
+      "logo": "https://crests.football-data.org/548.png"
+    },
+    "team_b": {
+      "name": "RC Lens",
+      "logo": "https://crests.football-data.org/546.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
     "match_id": "558596",
     "tournament": "Serie A",
     "date": "2026-09-18",
@@ -64,20 +80,20 @@
     "time": "18:45"
   },
   {
-    "match_id": "559682",
-    "tournament": "Ligue 1",
+    "match_id": "561845",
+    "tournament": "Championship",
     "date": "2026-09-18",
     "status": "TIMED",
     "team_a": {
-      "name": "Monaco",
-      "logo": "https://crests.football-data.org/548.png"
+      "name": "Bristol City",
+      "logo": "https://crests.football-data.org/387.png"
     },
     "team_b": {
-      "name": "RC Lens",
-      "logo": "https://crests.football-data.org/546.png"
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
     },
     "score": "vs",
-    "time": "18:45"
+    "time": "19:00"
   },
   {
     "match_id": "560591",
@@ -107,22 +123,6 @@
     "team_b": {
       "name": "Elche",
       "logo": "https://crests.football-data.org/285.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "561845",
-    "tournament": "Championship",
-    "date": "2026-09-18",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bristol City",
-      "logo": "https://crests.football-data.org/387.png"
-    },
-    "team_b": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
     },
     "score": "vs",
     "time": "19:00"
