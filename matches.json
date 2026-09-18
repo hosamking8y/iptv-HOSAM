@@ -19,7 +19,7 @@
     "match_id": "558888",
     "tournament": "Eredivisie",
     "date": "2026-09-18",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Groningen",
       "logo": "https://crests.football-data.org/677.png"
@@ -35,7 +35,7 @@
     "match_id": "565804",
     "tournament": "Bundesliga",
     "date": "2026-09-18",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bayern",
       "logo": "https://crests.football-data.org/5.png"
@@ -44,30 +44,14 @@
       "name": "Union Berlin",
       "logo": "https://crests.football-data.org/28.png"
     },
-    "score": "4 - 0",
+    "score": "7 - 0",
     "time": "18:30"
-  },
-  {
-    "match_id": "559682",
-    "tournament": "Ligue 1",
-    "date": "2026-09-18",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Monaco",
-      "logo": "https://crests.football-data.org/548.png"
-    },
-    "team_b": {
-      "name": "RC Lens",
-      "logo": "https://crests.football-data.org/546.png"
-    },
-    "score": "1 - 0",
-    "time": "18:45"
   },
   {
     "match_id": "558596",
     "tournament": "Serie A",
     "date": "2026-09-18",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Monza",
       "logo": "https://crests.football-data.org/5911.png"
@@ -76,46 +60,30 @@
       "name": "Sassuolo",
       "logo": "https://crests.football-data.org/471.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 1",
     "time": "18:45"
   },
   {
-    "match_id": "560591",
-    "tournament": "Premier League",
+    "match_id": "559682",
+    "tournament": "Ligue 1",
     "date": "2026-09-18",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Brentford",
-      "logo": "https://crests.football-data.org/402.png"
+      "name": "Monaco",
+      "logo": "https://crests.football-data.org/548.png"
     },
     "team_b": {
-      "name": "Chelsea",
-      "logo": "https://crests.football-data.org/61.png"
+      "name": "RC Lens",
+      "logo": "https://crests.football-data.org/546.png"
     },
-    "score": "0 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "564692",
-    "tournament": "Primera Division",
-    "date": "2026-09-18",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Espanyol",
-      "logo": "https://crests.football-data.org/80.png"
-    },
-    "team_b": {
-      "name": "Elche",
-      "logo": "https://crests.football-data.org/285.png"
-    },
-    "score": "0 - 2",
-    "time": "19:00"
+    "score": "2 - 1",
+    "time": "18:45"
   },
   {
     "match_id": "561845",
     "tournament": "Championship",
     "date": "2026-09-18",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bristol City",
       "logo": "https://crests.football-data.org/387.png"
@@ -125,6 +93,38 @@
       "logo": "https://crests.football-data.org/346.png"
     },
     "score": "1 - 0",
+    "time": "19:00"
+  },
+  {
+    "match_id": "560591",
+    "tournament": "Premier League",
+    "date": "2026-09-18",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Brentford",
+      "logo": "https://crests.football-data.org/402.png"
+    },
+    "team_b": {
+      "name": "Chelsea",
+      "logo": "https://crests.football-data.org/61.png"
+    },
+    "score": "3 - 0",
+    "time": "19:00"
+  },
+  {
+    "match_id": "564692",
+    "tournament": "Primera Division",
+    "date": "2026-09-18",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Espanyol",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "team_b": {
+      "name": "Elche",
+      "logo": "https://crests.football-data.org/285.png"
+    },
+    "score": "1 - 3",
     "time": "19:00"
   }
 ]
