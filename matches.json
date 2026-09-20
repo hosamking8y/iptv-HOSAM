@@ -3,7 +3,7 @@
     "match_id": "555017",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-09-20",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
@@ -80,17 +80,17 @@
     "time": "12:00"
   },
   {
-    "match_id": "558882",
-    "tournament": "Eredivisie",
+    "match_id": "561850",
+    "tournament": "Championship",
     "date": "2026-09-20",
     "status": "TIMED",
     "team_a": {
-      "name": "Twente",
-      "logo": "https://crests.football-data.org/666.png"
+      "name": "Norwich",
+      "logo": "https://crests.football-data.org/68.png"
     },
     "team_b": {
-      "name": "PSV",
-      "logo": "https://crests.football-data.org/674.png"
+      "name": "Bolton",
+      "logo": "https://crests.football-data.org/60.png"
     },
     "score": "vs",
     "time": "12:30"
@@ -112,49 +112,49 @@
     "time": "12:30"
   },
   {
-    "match_id": "561850",
-    "tournament": "Championship",
+    "match_id": "558882",
+    "tournament": "Eredivisie",
     "date": "2026-09-20",
     "status": "TIMED",
     "team_a": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
+      "name": "Twente",
+      "logo": "https://crests.football-data.org/666.png"
     },
     "team_b": {
-      "name": "Bolton",
-      "logo": "https://crests.football-data.org/60.png"
+      "name": "PSV",
+      "logo": "https://crests.football-data.org/674.png"
     },
     "score": "vs",
     "time": "12:30"
   },
   {
-    "match_id": "558592",
-    "tournament": "Serie A",
+    "match_id": "559676",
+    "tournament": "Ligue 1",
     "date": "2026-09-20",
     "status": "TIMED",
     "team_a": {
-      "name": "Frosinone",
-      "logo": "https://crests.football-data.org/470.png"
+      "name": "Auxerre",
+      "logo": "https://crests.football-data.org/519.png"
     },
     "team_b": {
-      "name": "Como 1907",
-      "logo": "https://crests.football-data.org/7397.png"
+      "name": "Brest",
+      "logo": "https://crests.football-data.org/512.png"
     },
     "score": "vs",
     "time": "13:00"
   },
   {
-    "match_id": "560585",
+    "match_id": "560590",
     "tournament": "Premier League",
     "date": "2026-09-20",
     "status": "TIMED",
     "team_a": {
-      "name": "Leeds United",
-      "logo": "https://crests.football-data.org/341.png"
+      "name": "Man City",
+      "logo": "https://crests.football-data.org/65.png"
     },
     "team_b": {
-      "name": "Crystal Palace",
-      "logo": "https://crests.football-data.org/354.png"
+      "name": "Sunderland",
+      "logo": "https://crests.football-data.org/71.png"
     },
     "score": "vs",
     "time": "13:00"
@@ -192,33 +192,33 @@
     "time": "13:00"
   },
   {
-    "match_id": "560590",
-    "tournament": "Premier League",
+    "match_id": "558592",
+    "tournament": "Serie A",
     "date": "2026-09-20",
     "status": "TIMED",
     "team_a": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
+      "name": "Frosinone",
+      "logo": "https://crests.football-data.org/470.png"
     },
     "team_b": {
-      "name": "Sunderland",
-      "logo": "https://crests.football-data.org/71.png"
+      "name": "Como 1907",
+      "logo": "https://crests.football-data.org/7397.png"
     },
     "score": "vs",
     "time": "13:00"
   },
   {
-    "match_id": "559676",
-    "tournament": "Ligue 1",
+    "match_id": "560585",
+    "tournament": "Premier League",
     "date": "2026-09-20",
     "status": "TIMED",
     "team_a": {
-      "name": "Auxerre",
-      "logo": "https://crests.football-data.org/519.png"
+      "name": "Leeds United",
+      "logo": "https://crests.football-data.org/341.png"
     },
     "team_b": {
-      "name": "Brest",
-      "logo": "https://crests.football-data.org/512.png"
+      "name": "Crystal Palace",
+      "logo": "https://crests.football-data.org/354.png"
     },
     "score": "vs",
     "time": "13:00"
@@ -272,22 +272,6 @@
     "time": "14:15"
   },
   {
-    "match_id": "567317",
-    "tournament": "Primeira Liga",
-    "date": "2026-09-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Amadora",
-      "logo": "https://crests.football-data.org/9136.png"
-    },
-    "team_b": {
-      "name": "Acad. Viseu",
-      "logo": "https://crests.football-data.org/5527.png"
-    },
-    "score": "vs",
-    "time": "14:30"
-  },
-  {
     "match_id": "567315",
     "tournament": "Primeira Liga",
     "date": "2026-09-20",
@@ -299,6 +283,22 @@
     "team_b": {
       "name": "Moreirense",
       "logo": "https://crests.football-data.org/583.png"
+    },
+    "score": "vs",
+    "time": "14:30"
+  },
+  {
+    "match_id": "567317",
+    "tournament": "Primeira Liga",
+    "date": "2026-09-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Amadora",
+      "logo": "https://crests.football-data.org/9136.png"
+    },
+    "team_b": {
+      "name": "Acad. Viseu",
+      "logo": "https://crests.football-data.org/5527.png"
     },
     "score": "vs",
     "time": "14:30"
@@ -336,22 +336,6 @@
     "time": "15:15"
   },
   {
-    "match_id": "565805",
-    "tournament": "Bundesliga",
-    "date": "2026-09-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Schalke",
-      "logo": "https://crests.football-data.org/6.png"
-    },
-    "team_b": {
-      "name": "Elversberg",
-      "logo": "https://crests.football-data.org/719.png"
-    },
-    "score": "vs",
-    "time": "15:30"
-  },
-  {
     "match_id": "560583",
     "tournament": "Premier League",
     "date": "2026-09-20",
@@ -363,6 +347,22 @@
     "team_b": {
       "name": "Man United",
       "logo": "https://crests.football-data.org/66.png"
+    },
+    "score": "vs",
+    "time": "15:30"
+  },
+  {
+    "match_id": "565805",
+    "tournament": "Bundesliga",
+    "date": "2026-09-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Schalke",
+      "logo": "https://crests.football-data.org/6.png"
+    },
+    "team_b": {
+      "name": "Elversberg",
+      "logo": "https://crests.football-data.org/719.png"
     },
     "score": "vs",
     "time": "15:30"
@@ -384,22 +384,6 @@
     "time": "16:00"
   },
   {
-    "match_id": "564696",
-    "tournament": "Primera Division",
-    "date": "2026-09-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Villarreal",
-      "logo": "https://crests.football-data.org/94.png"
-    },
-    "team_b": {
-      "name": "Levante",
-      "logo": "https://crests.football-data.org/88.png"
-    },
-    "score": "vs",
-    "time": "16:30"
-  },
-  {
     "match_id": "564695",
     "tournament": "Primera Division",
     "date": "2026-09-20",
@@ -416,20 +400,20 @@
     "time": "16:30"
   },
   {
-    "match_id": "567319",
-    "tournament": "Primeira Liga",
+    "match_id": "564696",
+    "tournament": "Primera Division",
     "date": "2026-09-20",
     "status": "TIMED",
     "team_a": {
-      "name": "Estoril Praia",
-      "logo": "https://crests.football-data.org/582.png"
+      "name": "Villarreal",
+      "logo": "https://crests.football-data.org/94.png"
     },
     "team_b": {
-      "name": "Casa Pia",
-      "logo": "https://crests.football-data.org/6618.png"
+      "name": "Levante",
+      "logo": "https://crests.football-data.org/88.png"
     },
     "score": "vs",
-    "time": "17:00"
+    "time": "16:30"
   },
   {
     "match_id": "567314",
@@ -443,6 +427,22 @@
     "team_b": {
       "name": "Braga",
       "logo": "https://crests.football-data.org/5613.png"
+    },
+    "score": "vs",
+    "time": "17:00"
+  },
+  {
+    "match_id": "567319",
+    "tournament": "Primeira Liga",
+    "date": "2026-09-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Estoril Praia",
+      "logo": "https://crests.football-data.org/582.png"
+    },
+    "team_b": {
+      "name": "Casa Pia",
+      "logo": "https://crests.football-data.org/6618.png"
     },
     "score": "vs",
     "time": "17:00"
@@ -464,22 +464,6 @@
     "time": "17:30"
   },
   {
-    "match_id": "558597",
-    "tournament": "Serie A",
-    "date": "2026-09-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Milan",
-      "logo": "https://crests.football-data.org/98.png"
-    },
-    "team_b": {
-      "name": "Lecce",
-      "logo": "https://crests.football-data.org/5890.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "559675",
     "tournament": "Ligue 1",
     "date": "2026-09-20",
@@ -496,20 +480,20 @@
     "time": "18:45"
   },
   {
-    "match_id": "555019",
-    "tournament": "Campeonato Brasileiro Série A",
+    "match_id": "558597",
+    "tournament": "Serie A",
     "date": "2026-09-20",
     "status": "TIMED",
     "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
+      "name": "Milan",
+      "logo": "https://crests.football-data.org/98.png"
     },
     "team_b": {
-      "name": "Cruzeiro",
-      "logo": "https://crests.football-data.org/1771.png"
+      "name": "Lecce",
+      "logo": "https://crests.football-data.org/5890.png"
     },
     "score": "vs",
-    "time": "19:00"
+    "time": "18:45"
   },
   {
     "match_id": "555012",
@@ -539,6 +523,22 @@
     "team_b": {
       "name": "Real Sociedad",
       "logo": "https://crests.football-data.org/92.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "555019",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-09-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "team_b": {
+      "name": "Cruzeiro",
+      "logo": "https://crests.football-data.org/1771.png"
     },
     "score": "vs",
     "time": "19:00"
