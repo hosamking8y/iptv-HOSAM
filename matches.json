@@ -128,22 +128,6 @@
     "time": "12:30"
   },
   {
-    "match_id": "559676",
-    "tournament": "Ligue 1",
-    "date": "2026-09-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Auxerre",
-      "logo": "https://crests.football-data.org/519.png"
-    },
-    "team_b": {
-      "name": "Brest",
-      "logo": "https://crests.football-data.org/512.png"
-    },
-    "score": "vs",
-    "time": "13:00"
-  },
-  {
     "match_id": "560590",
     "tournament": "Premier League",
     "date": "2026-09-20",
@@ -155,6 +139,22 @@
     "team_b": {
       "name": "Sunderland",
       "logo": "https://crests.football-data.org/71.png"
+    },
+    "score": "vs",
+    "time": "13:00"
+  },
+  {
+    "match_id": "559676",
+    "tournament": "Ligue 1",
+    "date": "2026-09-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Auxerre",
+      "logo": "https://crests.football-data.org/519.png"
+    },
+    "team_b": {
+      "name": "Brest",
+      "logo": "https://crests.football-data.org/512.png"
     },
     "score": "vs",
     "time": "13:00"
