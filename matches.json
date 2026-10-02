@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "match_id": "554948",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-10-02",
+    "status": "TIMED",
+    "team_a": {
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
+    },
+    "team_b": {
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
+    },
+    "score": "vs",
+    "time": "23:00"
+  }
+]
