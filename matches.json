@@ -1,16 +1,16 @@
 [
   {
-    "match_id": "555025",
+    "match_id": "555022",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-07",
     "status": "TIMED",
     "team_a": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
     },
     "team_b": {
-      "name": "Corinthians",
-      "logo": "https://crests.football-data.org/1779.png"
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
     },
     "score": "vs",
     "time": "22:30"
@@ -32,17 +32,17 @@
     "time": "22:30"
   },
   {
-    "match_id": "555022",
+    "match_id": "555025",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-07",
     "status": "TIMED",
     "team_a": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
     },
     "team_b": {
-      "name": "Mirassol",
-      "logo": "https://crests.football-data.org/4364.png"
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
     },
     "score": "vs",
     "time": "22:30"
