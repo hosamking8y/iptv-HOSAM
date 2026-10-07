@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "match_id": "555025",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-10-07",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
+    },
+    "team_b": {
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "555022",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-10-07",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
+    },
+    "team_b": {
+      "name": "Mirassol",
+      "logo": "https://crests.football-data.org/4364.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "555027",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-10-07",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Clube do Remo",
+      "logo": "https://crests.football-data.org/4287.png"
+    },
+    "team_b": {
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "555029",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-10-07",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "team_b": {
+      "name": "Chapecoense",
+      "logo": "https://crests.football-data.org/1772_large.png"
+    },
+    "score": "vs",
+    "time": "23:00"
+  },
+  {
+    "match_id": "555021",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-10-07",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Botafogo",
+      "logo": "https://crests.football-data.org/1770.png"
+    },
+    "team_b": {
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
+    },
+    "score": "vs",
+    "time": "23:30"
+  }
+]
