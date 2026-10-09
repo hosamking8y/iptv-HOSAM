@@ -3,7 +3,7 @@
     "match_id": "555026",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Palmeiras",
       "logo": "https://crests.football-data.org/1769.png"
@@ -19,7 +19,7 @@
     "match_id": "555024",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-09",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Fluminense",
       "logo": "https://crests.football-data.org/1765.png"
@@ -28,7 +28,7 @@
       "name": "Coritiba",
       "logo": "https://crests.football-data.org/4241.png"
     },
-    "score": "3 - 0",
+    "score": "4 - 0",
     "time": "00:30"
   },
   {
