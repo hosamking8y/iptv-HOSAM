@@ -3,7 +3,7 @@
     "match_id": "555032",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-13",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bragantino",
       "logo": "https://crests.football-data.org/4286.png"
@@ -12,7 +12,7 @@
       "name": "Cruzeiro",
       "logo": "https://crests.football-data.org/1771.png"
     },
-    "score": "3 - 1",
+    "score": "4 - 2",
     "time": "00:00"
   },
   {
@@ -48,22 +48,6 @@
     "time": "16:45"
   },
   {
-    "match_id": "561869",
-    "tournament": "Championship",
-    "date": "2026-10-13",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Wolverhampton",
-      "logo": "https://crests.football-data.org/76.png"
-    },
-    "team_b": {
-      "name": "Bolton",
-      "logo": "https://crests.football-data.org/60.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "561871",
     "tournament": "Championship",
     "date": "2026-10-13",
@@ -91,6 +75,38 @@
     "team_b": {
       "name": "Charlton",
       "logo": "https://crests.football-data.org/348.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "561869",
+    "tournament": "Championship",
+    "date": "2026-10-13",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Wolverhampton",
+      "logo": "https://crests.football-data.org/76.png"
+    },
+    "team_b": {
+      "name": "Bolton",
+      "logo": "https://crests.football-data.org/60.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "561872",
+    "tournament": "Championship",
+    "date": "2026-10-13",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Cardiff",
+      "logo": "https://crests.football-data.org/715.png"
+    },
+    "team_b": {
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
     },
     "score": "vs",
     "time": "18:45"
@@ -126,54 +142,6 @@
     },
     "score": "vs",
     "time": "18:45"
-  },
-  {
-    "match_id": "561872",
-    "tournament": "Championship",
-    "date": "2026-10-13",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Cardiff",
-      "logo": "https://crests.football-data.org/715.png"
-    },
-    "team_b": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "575347",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-13",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Viking",
-      "logo": "https://crests.football-data.org/5720.png"
-    },
-    "team_b": {
-      "name": "Bayern",
-      "logo": "https://crests.football-data.org/5.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "561875",
-    "tournament": "Championship",
-    "date": "2026-10-13",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Birmingham",
-      "logo": "https://crests.football-data.org/332.png"
-    },
-    "team_b": {
-      "name": "Preston NE",
-      "logo": "https://crests.football-data.org/1081.png"
-    },
-    "score": "vs",
-    "time": "19:00"
   },
   {
     "match_id": "575343",
@@ -224,17 +192,33 @@
     "time": "19:00"
   },
   {
-    "match_id": "575346",
+    "match_id": "575347",
     "tournament": "UEFA Champions League",
     "date": "2026-10-13",
     "status": "TIMED",
     "team_a": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
+      "name": "Viking",
+      "logo": "https://crests.football-data.org/5720.png"
     },
     "team_b": {
-      "name": "Lille",
-      "logo": "https://crests.football-data.org/521.png"
+      "name": "Bayern",
+      "logo": "https://crests.football-data.org/5.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "561875",
+    "tournament": "Championship",
+    "date": "2026-10-13",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Birmingham",
+      "logo": "https://crests.football-data.org/332.png"
+    },
+    "team_b": {
+      "name": "Preston NE",
+      "logo": "https://crests.football-data.org/1081.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "Barça",
       "logo": "https://crests.football-data.org/81.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575346",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-13",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Arsenal",
+      "logo": "https://crests.football-data.org/57.png"
+    },
+    "team_b": {
+      "name": "Lille",
+      "logo": "https://crests.football-data.org/521.png"
     },
     "score": "vs",
     "time": "19:00"
