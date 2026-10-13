@@ -19,7 +19,7 @@
     "match_id": "575341",
     "tournament": "UEFA Champions League",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "RC Lens",
       "logo": "https://crests.football-data.org/546.png"
@@ -28,14 +28,14 @@
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
     },
-    "score": "vs",
+    "score": "0 - 2",
     "time": "16:45"
   },
   {
     "match_id": "575342",
     "tournament": "UEFA Champions League",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Sabah FK",
       "logo": "https://crests.football-data.org/10233.png"
@@ -44,46 +44,14 @@
       "name": "Slavia Praha",
       "logo": "https://crests.football-data.org/930.png"
     },
-    "score": "vs",
+    "score": "2 - 0",
     "time": "16:45"
-  },
-  {
-    "match_id": "561871",
-    "tournament": "Championship",
-    "date": "2026-10-13",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Millwall",
-      "logo": "https://crests.football-data.org/384.png"
-    },
-    "team_b": {
-      "name": "Swansea",
-      "logo": "https://crests.football-data.org/72.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
-    "match_id": "561873",
-    "tournament": "Championship",
-    "date": "2026-10-13",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Burnley",
-      "logo": "https://crests.football-data.org/328.png"
-    },
-    "team_b": {
-      "name": "Charlton",
-      "logo": "https://crests.football-data.org/348.png"
-    },
-    "score": "vs",
-    "time": "18:45"
   },
   {
     "match_id": "561869",
     "tournament": "Championship",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Wolverhampton",
       "logo": "https://crests.football-data.org/76.png"
@@ -92,46 +60,46 @@
       "name": "Bolton",
       "logo": "https://crests.football-data.org/60.png"
     },
-    "score": "vs",
+    "score": "1 - 3",
     "time": "18:45"
   },
   {
-    "match_id": "561870",
+    "match_id": "561871",
     "tournament": "Championship",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Wrexham",
-      "logo": "https://crests.football-data.org/404.png"
+      "name": "Millwall",
+      "logo": "https://crests.football-data.org/384.png"
     },
     "team_b": {
-      "name": "West Brom",
-      "logo": "https://crests.football-data.org/74.png"
+      "name": "Swansea",
+      "logo": "https://crests.football-data.org/72.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "18:45"
   },
   {
-    "match_id": "561872",
+    "match_id": "561873",
     "tournament": "Championship",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Cardiff",
-      "logo": "https://crests.football-data.org/715.png"
+      "name": "Burnley",
+      "logo": "https://crests.football-data.org/328.png"
     },
     "team_b": {
-      "name": "Watford",
-      "logo": "https://crests.football-data.org/346.png"
+      "name": "Charlton",
+      "logo": "https://crests.football-data.org/348.png"
     },
-    "score": "vs",
+    "score": "2 - 2",
     "time": "18:45"
   },
   {
     "match_id": "561874",
     "tournament": "Championship",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bristol City",
       "logo": "https://crests.football-data.org/387.png"
@@ -140,62 +108,46 @@
       "name": "Blackburn",
       "logo": "https://crests.football-data.org/59.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "18:45"
   },
   {
-    "match_id": "575343",
-    "tournament": "UEFA Champions League",
+    "match_id": "561870",
+    "tournament": "Championship",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
+      "name": "Wrexham",
+      "logo": "https://crests.football-data.org/404.png"
     },
     "team_b": {
-      "name": "Club Brugge",
-      "logo": "https://crests.football-data.org/851.png"
+      "name": "West Brom",
+      "logo": "https://crests.football-data.org/74.png"
     },
-    "score": "vs",
-    "time": "19:00"
+    "score": "1 - 2",
+    "time": "18:45"
   },
   {
-    "match_id": "575349",
-    "tournament": "UEFA Champions League",
+    "match_id": "561872",
+    "tournament": "Championship",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Villarreal",
-      "logo": "https://crests.football-data.org/94.png"
+      "name": "Cardiff",
+      "logo": "https://crests.football-data.org/715.png"
     },
     "team_b": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
     },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575345",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-13",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Atleti",
-      "logo": "https://crests.football-data.org/78.png"
-    },
-    "team_b": {
-      "name": "Man United",
-      "logo": "https://crests.football-data.org/66.png"
-    },
-    "score": "vs",
-    "time": "19:00"
+    "score": "5 - 1",
+    "time": "18:45"
   },
   {
     "match_id": "575347",
     "tournament": "UEFA Champions League",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Viking",
       "logo": "https://crests.football-data.org/5720.png"
@@ -204,14 +156,14 @@
       "name": "Bayern",
       "logo": "https://crests.football-data.org/5.png"
     },
-    "score": "vs",
+    "score": "3 - 3",
     "time": "19:00"
   },
   {
     "match_id": "561875",
     "tournament": "Championship",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Birmingham",
       "logo": "https://crests.football-data.org/332.png"
@@ -220,46 +172,62 @@
       "name": "Preston NE",
       "logo": "https://crests.football-data.org/1081.png"
     },
-    "score": "vs",
+    "score": "4 - 0",
     "time": "19:00"
   },
   {
-    "match_id": "575348",
+    "match_id": "575343",
     "tournament": "UEFA Champions League",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "RB Leipzig",
-      "logo": "https://crests.football-data.org/721.png"
+      "name": "Inter",
+      "logo": "https://crests.football-data.org/108.png"
     },
     "team_b": {
-      "name": "PSV",
-      "logo": "https://crests.football-data.org/674.png"
+      "name": "Club Brugge",
+      "logo": "https://crests.football-data.org/851.png"
     },
-    "score": "vs",
+    "score": "3 - 4",
     "time": "19:00"
   },
   {
-    "match_id": "575344",
+    "match_id": "575349",
     "tournament": "UEFA Champions League",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Galatasaray",
-      "logo": "https://crests.football-data.org/610.png"
+      "name": "Villarreal",
+      "logo": "https://crests.football-data.org/94.png"
     },
     "team_b": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
+      "name": "Napoli",
+      "logo": "https://crests.football-data.org/113.png"
     },
-    "score": "vs",
+    "score": "3 - 1",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575345",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-13",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Atleti",
+      "logo": "https://crests.football-data.org/78.png"
+    },
+    "team_b": {
+      "name": "Man United",
+      "logo": "https://crests.football-data.org/66.png"
+    },
+    "score": "2 - 0",
     "time": "19:00"
   },
   {
     "match_id": "575346",
     "tournament": "UEFA Champions League",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Arsenal",
       "logo": "https://crests.football-data.org/57.png"
@@ -268,14 +236,30 @@
       "name": "Lille",
       "logo": "https://crests.football-data.org/521.png"
     },
-    "score": "vs",
+    "score": "3 - 0",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575348",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-13",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "RB Leipzig",
+      "logo": "https://crests.football-data.org/721.png"
+    },
+    "team_b": {
+      "name": "PSV",
+      "logo": "https://crests.football-data.org/674.png"
+    },
+    "score": "1 - 0",
     "time": "19:00"
   },
   {
     "match_id": "561876",
     "tournament": "Championship",
     "date": "2026-10-13",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Stoke",
       "logo": "https://crests.football-data.org/70.png"
@@ -284,7 +268,23 @@
       "name": "Middlesbrough",
       "logo": "https://crests.football-data.org/343.png"
     },
-    "score": "vs",
+    "score": "2 - 3",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575344",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-13",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Galatasaray",
+      "logo": "https://crests.football-data.org/610.png"
+    },
+    "team_b": {
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "score": "1 - 4",
     "time": "19:00"
   }
 ]
