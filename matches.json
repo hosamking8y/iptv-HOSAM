@@ -32,22 +32,6 @@
     "time": "16:45"
   },
   {
-    "match_id": "561879",
-    "tournament": "Championship",
-    "date": "2026-10-14",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
-    },
-    "team_b": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "561877",
     "tournament": "Championship",
     "date": "2026-10-14",
@@ -59,6 +43,22 @@
     "team_b": {
       "name": "Sheffield Utd",
       "logo": "https://crests.football-data.org/356.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "561879",
+    "tournament": "Championship",
+    "date": "2026-10-14",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Norwich",
+      "logo": "https://crests.football-data.org/68.png"
+    },
+    "team_b": {
+      "name": "Southampton",
+      "logo": "https://crests.football-data.org/340.png"
     },
     "score": "vs",
     "time": "18:45"
@@ -78,6 +78,22 @@
     },
     "score": "vs",
     "time": "18:45"
+  },
+  {
+    "match_id": "575355",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-14",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Aston Villa",
+      "logo": "https://crests.football-data.org/58.png"
+    },
+    "team_b": {
+      "name": "Fenerbahçe",
+      "logo": "https://crests.football-data.org/613.png"
+    },
+    "score": "vs",
+    "time": "19:00"
   },
   {
     "match_id": "575357",
@@ -112,17 +128,33 @@
     "time": "19:00"
   },
   {
-    "match_id": "575355",
+    "match_id": "575354",
     "tournament": "UEFA Champions League",
     "date": "2026-10-14",
     "status": "TIMED",
     "team_a": {
-      "name": "Aston Villa",
-      "logo": "https://crests.football-data.org/58.png"
+      "name": "Bodø/Glimt",
+      "logo": "https://crests.football-data.org/5721.png"
     },
     "team_b": {
-      "name": "Fenerbahçe",
-      "logo": "https://crests.football-data.org/613.png"
+      "name": "Dortmund",
+      "logo": "https://crests.football-data.org/4.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "561878",
+    "tournament": "Championship",
+    "date": "2026-10-14",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Lincoln City",
+      "logo": "https://crests.football-data.org/1126.png"
+    },
+    "team_b": {
+      "name": "West Ham",
+      "logo": "https://crests.football-data.org/563.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -171,38 +203,6 @@
     "team_b": {
       "name": "Stuttgart",
       "logo": "https://crests.football-data.org/10.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575354",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-14",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bodø/Glimt",
-      "logo": "https://crests.football-data.org/5721.png"
-    },
-    "team_b": {
-      "name": "Dortmund",
-      "logo": "https://crests.football-data.org/4.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "561878",
-    "tournament": "Championship",
-    "date": "2026-10-14",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Lincoln City",
-      "logo": "https://crests.football-data.org/1126.png"
-    },
-    "team_b": {
-      "name": "West Ham",
-      "logo": "https://crests.football-data.org/563.png"
     },
     "score": "vs",
     "time": "19:00"
