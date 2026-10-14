@@ -35,7 +35,7 @@
     "match_id": "561879",
     "tournament": "Championship",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Norwich",
       "logo": "https://crests.football-data.org/68.png"
@@ -44,14 +44,14 @@
       "name": "Southampton",
       "logo": "https://crests.football-data.org/340.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "18:45"
   },
   {
     "match_id": "561877",
     "tournament": "Championship",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Portsmouth",
       "logo": "https://crests.football-data.org/325.png"
@@ -60,14 +60,14 @@
       "name": "Sheffield Utd",
       "logo": "https://crests.football-data.org/356.png"
     },
-    "score": "0 - 0",
+    "score": "3 - 2",
     "time": "18:45"
   },
   {
     "match_id": "561880",
     "tournament": "Championship",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "QPR",
       "logo": "https://crests.football-data.org/69.png"
@@ -76,14 +76,14 @@
       "name": "Derby County",
       "logo": "https://crests.football-data.org/342.png"
     },
-    "score": "2 - 0",
+    "score": "4 - 1",
     "time": "18:45"
   },
   {
     "match_id": "575355",
     "tournament": "UEFA Champions League",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Aston Villa",
       "logo": "https://crests.football-data.org/58.png"
@@ -92,14 +92,14 @@
       "name": "Fenerbahçe",
       "logo": "https://crests.football-data.org/613.png"
     },
-    "score": "1 - 0",
+    "score": "6 - 0",
     "time": "19:00"
   },
   {
     "match_id": "575357",
     "tournament": "UEFA Champions League",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Shaktar",
       "logo": "https://crests.football-data.org/1887.png"
@@ -108,14 +108,14 @@
       "name": "PAE AEK",
       "logo": "https://crests.football-data.org/1899.png"
     },
-    "score": "0 - 0",
+    "score": "3 - 1",
     "time": "19:00"
   },
   {
     "match_id": "575353",
     "tournament": "UEFA Champions League",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Man City",
       "logo": "https://crests.football-data.org/65.png"
@@ -124,14 +124,14 @@
       "name": "PSG",
       "logo": "https://crests.football-data.org/524.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 4",
     "time": "19:00"
   },
   {
     "match_id": "561878",
     "tournament": "Championship",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Lincoln City",
       "logo": "https://crests.football-data.org/1126.png"
@@ -140,14 +140,14 @@
       "name": "West Ham",
       "logo": "https://crests.football-data.org/563.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 6",
     "time": "19:00"
   },
   {
     "match_id": "575356",
     "tournament": "UEFA Champions League",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Real Betis",
       "logo": "https://crests.football-data.org/90.png"
@@ -156,14 +156,14 @@
       "name": "Porto",
       "logo": "https://crests.football-data.org/503.png"
     },
-    "score": "0 - 0",
+    "score": "3 - 2",
     "time": "19:00"
   },
   {
     "match_id": "575352",
     "tournament": "UEFA Champions League",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Roma",
       "logo": "https://crests.football-data.org/100.png"
@@ -172,14 +172,14 @@
       "name": "Real Madrid",
       "logo": "https://crests.football-data.org/86.png"
     },
-    "score": "0 - 0",
+    "score": "3 - 4",
     "time": "19:00"
   },
   {
     "match_id": "575358",
     "tournament": "UEFA Champions League",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Sl. Bratislava",
       "logo": "https://crests.football-data.org/7509.png"
@@ -188,14 +188,14 @@
       "name": "Stuttgart",
       "logo": "https://crests.football-data.org/10.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 3",
     "time": "19:00"
   },
   {
     "match_id": "575354",
     "tournament": "UEFA Champions League",
     "date": "2026-10-14",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bodø/Glimt",
       "logo": "https://crests.football-data.org/5721.png"
@@ -204,7 +204,7 @@
       "name": "Dortmund",
       "logo": "https://crests.football-data.org/4.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "19:00"
   }
 ]
