@@ -48,22 +48,6 @@
     "time": "18:30"
   },
   {
-    "match_id": "558573",
-    "tournament": "Serie A",
-    "date": "2026-10-16",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Frosinone",
-      "logo": "https://crests.football-data.org/470.png"
-    },
-    "team_b": {
-      "name": "Sassuolo",
-      "logo": "https://crests.football-data.org/471.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "559661",
     "tournament": "Ligue 1",
     "date": "2026-10-16",
@@ -75,6 +59,22 @@
     "team_b": {
       "name": "Toulouse",
       "logo": "https://crests.football-data.org/511.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "558573",
+    "tournament": "Serie A",
+    "date": "2026-10-16",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Frosinone",
+      "logo": "https://crests.football-data.org/470.png"
+    },
+    "team_b": {
+      "name": "Sassuolo",
+      "logo": "https://crests.football-data.org/471.png"
     },
     "score": "vs",
     "time": "18:45"
