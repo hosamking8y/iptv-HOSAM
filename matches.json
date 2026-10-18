@@ -80,22 +80,6 @@
     "time": "12:30"
   },
   {
-    "match_id": "560604",
-    "tournament": "Premier League",
-    "date": "2026-10-18",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bournemouth",
-      "logo": "https://crests.football-data.org/bournemouth.png"
-    },
-    "team_b": {
-      "name": "Sunderland",
-      "logo": "https://crests.football-data.org/71.png"
-    },
-    "score": "vs",
-    "time": "13:00"
-  },
-  {
     "match_id": "558577",
     "tournament": "Serie A",
     "date": "2026-10-18",
@@ -112,17 +96,17 @@
     "time": "13:00"
   },
   {
-    "match_id": "560605",
+    "match_id": "560604",
     "tournament": "Premier League",
     "date": "2026-10-18",
     "status": "TIMED",
     "team_a": {
-      "name": "Leeds United",
-      "logo": "https://crests.football-data.org/341.png"
+      "name": "Bournemouth",
+      "logo": "https://crests.football-data.org/bournemouth.png"
     },
     "team_b": {
-      "name": "Man United",
-      "logo": "https://crests.football-data.org/66.png"
+      "name": "Sunderland",
+      "logo": "https://crests.football-data.org/71.png"
     },
     "score": "vs",
     "time": "13:00"
@@ -155,6 +139,22 @@
     "team_b": {
       "name": "Crystal Palace",
       "logo": "https://crests.football-data.org/354.png"
+    },
+    "score": "vs",
+    "time": "13:00"
+  },
+  {
+    "match_id": "560605",
+    "tournament": "Premier League",
+    "date": "2026-10-18",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Leeds United",
+      "logo": "https://crests.football-data.org/341.png"
+    },
+    "team_b": {
+      "name": "Man United",
+      "logo": "https://crests.football-data.org/66.png"
     },
     "score": "vs",
     "time": "13:00"
