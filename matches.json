@@ -48,6 +48,22 @@
     "time": "18:45"
   },
   {
+    "match_id": "575367",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "PSG",
+      "logo": "https://crests.football-data.org/524.png"
+    },
+    "team_b": {
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
     "match_id": "575363",
     "tournament": "UEFA Champions League",
     "date": "2026-10-20",
@@ -91,22 +107,6 @@
     "team_b": {
       "name": "PAE AEK",
       "logo": "https://crests.football-data.org/1899.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575367",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "PSG",
-      "logo": "https://crests.football-data.org/524.png"
-    },
-    "team_b": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
     },
     "score": "vs",
     "time": "19:00"
