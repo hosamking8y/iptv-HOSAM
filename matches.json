@@ -1,25 +1,9 @@
 [
   {
-    "match_id": "575360",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Fenerbahçe",
-      "logo": "https://crests.football-data.org/613.png"
-    },
-    "team_b": {
-      "name": "Slavia Praha",
-      "logo": "https://crests.football-data.org/930.png"
-    },
-    "score": "2 - 2",
-    "time": "16:45"
-  },
-  {
     "match_id": "575359",
     "tournament": "UEFA Champions League",
     "date": "2026-10-20",
-    "status": "FINISHED",
+    "status": "TIMED",
     "team_a": {
       "name": "Sabah FK",
       "logo": "https://crests.football-data.org/10233.png"
@@ -28,14 +12,30 @@
       "name": "Dortmund",
       "logo": "https://crests.football-data.org/4.png"
     },
-    "score": "1 - 2",
+    "score": "vs",
+    "time": "16:45"
+  },
+  {
+    "match_id": "575360",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Fenerbahçe",
+      "logo": "https://crests.football-data.org/613.png"
+    },
+    "team_b": {
+      "name": "Slavia Praha",
+      "logo": "https://crests.football-data.org/930.png"
+    },
+    "score": "vs",
     "time": "16:45"
   },
   {
     "match_id": "561826",
     "tournament": "Championship",
     "date": "2026-10-20",
-    "status": "IN_PLAY",
+    "status": "TIMED",
     "team_a": {
       "name": "Wolverhampton",
       "logo": "https://crests.football-data.org/76.png"
@@ -44,78 +44,14 @@
       "name": "Portsmouth",
       "logo": "https://crests.football-data.org/325.png"
     },
-    "score": "0 - 0",
+    "score": "vs",
     "time": "18:45"
-  },
-  {
-    "match_id": "575366",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
-    },
-    "team_b": {
-      "name": "Bodø/Glimt",
-      "logo": "https://crests.football-data.org/5721.png"
-    },
-    "score": "1 - 1",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575362",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Stuttgart",
-      "logo": "https://crests.football-data.org/10.png"
-    },
-    "team_b": {
-      "name": "Atleti",
-      "logo": "https://crests.football-data.org/78.png"
-    },
-    "score": "1 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575364",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Roma",
-      "logo": "https://crests.football-data.org/100.png"
-    },
-    "team_b": {
-      "name": "Sl. Bratislava",
-      "logo": "https://crests.football-data.org/7509.png"
-    },
-    "score": "2 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575361",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
-    },
-    "team_b": {
-      "name": "PAE AEK",
-      "logo": "https://crests.football-data.org/1899.png"
-    },
-    "score": "2 - 0",
-    "time": "19:00"
   },
   {
     "match_id": "575367",
     "tournament": "UEFA Champions League",
     "date": "2026-10-20",
-    "status": "IN_PLAY",
+    "status": "TIMED",
     "team_a": {
       "name": "PSG",
       "logo": "https://crests.football-data.org/524.png"
@@ -124,14 +60,14 @@
       "name": "Barça",
       "logo": "https://crests.football-data.org/81.png"
     },
-    "score": "1 - 0",
+    "score": "vs",
     "time": "19:00"
   },
   {
     "match_id": "575363",
     "tournament": "UEFA Champions League",
     "date": "2026-10-20",
-    "status": "IN_PLAY",
+    "status": "TIMED",
     "team_a": {
       "name": "Liverpool",
       "logo": "https://crests.football-data.org/64.png"
@@ -140,14 +76,14 @@
       "name": "Villarreal",
       "logo": "https://crests.football-data.org/94.png"
     },
-    "score": "1 - 2",
+    "score": "vs",
     "time": "19:00"
   },
   {
     "match_id": "575365",
     "tournament": "UEFA Champions League",
     "date": "2026-10-20",
-    "status": "IN_PLAY",
+    "status": "TIMED",
     "team_a": {
       "name": "Porto",
       "logo": "https://crests.football-data.org/503.png"
@@ -156,7 +92,71 @@
       "name": "PSV",
       "logo": "https://crests.football-data.org/674.png"
     },
-    "score": "0 - 0",
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575361",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Man City",
+      "logo": "https://crests.football-data.org/65.png"
+    },
+    "team_b": {
+      "name": "PAE AEK",
+      "logo": "https://crests.football-data.org/1899.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575362",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Stuttgart",
+      "logo": "https://crests.football-data.org/10.png"
+    },
+    "team_b": {
+      "name": "Atleti",
+      "logo": "https://crests.football-data.org/78.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575364",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Roma",
+      "logo": "https://crests.football-data.org/100.png"
+    },
+    "team_b": {
+      "name": "Sl. Bratislava",
+      "logo": "https://crests.football-data.org/7509.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575366",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Napoli",
+      "logo": "https://crests.football-data.org/113.png"
+    },
+    "team_b": {
+      "name": "Bodø/Glimt",
+      "logo": "https://crests.football-data.org/5721.png"
+    },
+    "score": "vs",
     "time": "19:00"
   }
 ]
