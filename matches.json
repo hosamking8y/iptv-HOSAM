@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "575360",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Fenerbahçe",
-      "logo": "https://crests.football-data.org/613.png"
-    },
-    "team_b": {
-      "name": "Slavia Praha",
-      "logo": "https://crests.football-data.org/930.png"
-    },
-    "score": "vs",
-    "time": "16:45"
-  },
-  {
     "match_id": "575359",
     "tournament": "UEFA Champions League",
     "date": "2026-10-20",
@@ -27,6 +11,22 @@
     "team_b": {
       "name": "Dortmund",
       "logo": "https://crests.football-data.org/4.png"
+    },
+    "score": "vs",
+    "time": "16:45"
+  },
+  {
+    "match_id": "575360",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Fenerbahçe",
+      "logo": "https://crests.football-data.org/613.png"
+    },
+    "team_b": {
+      "name": "Slavia Praha",
+      "logo": "https://crests.football-data.org/930.png"
     },
     "score": "vs",
     "time": "16:45"
@@ -46,70 +46,6 @@
     },
     "score": "vs",
     "time": "18:45"
-  },
-  {
-    "match_id": "575362",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Stuttgart",
-      "logo": "https://crests.football-data.org/10.png"
-    },
-    "team_b": {
-      "name": "Atleti",
-      "logo": "https://crests.football-data.org/78.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575364",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Roma",
-      "logo": "https://crests.football-data.org/100.png"
-    },
-    "team_b": {
-      "name": "Sl. Bratislava",
-      "logo": "https://crests.football-data.org/7509.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575366",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
-    },
-    "team_b": {
-      "name": "Bodø/Glimt",
-      "logo": "https://crests.football-data.org/5721.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575367",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-20",
-    "status": "TIMED",
-    "team_a": {
-      "name": "PSG",
-      "logo": "https://crests.football-data.org/524.png"
-    },
-    "team_b": {
-      "name": "Barça",
-      "logo": "https://crests.football-data.org/81.png"
-    },
-    "score": "vs",
-    "time": "19:00"
   },
   {
     "match_id": "575363",
@@ -155,6 +91,70 @@
     "team_b": {
       "name": "PAE AEK",
       "logo": "https://crests.football-data.org/1899.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575367",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "PSG",
+      "logo": "https://crests.football-data.org/524.png"
+    },
+    "team_b": {
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575364",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Roma",
+      "logo": "https://crests.football-data.org/100.png"
+    },
+    "team_b": {
+      "name": "Sl. Bratislava",
+      "logo": "https://crests.football-data.org/7509.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575366",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Napoli",
+      "logo": "https://crests.football-data.org/113.png"
+    },
+    "team_b": {
+      "name": "Bodø/Glimt",
+      "logo": "https://crests.football-data.org/5721.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575362",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-20",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Stuttgart",
+      "logo": "https://crests.football-data.org/10.png"
+    },
+    "team_b": {
+      "name": "Atleti",
+      "logo": "https://crests.football-data.org/78.png"
     },
     "score": "vs",
     "time": "19:00"
