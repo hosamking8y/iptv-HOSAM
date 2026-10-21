@@ -35,7 +35,7 @@
     "match_id": "564685",
     "tournament": "Primera Division",
     "date": "2026-10-21",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Levante",
       "logo": "https://crests.football-data.org/88.png"
@@ -44,46 +44,14 @@
       "name": "Athletic",
       "logo": "https://crests.football-data.org/77.png"
     },
-    "score": "2 - 1",
+    "score": "3 - 1",
     "time": "18:00"
-  },
-  {
-    "match_id": "575375",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Sporting CP",
-      "logo": "https://crests.football-data.org/498.png"
-    },
-    "team_b": {
-      "name": "LASK",
-      "logo": "https://crests.football-data.org/2016.png"
-    },
-    "score": "1 - 1",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575371",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
-    },
-    "team_b": {
-      "name": "Shaktar",
-      "logo": "https://crests.football-data.org/1887.png"
-    },
-    "score": "0 - 0",
-    "time": "19:00"
   },
   {
     "match_id": "575373",
     "tournament": "UEFA Champions League",
     "date": "2026-10-21",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Club Brugge",
       "logo": "https://crests.football-data.org/851.png"
@@ -92,62 +60,46 @@
       "name": "RC Lens",
       "logo": "https://crests.football-data.org/546.png"
     },
-    "score": "0 - 0",
+    "score": "3 - 0",
     "time": "19:00"
   },
   {
-    "match_id": "575374",
+    "match_id": "575375",
     "tournament": "UEFA Champions League",
     "date": "2026-10-21",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Aston Villa",
-      "logo": "https://crests.football-data.org/58.png"
+      "name": "Sporting CP",
+      "logo": "https://crests.football-data.org/498.png"
     },
     "team_b": {
-      "name": "Viking",
-      "logo": "https://crests.football-data.org/5720.png"
+      "name": "LASK",
+      "logo": "https://crests.football-data.org/2016.png"
     },
-    "score": "2 - 0",
+    "score": "2 - 3",
     "time": "19:00"
   },
   {
-    "match_id": "575370",
+    "match_id": "575371",
     "tournament": "UEFA Champions League",
     "date": "2026-10-21",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Real Madrid",
-      "logo": "https://crests.football-data.org/86.png"
+      "name": "Inter",
+      "logo": "https://crests.football-data.org/108.png"
     },
     "team_b": {
-      "name": "RB Leipzig",
-      "logo": "https://crests.football-data.org/721.png"
+      "name": "Shaktar",
+      "logo": "https://crests.football-data.org/1887.png"
     },
-    "score": "0 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575376",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "team_b": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "score": "0 - 0",
+    "score": "1 - 0",
     "time": "19:00"
   },
   {
     "match_id": "575372",
     "tournament": "UEFA Champions League",
     "date": "2026-10-21",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bayern",
       "logo": "https://crests.football-data.org/5.png"
@@ -156,7 +108,55 @@
       "name": "Arsenal",
       "logo": "https://crests.football-data.org/57.png"
     },
-    "score": "1 - 1",
+    "score": "2 - 2",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575374",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-21",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Aston Villa",
+      "logo": "https://crests.football-data.org/58.png"
+    },
+    "team_b": {
+      "name": "Viking",
+      "logo": "https://crests.football-data.org/5720.png"
+    },
+    "score": "3 - 1",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575370",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-21",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Real Madrid",
+      "logo": "https://crests.football-data.org/86.png"
+    },
+    "team_b": {
+      "name": "RB Leipzig",
+      "logo": "https://crests.football-data.org/721.png"
+    },
+    "score": "4 - 1",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575376",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-21",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Real Betis",
+      "logo": "https://crests.football-data.org/90.png"
+    },
+    "team_b": {
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
+    },
+    "score": "1 - 0",
     "time": "19:00"
   }
 ]
