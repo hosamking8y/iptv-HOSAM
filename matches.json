@@ -48,38 +48,6 @@
     "time": "18:00"
   },
   {
-    "match_id": "575376",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "team_b": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575372",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Bayern",
-      "logo": "https://crests.football-data.org/5.png"
-    },
-    "team_b": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "575374",
     "tournament": "UEFA Champions League",
     "date": "2026-10-21",
@@ -112,17 +80,33 @@
     "time": "19:00"
   },
   {
-    "match_id": "575371",
+    "match_id": "575376",
     "tournament": "UEFA Champions League",
     "date": "2026-10-21",
     "status": "TIMED",
     "team_a": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
+      "name": "Real Betis",
+      "logo": "https://crests.football-data.org/90.png"
     },
     "team_b": {
-      "name": "Shaktar",
-      "logo": "https://crests.football-data.org/1887.png"
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575372",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-21",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Bayern",
+      "logo": "https://crests.football-data.org/5.png"
+    },
+    "team_b": {
+      "name": "Arsenal",
+      "logo": "https://crests.football-data.org/57.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -155,6 +139,22 @@
     "team_b": {
       "name": "LASK",
       "logo": "https://crests.football-data.org/2016.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "575371",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-21",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Inter",
+      "logo": "https://crests.football-data.org/108.png"
+    },
+    "team_b": {
+      "name": "Shaktar",
+      "logo": "https://crests.football-data.org/1887.png"
     },
     "score": "vs",
     "time": "19:00"
