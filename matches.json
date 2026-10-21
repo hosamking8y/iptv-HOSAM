@@ -48,6 +48,22 @@
     "time": "18:00"
   },
   {
+    "match_id": "575375",
+    "tournament": "UEFA Champions League",
+    "date": "2026-10-21",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Sporting CP",
+      "logo": "https://crests.football-data.org/498.png"
+    },
+    "team_b": {
+      "name": "LASK",
+      "logo": "https://crests.football-data.org/2016.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
     "match_id": "575371",
     "tournament": "UEFA Champions League",
     "date": "2026-10-21",
@@ -80,17 +96,17 @@
     "time": "19:00"
   },
   {
-    "match_id": "575375",
+    "match_id": "575370",
     "tournament": "UEFA Champions League",
     "date": "2026-10-21",
     "status": "TIMED",
     "team_a": {
-      "name": "Sporting CP",
-      "logo": "https://crests.football-data.org/498.png"
+      "name": "Real Madrid",
+      "logo": "https://crests.football-data.org/86.png"
     },
     "team_b": {
-      "name": "LASK",
-      "logo": "https://crests.football-data.org/2016.png"
+      "name": "RB Leipzig",
+      "logo": "https://crests.football-data.org/721.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -139,22 +155,6 @@
     "team_b": {
       "name": "Viking",
       "logo": "https://crests.football-data.org/5720.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575370",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Real Madrid",
-      "logo": "https://crests.football-data.org/86.png"
-    },
-    "team_b": {
-      "name": "RB Leipzig",
-      "logo": "https://crests.football-data.org/721.png"
     },
     "score": "vs",
     "time": "19:00"
