@@ -1,162 +1,18 @@
 [
   {
-    "match_id": "575369",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
+    "match_id": "576424",
+    "tournament": "Copa Libertadores",
+    "date": "2026-10-22",
+    "status": "SCHEDULED",
     "team_a": {
-      "name": "Lille",
-      "logo": "https://crests.football-data.org/521.png"
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
     "team_b": {
-      "name": "Galatasaray",
-      "logo": "https://crests.football-data.org/610.png"
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
     },
-    "score": "2 - 4",
-    "time": "16:45"
-  },
-  {
-    "match_id": "575368",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Como 1907",
-      "logo": "https://crests.football-data.org/7397.png"
-    },
-    "team_b": {
-      "name": "Man United",
-      "logo": "https://crests.football-data.org/66.png"
-    },
-    "score": "4 - 1",
-    "time": "16:45"
-  },
-  {
-    "match_id": "564685",
-    "tournament": "Primera Division",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Levante",
-      "logo": "https://crests.football-data.org/88.png"
-    },
-    "team_b": {
-      "name": "Athletic",
-      "logo": "https://crests.football-data.org/77.png"
-    },
-    "score": "3 - 1",
-    "time": "18:00"
-  },
-  {
-    "match_id": "575373",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Club Brugge",
-      "logo": "https://crests.football-data.org/851.png"
-    },
-    "team_b": {
-      "name": "RC Lens",
-      "logo": "https://crests.football-data.org/546.png"
-    },
-    "score": "3 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575375",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Sporting CP",
-      "logo": "https://crests.football-data.org/498.png"
-    },
-    "team_b": {
-      "name": "LASK",
-      "logo": "https://crests.football-data.org/2016.png"
-    },
-    "score": "2 - 3",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575371",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
-    },
-    "team_b": {
-      "name": "Shaktar",
-      "logo": "https://crests.football-data.org/1887.png"
-    },
-    "score": "1 - 0",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575372",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Bayern",
-      "logo": "https://crests.football-data.org/5.png"
-    },
-    "team_b": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
-    },
-    "score": "2 - 2",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575374",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Aston Villa",
-      "logo": "https://crests.football-data.org/58.png"
-    },
-    "team_b": {
-      "name": "Viking",
-      "logo": "https://crests.football-data.org/5720.png"
-    },
-    "score": "3 - 1",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575370",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Real Madrid",
-      "logo": "https://crests.football-data.org/86.png"
-    },
-    "team_b": {
-      "name": "RB Leipzig",
-      "logo": "https://crests.football-data.org/721.png"
-    },
-    "score": "4 - 1",
-    "time": "19:00"
-  },
-  {
-    "match_id": "575376",
-    "tournament": "UEFA Champions League",
-    "date": "2026-10-21",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "team_b": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "score": "1 - 0",
-    "time": "19:00"
+    "score": "vs",
+    "time": "00:30"
   }
 ]
