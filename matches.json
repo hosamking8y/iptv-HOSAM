@@ -48,22 +48,6 @@
     "time": "18:30"
   },
   {
-    "match_id": "558567",
-    "tournament": "Serie A",
-    "date": "2026-10-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Torino",
-      "logo": "https://crests.football-data.org/586.png"
-    },
-    "team_b": {
-      "name": "Monza",
-      "logo": "https://crests.football-data.org/5911.png"
-    },
-    "score": "vs",
-    "time": "18:45"
-  },
-  {
     "match_id": "559654",
     "tournament": "Ligue 1",
     "date": "2026-10-23",
@@ -80,17 +64,33 @@
     "time": "18:45"
   },
   {
-    "match_id": "561894",
-    "tournament": "Championship",
+    "match_id": "558567",
+    "tournament": "Serie A",
     "date": "2026-10-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Bolton",
-      "logo": "https://crests.football-data.org/60.png"
+      "name": "Torino",
+      "logo": "https://crests.football-data.org/586.png"
     },
     "team_b": {
-      "name": "Middlesbrough",
-      "logo": "https://crests.football-data.org/343.png"
+      "name": "Monza",
+      "logo": "https://crests.football-data.org/5911.png"
+    },
+    "score": "vs",
+    "time": "18:45"
+  },
+  {
+    "match_id": "560620",
+    "tournament": "Premier League",
+    "date": "2026-10-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Ipswich Town",
+      "logo": "https://crests.football-data.org/349.png"
+    },
+    "team_b": {
+      "name": "Nottingham",
+      "logo": "https://crests.football-data.org/351.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -112,17 +112,17 @@
     "time": "19:00"
   },
   {
-    "match_id": "560620",
-    "tournament": "Premier League",
+    "match_id": "561894",
+    "tournament": "Championship",
     "date": "2026-10-23",
     "status": "TIMED",
     "team_a": {
-      "name": "Ipswich Town",
-      "logo": "https://crests.football-data.org/349.png"
+      "name": "Bolton",
+      "logo": "https://crests.football-data.org/60.png"
     },
     "team_b": {
-      "name": "Nottingham",
-      "logo": "https://crests.football-data.org/351.png"
+      "name": "Middlesbrough",
+      "logo": "https://crests.football-data.org/343.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -147,7 +147,7 @@
     "match_id": "555052",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-23",
-    "status": "TIMED",
+    "status": "2026-10-23 23:00:00Z",
     "team_a": {
       "name": "Cruzeiro",
       "logo": "https://crests.football-data.org/1771.png"
