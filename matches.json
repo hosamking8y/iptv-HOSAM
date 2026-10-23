@@ -96,22 +96,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "564719",
-    "tournament": "Primera Division",
-    "date": "2026-10-23",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Alavés",
-      "logo": "https://crests.football-data.org/263.png"
-    },
-    "team_b": {
-      "name": "Málaga",
-      "logo": "https://crests.football-data.org/84.png"
-    },
-    "score": "vs",
-    "time": "19:00"
-  },
-  {
     "match_id": "561894",
     "tournament": "Championship",
     "date": "2026-10-23",
@@ -123,6 +107,22 @@
     "team_b": {
       "name": "Middlesbrough",
       "logo": "https://crests.football-data.org/343.png"
+    },
+    "score": "vs",
+    "time": "19:00"
+  },
+  {
+    "match_id": "564719",
+    "tournament": "Primera Division",
+    "date": "2026-10-23",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Alavés",
+      "logo": "https://crests.football-data.org/263.png"
+    },
+    "team_b": {
+      "name": "Málaga",
+      "logo": "https://crests.football-data.org/84.png"
     },
     "score": "vs",
     "time": "19:00"
@@ -147,7 +147,7 @@
     "match_id": "555052",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-23",
-    "status": "2026-10-23 23:00:00Z",
+    "status": "TIMED",
     "team_a": {
       "name": "Cruzeiro",
       "logo": "https://crests.football-data.org/1771.png"
