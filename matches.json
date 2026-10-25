@@ -64,22 +64,6 @@
     "time": "13:00"
   },
   {
-    "match_id": "558858",
-    "tournament": "Eredivisie",
-    "date": "2026-10-25",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "PSV",
-      "logo": "https://crests.football-data.org/674.png"
-    },
-    "team_b": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "score": "1 - 1",
-    "time": "13:30"
-  },
-  {
     "match_id": "558857",
     "tournament": "Eredivisie",
     "date": "2026-10-25",
@@ -96,51 +80,35 @@
     "time": "13:30"
   },
   {
-    "match_id": "560619",
-    "tournament": "Premier League",
+    "match_id": "558858",
+    "tournament": "Eredivisie",
     "date": "2026-10-25",
     "status": "FINISHED",
     "team_a": {
-      "name": "Hull City",
-      "logo": "https://crests.football-data.org/322.png"
+      "name": "PSV",
+      "logo": "https://crests.football-data.org/674.png"
     },
     "team_b": {
-      "name": "Brentford",
-      "logo": "https://crests.football-data.org/402.png"
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
     },
     "score": "1 - 1",
-    "time": "14:00"
+    "time": "13:30"
   },
   {
-    "match_id": "558568",
-    "tournament": "Serie A",
-    "date": "2026-10-25",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Genoa",
-      "logo": "https://crests.football-data.org/107.png"
-    },
-    "team_b": {
-      "name": "Venezia FC",
-      "logo": "https://crests.football-data.org/454.png"
-    },
-    "score": "1 - 0",
-    "time": "14:00"
-  },
-  {
-    "match_id": "560613",
+    "match_id": "560615",
     "tournament": "Premier League",
     "date": "2026-10-25",
     "status": "FINISHED",
     "team_a": {
-      "name": "Crystal Palace",
-      "logo": "https://crests.football-data.org/354.png"
+      "name": "Man United",
+      "logo": "https://crests.football-data.org/66.png"
     },
     "team_b": {
-      "name": "Newcastle",
-      "logo": "https://crests.football-data.org/67.png"
+      "name": "Bournemouth",
+      "logo": "https://crests.football-data.org/bournemouth.png"
     },
-    "score": "0 - 2",
+    "score": "0 - 3",
     "time": "14:00"
   },
   {
@@ -192,19 +160,51 @@
     "time": "14:00"
   },
   {
-    "match_id": "560615",
+    "match_id": "560619",
     "tournament": "Premier League",
     "date": "2026-10-25",
     "status": "FINISHED",
     "team_a": {
-      "name": "Man United",
-      "logo": "https://crests.football-data.org/66.png"
+      "name": "Hull City",
+      "logo": "https://crests.football-data.org/322.png"
     },
     "team_b": {
-      "name": "Bournemouth",
-      "logo": "https://crests.football-data.org/bournemouth.png"
+      "name": "Brentford",
+      "logo": "https://crests.football-data.org/402.png"
     },
-    "score": "0 - 3",
+    "score": "1 - 1",
+    "time": "14:00"
+  },
+  {
+    "match_id": "558568",
+    "tournament": "Serie A",
+    "date": "2026-10-25",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Genoa",
+      "logo": "https://crests.football-data.org/107.png"
+    },
+    "team_b": {
+      "name": "Venezia FC",
+      "logo": "https://crests.football-data.org/454.png"
+    },
+    "score": "1 - 0",
+    "time": "14:00"
+  },
+  {
+    "match_id": "560613",
+    "tournament": "Premier League",
+    "date": "2026-10-25",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Crystal Palace",
+      "logo": "https://crests.football-data.org/354.png"
+    },
+    "team_b": {
+      "name": "Newcastle",
+      "logo": "https://crests.football-data.org/67.png"
+    },
+    "score": "0 - 2",
     "time": "14:00"
   },
   {
@@ -272,6 +272,38 @@
     "time": "15:45"
   },
   {
+    "match_id": "559653",
+    "tournament": "Ligue 1",
+    "date": "2026-10-25",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Angers SCO",
+      "logo": "https://crests.football-data.org/532.png"
+    },
+    "team_b": {
+      "name": "Lorient",
+      "logo": "https://crests.football-data.org/525.png"
+    },
+    "score": "0 - 0",
+    "time": "16:15"
+  },
+  {
+    "match_id": "559656",
+    "tournament": "Ligue 1",
+    "date": "2026-10-25",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Auxerre",
+      "logo": "https://crests.football-data.org/519.png"
+    },
+    "team_b": {
+      "name": "Le Mans",
+      "logo": "https://crests.football-data.org/535.png"
+    },
+    "score": "1 - 1",
+    "time": "16:15"
+  },
+  {
     "match_id": "559655",
     "tournament": "Ligue 1",
     "date": "2026-10-25",
@@ -320,36 +352,20 @@
     "time": "16:15"
   },
   {
-    "match_id": "559653",
-    "tournament": "Ligue 1",
+    "match_id": "560621",
+    "tournament": "Premier League",
     "date": "2026-10-25",
     "status": "FINISHED",
     "team_a": {
-      "name": "Angers SCO",
-      "logo": "https://crests.football-data.org/532.png"
+      "name": "Sunderland",
+      "logo": "https://crests.football-data.org/71.png"
     },
     "team_b": {
-      "name": "Lorient",
-      "logo": "https://crests.football-data.org/525.png"
+      "name": "Leeds United",
+      "logo": "https://crests.football-data.org/341.png"
     },
     "score": "0 - 0",
-    "time": "16:15"
-  },
-  {
-    "match_id": "559656",
-    "tournament": "Ligue 1",
-    "date": "2026-10-25",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Auxerre",
-      "logo": "https://crests.football-data.org/519.png"
-    },
-    "team_b": {
-      "name": "Le Mans",
-      "logo": "https://crests.football-data.org/535.png"
-    },
-    "score": "1 - 1",
-    "time": "16:15"
+    "time": "16:30"
   },
   {
     "match_id": "565836",
@@ -365,22 +381,6 @@
       "logo": "https://crests.football-data.org/5.png"
     },
     "score": "1 - 3",
-    "time": "16:30"
-  },
-  {
-    "match_id": "560621",
-    "tournament": "Premier League",
-    "date": "2026-10-25",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Sunderland",
-      "logo": "https://crests.football-data.org/71.png"
-    },
-    "team_b": {
-      "name": "Leeds United",
-      "logo": "https://crests.football-data.org/341.png"
-    },
-    "score": "0 - 0",
     "time": "16:30"
   },
   {
@@ -467,7 +467,7 @@
     "match_id": "558559",
     "tournament": "Serie A",
     "date": "2026-10-25",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Udinese",
       "logo": "https://crests.football-data.org/115.png"
@@ -483,7 +483,7 @@
     "match_id": "564723",
     "tournament": "Primera Division",
     "date": "2026-10-25",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Barça",
       "logo": "https://crests.football-data.org/81.png"
@@ -492,14 +492,14 @@
       "name": "Real Madrid",
       "logo": "https://crests.football-data.org/86.png"
     },
-    "score": "0 - 1",
+    "score": "1 - 2",
     "time": "20:00"
   },
   {
     "match_id": "567332",
     "tournament": "Primeira Liga",
     "date": "2026-10-25",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
@@ -508,7 +508,7 @@
       "name": "Acad. Viseu",
       "logo": "https://crests.football-data.org/5527.png"
     },
-    "score": "0 - 1",
+    "score": "1 - 2",
     "time": "20:30"
   }
 ]
