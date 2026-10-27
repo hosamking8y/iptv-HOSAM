@@ -3,7 +3,7 @@
     "match_id": "558556",
     "tournament": "Serie A",
     "date": "2026-10-27",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Sassuolo",
       "logo": "https://crests.football-data.org/471.png"
@@ -12,7 +12,7 @@
       "name": "Lazio",
       "logo": "https://crests.football-data.org/110.png"
     },
-    "score": "vs",
+    "score": "2 - 5",
     "time": "17:30"
   },
   {
