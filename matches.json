@@ -3,7 +3,7 @@
     "match_id": "558556",
     "tournament": "Serie A",
     "date": "2026-10-27",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Sassuolo",
       "logo": "https://crests.football-data.org/471.png"
@@ -12,14 +12,14 @@
       "name": "Lazio",
       "logo": "https://crests.football-data.org/110.png"
     },
-    "score": "2 - 5",
+    "score": "2 - 6",
     "time": "17:30"
   },
   {
     "match_id": "558555",
     "tournament": "Serie A",
     "date": "2026-10-27",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Roma",
       "logo": "https://crests.football-data.org/100.png"
@@ -28,14 +28,14 @@
       "name": "Cagliari",
       "logo": "https://crests.football-data.org/104.png"
     },
-    "score": "vs",
+    "score": "4 - 2",
     "time": "19:45"
   },
   {
     "match_id": "558557",
     "tournament": "Serie A",
     "date": "2026-10-27",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Torino",
       "logo": "https://crests.football-data.org/586.png"
@@ -44,7 +44,7 @@
       "name": "Como 1907",
       "logo": "https://crests.football-data.org/7397.png"
     },
-    "score": "vs",
+    "score": "1 - 3",
     "time": "19:45"
   }
 ]
