@@ -1,82 +1,50 @@
 [
   {
-    "match_id": "567331",
-    "tournament": "Primeira Liga",
-    "date": "2026-10-26",
-    "status": "FINISHED",
+    "match_id": "558556",
+    "tournament": "Serie A",
+    "date": "2026-10-27",
+    "status": "TIMED",
     "team_a": {
-      "name": "Santa Clara",
-      "logo": "https://crests.football-data.org/5530.png"
+      "name": "Sassuolo",
+      "logo": "https://crests.football-data.org/471.png"
     },
     "team_b": {
-      "name": "SL Benfica",
-      "logo": "https://crests.football-data.org/1903.png"
+      "name": "Lazio",
+      "logo": "https://crests.football-data.org/110.png"
     },
-    "score": "1 - 2",
-    "time": "18:45"
+    "score": "vs",
+    "time": "17:30"
   },
   {
-    "match_id": "559648",
-    "tournament": "Ligue 1",
-    "date": "2026-10-26",
-    "status": "FINISHED",
+    "match_id": "558557",
+    "tournament": "Serie A",
+    "date": "2026-10-27",
+    "status": "TIMED",
     "team_a": {
-      "name": "PSG",
-      "logo": "https://crests.football-data.org/524.png"
+      "name": "Torino",
+      "logo": "https://crests.football-data.org/586.png"
     },
     "team_b": {
-      "name": "Olympique Lyon",
-      "logo": "https://crests.football-data.org/523.png"
+      "name": "Como 1907",
+      "logo": "https://crests.football-data.org/7397.png"
     },
-    "score": "2 - 0",
-    "time": "19:30"
+    "score": "vs",
+    "time": "19:45"
   },
   {
-    "match_id": "564721",
-    "tournament": "Primera Division",
-    "date": "2026-10-26",
-    "status": "FINISHED",
+    "match_id": "558555",
+    "tournament": "Serie A",
+    "date": "2026-10-27",
+    "status": "TIMED",
     "team_a": {
-      "name": "Sevilla FC",
-      "logo": "https://crests.football-data.org/559.png"
+      "name": "Roma",
+      "logo": "https://crests.football-data.org/100.png"
     },
     "team_b": {
-      "name": "Osasuna",
-      "logo": "https://crests.football-data.org/79.png"
+      "name": "Cagliari",
+      "logo": "https://crests.football-data.org/104.png"
     },
-    "score": "2 - 0",
-    "time": "20:00"
-  },
-  {
-    "match_id": "555051",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-10-26",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Coritiba",
-      "logo": "https://crests.football-data.org/4241.png"
-    },
-    "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "score": "0 - 0",
-    "time": "22:30"
-  },
-  {
-    "match_id": "555053",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-10-26",
-    "status": "IN_PLAY",
-    "team_a": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
-    },
-    "team_b": {
-      "name": "Mineiro",
-      "logo": "https://crests.football-data.org/1766.png"
-    },
-    "score": "0 - 1",
-    "time": "23:00"
+    "score": "vs",
+    "time": "19:45"
   }
 ]
