@@ -1,41 +1,9 @@
 [
   {
-    "match_id": "558550",
-    "tournament": "Serie A",
-    "date": "2026-10-28",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Venezia FC",
-      "logo": "https://crests.football-data.org/454.png"
-    },
-    "team_b": {
-      "name": "Inter",
-      "logo": "https://crests.football-data.org/108.png"
-    },
-    "score": "vs",
-    "time": "17:30"
-  },
-  {
-    "match_id": "558553",
-    "tournament": "Serie A",
-    "date": "2026-10-28",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Parma",
-      "logo": "https://crests.football-data.org/112.png"
-    },
-    "team_b": {
-      "name": "Udinese",
-      "logo": "https://crests.football-data.org/115.png"
-    },
-    "score": "vs",
-    "time": "17:30"
-  },
-  {
     "match_id": "558549",
     "tournament": "Serie A",
     "date": "2026-10-28",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Milan",
       "logo": "https://crests.football-data.org/98.png"
@@ -44,24 +12,40 @@
       "name": "Bologna",
       "logo": "https://crests.football-data.org/103.png"
     },
-    "score": "vs",
+    "score": "2 - 4",
     "time": "17:30"
   },
   {
-    "match_id": "558554",
+    "match_id": "558550",
     "tournament": "Serie A",
     "date": "2026-10-28",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Monza",
-      "logo": "https://crests.football-data.org/5911.png"
+      "name": "Venezia FC",
+      "logo": "https://crests.football-data.org/454.png"
     },
     "team_b": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
+      "name": "Inter",
+      "logo": "https://crests.football-data.org/108.png"
     },
-    "score": "vs",
-    "time": "19:45"
+    "score": "0 - 2",
+    "time": "17:30"
+  },
+  {
+    "match_id": "558553",
+    "tournament": "Serie A",
+    "date": "2026-10-28",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Parma",
+      "logo": "https://crests.football-data.org/112.png"
+    },
+    "team_b": {
+      "name": "Udinese",
+      "logo": "https://crests.football-data.org/115.png"
+    },
+    "score": "0 - 0",
+    "time": "17:30"
   },
   {
     "match_id": "558552",
@@ -80,17 +64,33 @@
     "time": "19:45"
   },
   {
-    "match_id": "555068",
+    "match_id": "558554",
+    "tournament": "Serie A",
+    "date": "2026-10-28",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Monza",
+      "logo": "https://crests.football-data.org/5911.png"
+    },
+    "team_b": {
+      "name": "Napoli",
+      "logo": "https://crests.football-data.org/113.png"
+    },
+    "score": "vs",
+    "time": "19:45"
+  },
+  {
+    "match_id": "555065",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-28",
     "status": "TIMED",
     "team_a": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
     },
     "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
     },
     "score": "vs",
     "time": "22:30"
@@ -112,17 +112,17 @@
     "time": "22:30"
   },
   {
-    "match_id": "555065",
+    "match_id": "555068",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-28",
     "status": "TIMED",
     "team_a": {
-      "name": "Fluminense",
-      "logo": "https://crests.football-data.org/1765.png"
+      "name": "Santos",
+      "logo": "https://crests.football-data.org/6685.png"
     },
     "team_b": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
     "score": "vs",
     "time": "22:30"
