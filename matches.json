@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "555067",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-10-29",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Clube do Remo",
-      "logo": "https://crests.football-data.org/4287.png"
-    },
-    "team_b": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
-    },
-    "score": "2 - 1",
-    "time": "00:30"
-  },
-  {
     "match_id": "555061",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-29",
@@ -32,10 +16,26 @@
     "time": "00:30"
   },
   {
+    "match_id": "555067",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-10-29",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Clube do Remo",
+      "logo": "https://crests.football-data.org/4287.png"
+    },
+    "team_b": {
+      "name": "Botafogo",
+      "logo": "https://crests.football-data.org/1770.png"
+    },
+    "score": "2 - 1",
+    "time": "00:30"
+  },
+  {
     "match_id": "558558",
     "tournament": "Serie A",
     "date": "2026-10-29",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Frosinone",
       "logo": "https://crests.football-data.org/470.png"
@@ -44,14 +44,14 @@
       "name": "Lecce",
       "logo": "https://crests.football-data.org/5890.png"
     },
-    "score": "vs",
+    "score": "5 - 1",
     "time": "17:30"
   },
   {
     "match_id": "558551",
     "tournament": "Serie A",
     "date": "2026-10-29",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Fiorentina",
       "logo": "https://crests.football-data.org/99.png"
@@ -60,7 +60,7 @@
       "name": "Atalanta",
       "logo": "https://crests.football-data.org/102.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "19:45"
   },
   {
