@@ -3,7 +3,7 @@
     "match_id": "555066",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-10-30",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
@@ -12,7 +12,7 @@
       "name": "Paranaense",
       "logo": "https://crests.football-data.org/1768.png"
     },
-    "score": "0 - 0",
+    "score": "2 - 0",
     "time": "00:30"
   },
   {
@@ -64,22 +64,6 @@
     "time": "19:30"
   },
   {
-    "match_id": "564737",
-    "tournament": "Primera Division",
-    "date": "2026-10-30",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Villarreal",
-      "logo": "https://crests.football-data.org/94.png"
-    },
-    "team_b": {
-      "name": "Espanyol",
-      "logo": "https://crests.football-data.org/80.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
     "match_id": "561916",
     "tournament": "Championship",
     "date": "2026-10-30",
@@ -91,6 +75,22 @@
     "team_b": {
       "name": "Wrexham",
       "logo": "https://crests.football-data.org/404.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "564737",
+    "tournament": "Primera Division",
+    "date": "2026-10-30",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Villarreal",
+      "logo": "https://crests.football-data.org/94.png"
+    },
+    "team_b": {
+      "name": "Espanyol",
+      "logo": "https://crests.football-data.org/80.png"
     },
     "score": "vs",
     "time": "20:00"
