@@ -19,7 +19,7 @@
     "match_id": "559646",
     "tournament": "Ligue 1",
     "date": "2026-10-30",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Nice",
       "logo": "https://crests.football-data.org/522.png"
@@ -28,14 +28,14 @@
       "name": "Stade Rennais",
       "logo": "https://crests.football-data.org/529.png"
     },
-    "score": "2 - 1",
+    "score": "5 - 2",
     "time": "18:00"
   },
   {
     "match_id": "559644",
     "tournament": "Ligue 1",
     "date": "2026-10-30",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Le Havre",
       "logo": "https://crests.football-data.org/533.png"
@@ -44,14 +44,14 @@
       "name": "PSG",
       "logo": "https://crests.football-data.org/524.png"
     },
-    "score": "1 - 2",
+    "score": "1 - 5",
     "time": "18:00"
   },
   {
     "match_id": "565846",
     "tournament": "Bundesliga",
     "date": "2026-10-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Elversberg",
       "logo": "https://crests.football-data.org/719.png"
@@ -60,8 +60,24 @@
       "name": "Mainz",
       "logo": "https://crests.football-data.org/15.png"
     },
-    "score": "vs",
+    "score": "4 - 1",
     "time": "19:30"
+  },
+  {
+    "match_id": "564737",
+    "tournament": "Primera Division",
+    "date": "2026-10-30",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Villarreal",
+      "logo": "https://crests.football-data.org/94.png"
+    },
+    "team_b": {
+      "name": "Espanyol",
+      "logo": "https://crests.football-data.org/80.png"
+    },
+    "score": "0 - 1",
+    "time": "20:00"
   },
   {
     "match_id": "561916",
@@ -80,26 +96,10 @@
     "time": "20:00"
   },
   {
-    "match_id": "564737",
-    "tournament": "Primera Division",
-    "date": "2026-10-30",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Villarreal",
-      "logo": "https://crests.football-data.org/94.png"
-    },
-    "team_b": {
-      "name": "Espanyol",
-      "logo": "https://crests.football-data.org/80.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
     "match_id": "559639",
     "tournament": "Ligue 1",
     "date": "2026-10-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Lille",
       "logo": "https://crests.football-data.org/521.png"
@@ -108,14 +108,14 @@
       "name": "RC Lens",
       "logo": "https://crests.football-data.org/546.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "20:05"
   },
   {
     "match_id": "567344",
     "tournament": "Primeira Liga",
     "date": "2026-10-30",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Casa Pia",
       "logo": "https://crests.football-data.org/6618.png"
@@ -124,7 +124,7 @@
       "name": "Sporting CP",
       "logo": "https://crests.football-data.org/498.png"
     },
-    "score": "vs",
+    "score": "0 - 2",
     "time": "20:15"
   },
   {
