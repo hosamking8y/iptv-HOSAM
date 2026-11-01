@@ -80,22 +80,6 @@
     "time": "13:30"
   },
   {
-    "match_id": "558546",
-    "tournament": "Serie A",
-    "date": "2026-11-01",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Lazio",
-      "logo": "https://crests.football-data.org/110.png"
-    },
-    "team_b": {
-      "name": "Cagliari",
-      "logo": "https://crests.football-data.org/104.png"
-    },
-    "score": "vs",
-    "time": "14:00"
-  },
-  {
     "match_id": "559647",
     "tournament": "Ligue 1",
     "date": "2026-11-01",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Auxerre",
       "logo": "https://crests.football-data.org/519.png"
+    },
+    "score": "vs",
+    "time": "14:00"
+  },
+  {
+    "match_id": "558546",
+    "tournament": "Serie A",
+    "date": "2026-11-01",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Lazio",
+      "logo": "https://crests.football-data.org/110.png"
+    },
+    "team_b": {
+      "name": "Cagliari",
+      "logo": "https://crests.football-data.org/104.png"
     },
     "score": "vs",
     "time": "14:00"
