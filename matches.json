@@ -80,22 +80,6 @@
     "time": "20:00"
   },
   {
-    "match_id": "567342",
-    "tournament": "Primeira Liga",
-    "date": "2026-11-02",
-    "status": "TIMED",
-    "team_a": {
-      "name": "SL Benfica",
-      "logo": "https://crests.football-data.org/1903.png"
-    },
-    "team_b": {
-      "name": "Alverca",
-      "logo": "https://crests.football-data.org/7822.png"
-    },
-    "score": "vs",
-    "time": "20:15"
-  },
-  {
     "match_id": "567346",
     "tournament": "Primeira Liga",
     "date": "2026-11-02",
@@ -107,6 +91,22 @@
     "team_b": {
       "name": "Vitória SC",
       "logo": "https://crests.football-data.org/5543.png"
+    },
+    "score": "vs",
+    "time": "20:15"
+  },
+  {
+    "match_id": "567342",
+    "tournament": "Primeira Liga",
+    "date": "2026-11-02",
+    "status": "TIMED",
+    "team_a": {
+      "name": "SL Benfica",
+      "logo": "https://crests.football-data.org/1903.png"
+    },
+    "team_b": {
+      "name": "Alverca",
+      "logo": "https://crests.football-data.org/7822.png"
     },
     "score": "vs",
     "time": "20:15"
