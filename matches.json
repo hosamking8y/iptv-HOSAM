@@ -32,22 +32,6 @@
     "time": "17:45"
   },
   {
-    "match_id": "561918",
-    "tournament": "Championship",
-    "date": "2026-11-03",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Portsmouth",
-      "logo": "https://crests.football-data.org/325.png"
-    },
-    "team_b": {
-      "name": "Swansea",
-      "logo": "https://crests.football-data.org/72.png"
-    },
-    "score": "vs",
-    "time": "19:45"
-  },
-  {
     "match_id": "561924",
     "tournament": "Championship",
     "date": "2026-11-03",
@@ -91,6 +75,22 @@
     "team_b": {
       "name": "Stoke",
       "logo": "https://crests.football-data.org/70.png"
+    },
+    "score": "vs",
+    "time": "19:45"
+  },
+  {
+    "match_id": "561918",
+    "tournament": "Championship",
+    "date": "2026-11-03",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Portsmouth",
+      "logo": "https://crests.football-data.org/325.png"
+    },
+    "team_b": {
+      "name": "Swansea",
+      "logo": "https://crests.football-data.org/72.png"
     },
     "score": "vs",
     "time": "19:45"
@@ -192,38 +192,6 @@
     "time": "20:00"
   },
   {
-    "match_id": "575383",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-03",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Man United",
-      "logo": "https://crests.football-data.org/66.png"
-    },
-    "team_b": {
-      "name": "Roma",
-      "logo": "https://crests.football-data.org/100.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "561923",
-    "tournament": "Championship",
-    "date": "2026-11-03",
-    "status": "TIMED",
-    "team_a": {
-      "name": "West Brom",
-      "logo": "https://crests.football-data.org/74.png"
-    },
-    "team_b": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
     "match_id": "575379",
     "tournament": "UEFA Champions League",
     "date": "2026-11-03",
@@ -283,6 +251,38 @@
     "team_b": {
       "name": "Millwall",
       "logo": "https://crests.football-data.org/384.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "575383",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-03",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Man United",
+      "logo": "https://crests.football-data.org/66.png"
+    },
+    "team_b": {
+      "name": "Roma",
+      "logo": "https://crests.football-data.org/100.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "561923",
+    "tournament": "Championship",
+    "date": "2026-11-03",
+    "status": "TIMED",
+    "team_a": {
+      "name": "West Brom",
+      "logo": "https://crests.football-data.org/74.png"
+    },
+    "team_b": {
+      "name": "Southampton",
+      "logo": "https://crests.football-data.org/340.png"
     },
     "score": "vs",
     "time": "20:00"
