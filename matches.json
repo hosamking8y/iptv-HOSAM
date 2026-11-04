@@ -80,38 +80,6 @@
     "time": "19:45"
   },
   {
-    "match_id": "575392",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-04",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Porto",
-      "logo": "https://crests.football-data.org/503.png"
-    },
-    "team_b": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "575388",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-04",
-    "status": "TIMED",
-    "team_a": {
-      "name": "RB Leipzig",
-      "logo": "https://crests.football-data.org/721.png"
-    },
-    "team_b": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
     "match_id": "575394",
     "tournament": "UEFA Champions League",
     "date": "2026-11-04",
@@ -160,17 +128,33 @@
     "time": "20:00"
   },
   {
-    "match_id": "575393",
+    "match_id": "575392",
     "tournament": "UEFA Champions League",
     "date": "2026-11-04",
     "status": "TIMED",
     "team_a": {
-      "name": "RC Lens",
-      "logo": "https://crests.football-data.org/546.png"
+      "name": "Porto",
+      "logo": "https://crests.football-data.org/503.png"
     },
     "team_b": {
-      "name": "Como 1907",
-      "logo": "https://crests.football-data.org/7397.png"
+      "name": "Napoli",
+      "logo": "https://crests.football-data.org/113.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "575388",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-04",
+    "status": "TIMED",
+    "team_a": {
+      "name": "RB Leipzig",
+      "logo": "https://crests.football-data.org/721.png"
+    },
+    "team_b": {
+      "name": "Man City",
+      "logo": "https://crests.football-data.org/65.png"
     },
     "score": "vs",
     "time": "20:00"
@@ -203,6 +187,22 @@
     "team_b": {
       "name": "Real Betis",
       "logo": "https://crests.football-data.org/90.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "575393",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-04",
+    "status": "TIMED",
+    "team_a": {
+      "name": "RC Lens",
+      "logo": "https://crests.football-data.org/546.png"
+    },
+    "team_b": {
+      "name": "Como 1907",
+      "logo": "https://crests.football-data.org/7397.png"
     },
     "score": "vs",
     "time": "20:00"
