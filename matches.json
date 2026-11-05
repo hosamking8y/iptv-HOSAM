@@ -3,7 +3,7 @@
     "match_id": "555071",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-05",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
@@ -19,7 +19,7 @@
     "match_id": "555078",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-05",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "São Paulo",
       "logo": "https://crests.football-data.org/1776.png"
