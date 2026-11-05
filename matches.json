@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "555071",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-05",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
-    },
-    "team_b": {
-      "name": "Mineiro",
-      "logo": "https://crests.football-data.org/1766.png"
-    },
-    "score": "1 - 0",
-    "time": "00:30"
-  },
-  {
     "match_id": "555078",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-05",
@@ -29,6 +13,22 @@
       "logo": "https://crests.football-data.org/1779.png"
     },
     "score": "0 - 0",
+    "time": "00:30"
+  },
+  {
+    "match_id": "555071",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-11-05",
+    "status": "FINISHED",
+    "team_a": {
+      "name": "Botafogo",
+      "logo": "https://crests.football-data.org/1770.png"
+    },
+    "team_b": {
+      "name": "Mineiro",
+      "logo": "https://crests.football-data.org/1766.png"
+    },
+    "score": "1 - 0",
     "time": "00:30"
   },
   {
