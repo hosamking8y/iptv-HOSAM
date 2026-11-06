@@ -3,7 +3,7 @@
     "match_id": "555074",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-06",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Cruzeiro",
       "logo": "https://crests.football-data.org/1771.png"
@@ -12,7 +12,7 @@
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
     },
-    "score": "0 - 1",
+    "score": "3 - 2",
     "time": "00:30"
   },
   {
@@ -48,22 +48,6 @@
     "time": "19:30"
   },
   {
-    "match_id": "559638",
-    "tournament": "Ligue 1",
-    "date": "2026-11-06",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Toulouse",
-      "logo": "https://crests.football-data.org/511.png"
-    },
-    "team_b": {
-      "name": "Strasbourg",
-      "logo": "https://crests.football-data.org/576.png"
-    },
-    "score": "vs",
-    "time": "19:45"
-  },
-  {
     "match_id": "558537",
     "tournament": "Serie A",
     "date": "2026-11-06",
@@ -80,17 +64,33 @@
     "time": "19:45"
   },
   {
-    "match_id": "560634",
-    "tournament": "Premier League",
+    "match_id": "559638",
+    "tournament": "Ligue 1",
     "date": "2026-11-06",
     "status": "TIMED",
     "team_a": {
-      "name": "Everton",
-      "logo": "https://crests.football-data.org/62.png"
+      "name": "Toulouse",
+      "logo": "https://crests.football-data.org/511.png"
     },
     "team_b": {
-      "name": "Coventry City",
-      "logo": "https://crests.football-data.org/1076.png"
+      "name": "Strasbourg",
+      "logo": "https://crests.football-data.org/576.png"
+    },
+    "score": "vs",
+    "time": "19:45"
+  },
+  {
+    "match_id": "564740",
+    "tournament": "Primera Division",
+    "date": "2026-11-06",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Sevilla FC",
+      "logo": "https://crests.football-data.org/559.png"
+    },
+    "team_b": {
+      "name": "Alavés",
+      "logo": "https://crests.football-data.org/263.png"
     },
     "score": "vs",
     "time": "20:00"
@@ -112,17 +112,17 @@
     "time": "20:00"
   },
   {
-    "match_id": "564740",
-    "tournament": "Primera Division",
+    "match_id": "560634",
+    "tournament": "Premier League",
     "date": "2026-11-06",
     "status": "TIMED",
     "team_a": {
-      "name": "Sevilla FC",
-      "logo": "https://crests.football-data.org/559.png"
+      "name": "Everton",
+      "logo": "https://crests.football-data.org/62.png"
     },
     "team_b": {
-      "name": "Alavés",
-      "logo": "https://crests.football-data.org/263.png"
+      "name": "Coventry City",
+      "logo": "https://crests.football-data.org/1076.png"
     },
     "score": "vs",
     "time": "20:00"
