@@ -3,7 +3,7 @@
     "match_id": "555085",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-14",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Mirassol",
       "logo": "https://crests.football-data.org/4364.png"
@@ -12,14 +12,14 @@
       "name": "Mineiro",
       "logo": "https://crests.football-data.org/1766.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "21:30"
   },
   {
     "match_id": "554942",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-14",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
@@ -28,7 +28,7 @@
       "name": "Vasco da Gama",
       "logo": "https://crests.football-data.org/1780.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "23:30"
   }
 ]
