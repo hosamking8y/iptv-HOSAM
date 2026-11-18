@@ -32,22 +32,6 @@
     "time": "23:00"
   },
   {
-    "match_id": "555082",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-18",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Cruzeiro",
-      "logo": "https://crests.football-data.org/1771.png"
-    },
-    "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "vs",
-    "time": "23:30"
-  },
-  {
     "match_id": "555083",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-18",
@@ -59,6 +43,22 @@
     "team_b": {
       "name": "Paranaense",
       "logo": "https://crests.football-data.org/1768.png"
+    },
+    "score": "vs",
+    "time": "23:30"
+  },
+  {
+    "match_id": "555082",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-11-18",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Cruzeiro",
+      "logo": "https://crests.football-data.org/1771.png"
+    },
+    "team_b": {
+      "name": "Palmeiras",
+      "logo": "https://crests.football-data.org/1769.png"
     },
     "score": "vs",
     "time": "23:30"
