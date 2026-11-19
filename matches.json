@@ -3,7 +3,7 @@
     "match_id": "555084",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-19",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Grêmio",
       "logo": "https://crests.football-data.org/1767.png"
@@ -12,14 +12,14 @@
       "name": "Bahia",
       "logo": "https://crests.football-data.org/1777.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "00:30"
   },
   {
     "match_id": "555080",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-19",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Corinthians",
       "logo": "https://crests.football-data.org/1779.png"
@@ -28,7 +28,7 @@
       "name": "Botafogo",
       "logo": "https://crests.football-data.org/1770.png"
     },
-    "score": "vs",
+    "score": "4 - 0",
     "time": "00:30"
   },
   {
