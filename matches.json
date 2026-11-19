@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "555080",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-19",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Corinthians",
-      "logo": "https://crests.football-data.org/1779.png"
-    },
-    "team_b": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
-    },
-    "score": "4 - 0",
-    "time": "00:30"
-  },
-  {
     "match_id": "555084",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-19",
@@ -32,26 +16,26 @@
     "time": "00:30"
   },
   {
-    "match_id": "555088",
+    "match_id": "555080",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-19",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
     },
     "team_b": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
+      "name": "Botafogo",
+      "logo": "https://crests.football-data.org/1770.png"
     },
-    "score": "vs",
-    "time": "22:30"
+    "score": "4 - 0",
+    "time": "00:30"
   },
   {
     "match_id": "555089",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-19",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
@@ -60,7 +44,23 @@
       "name": "Bragantino",
       "logo": "https://crests.football-data.org/4286.png"
     },
-    "score": "vs",
+    "score": "2 - 0",
+    "time": "22:30"
+  },
+  {
+    "match_id": "555088",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-11-19",
+    "status": "IN_PLAY",
+    "team_a": {
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
+    },
+    "team_b": {
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
+    },
+    "score": "1 - 0",
     "time": "22:30"
   }
 ]
