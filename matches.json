@@ -1,21 +1,5 @@
 [
   {
-    "match_id": "555084",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-19",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "team_b": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
-    },
-    "score": "0 - 0",
-    "time": "00:30"
-  },
-  {
     "match_id": "555080",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-19",
@@ -32,20 +16,20 @@
     "time": "00:30"
   },
   {
-    "match_id": "555089",
+    "match_id": "555084",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-19",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
     },
     "team_b": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
     },
-    "score": "vs",
-    "time": "22:30"
+    "score": "0 - 0",
+    "time": "00:30"
   },
   {
     "match_id": "555088",
@@ -59,6 +43,22 @@
     "team_b": {
       "name": "Internacional",
       "logo": "https://crests.football-data.org/6684.png"
+    },
+    "score": "vs",
+    "time": "22:30"
+  },
+  {
+    "match_id": "555089",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-11-19",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "team_b": {
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
     },
     "score": "vs",
     "time": "22:30"
