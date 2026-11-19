@@ -1,66 +1,66 @@
 [
   {
-    "match_id": "555081",
+    "match_id": "555084",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "status": "TIMED",
     "team_a": {
-      "name": "Coritiba",
-      "logo": "https://crests.football-data.org/4241.png"
+      "name": "Grêmio",
+      "logo": "https://crests.football-data.org/1767.png"
     },
     "team_b": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
+      "name": "Bahia",
+      "logo": "https://crests.football-data.org/1777.png"
+    },
+    "score": "vs",
+    "time": "00:30"
+  },
+  {
+    "match_id": "555080",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-11-19",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
+    },
+    "team_b": {
+      "name": "Botafogo",
+      "logo": "https://crests.football-data.org/1770.png"
+    },
+    "score": "vs",
+    "time": "00:30"
+  },
+  {
+    "match_id": "555089",
+    "tournament": "Campeonato Brasileiro Série A",
+    "date": "2026-11-19",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Vitória",
+      "logo": "https://crests.football-data.org/1782.png"
+    },
+    "team_b": {
+      "name": "Bragantino",
+      "logo": "https://crests.football-data.org/4286.png"
     },
     "score": "vs",
     "time": "22:30"
   },
   {
-    "match_id": "555086",
+    "match_id": "555088",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "status": "TIMED",
     "team_a": {
-      "name": "Clube do Remo",
-      "logo": "https://crests.football-data.org/4287.png"
+      "name": "Vasco da Gama",
+      "logo": "https://crests.football-data.org/1780.png"
     },
     "team_b": {
-      "name": "Chapecoense",
-      "logo": "https://crests.football-data.org/1772_large.png"
+      "name": "Internacional",
+      "logo": "https://crests.football-data.org/6684.png"
     },
     "score": "vs",
-    "time": "23:00"
-  },
-  {
-    "match_id": "555083",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-18",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Flamengo",
-      "logo": "https://crests.football-data.org/1783.png"
-    },
-    "team_b": {
-      "name": "Paranaense",
-      "logo": "https://crests.football-data.org/1768.png"
-    },
-    "score": "vs",
-    "time": "23:30"
-  },
-  {
-    "match_id": "555082",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-18",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Cruzeiro",
-      "logo": "https://crests.football-data.org/1771.png"
-    },
-    "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
-    },
-    "score": "vs",
-    "time": "23:30"
+    "time": "22:30"
   }
 ]
