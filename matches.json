@@ -1,66 +1,66 @@
 [
   {
-    "match_id": "555084",
+    "match_id": "555087",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "status": "FINISHED",
     "team_a": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
+      "name": "São Paulo",
+      "logo": "https://crests.football-data.org/1776.png"
     },
     "team_b": {
-      "name": "Bahia",
-      "logo": "https://crests.football-data.org/1777.png"
+      "name": "Fluminense",
+      "logo": "https://crests.football-data.org/1765.png"
     },
-    "score": "0 - 0",
+    "score": "0 - 1",
     "time": "00:30"
   },
   {
-    "match_id": "555080",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-19",
-    "status": "FINISHED",
+    "match_id": "565859",
+    "tournament": "Bundesliga",
+    "date": "2026-11-20",
+    "status": "TIMED",
     "team_a": {
-      "name": "Corinthians",
-      "logo": "https://crests.football-data.org/1779.png"
+      "name": "Bayern",
+      "logo": "https://crests.football-data.org/5.png"
     },
     "team_b": {
-      "name": "Botafogo",
-      "logo": "https://crests.football-data.org/1770.png"
+      "name": "1. FC Köln",
+      "logo": "https://crests.football-data.org/1.png"
     },
-    "score": "4 - 0",
-    "time": "00:30"
+    "score": "vs",
+    "time": "19:30"
   },
   {
-    "match_id": "555089",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-19",
-    "status": "IN_PLAY",
+    "match_id": "559622",
+    "tournament": "Ligue 1",
+    "date": "2026-11-20",
+    "status": "TIMED",
     "team_a": {
-      "name": "Vitória",
-      "logo": "https://crests.football-data.org/1782.png"
+      "name": "Troyes",
+      "logo": "https://crests.football-data.org/531.png"
     },
     "team_b": {
-      "name": "Bragantino",
-      "logo": "https://crests.football-data.org/4286.png"
+      "name": "Le Havre",
+      "logo": "https://crests.football-data.org/533.png"
     },
-    "score": "2 - 0",
-    "time": "22:30"
+    "score": "vs",
+    "time": "19:45"
   },
   {
-    "match_id": "555088",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-19",
-    "status": "IN_PLAY",
+    "match_id": "564748",
+    "tournament": "Primera Division",
+    "date": "2026-11-20",
+    "status": "TIMED",
     "team_a": {
-      "name": "Vasco da Gama",
-      "logo": "https://crests.football-data.org/1780.png"
+      "name": "Athletic",
+      "logo": "https://crests.football-data.org/77.png"
     },
     "team_b": {
-      "name": "Internacional",
-      "logo": "https://crests.football-data.org/6684.png"
+      "name": "Espanyol",
+      "logo": "https://crests.football-data.org/80.png"
     },
-    "score": "1 - 0",
-    "time": "22:30"
+    "score": "vs",
+    "time": "20:00"
   }
 ]
