@@ -3,7 +3,7 @@
     "match_id": "555095",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-22",
-    "status": "IN_PLAY",
+    "status": "FINISHED",
     "team_a": {
       "name": "Chapecoense",
       "logo": "https://crests.football-data.org/1772_large.png"
@@ -12,7 +12,7 @@
       "name": "Cruzeiro",
       "logo": "https://crests.football-data.org/1771.png"
     },
-    "score": "0 - 0",
+    "score": "1 - 2",
     "time": "00:00"
   },
   {
@@ -320,22 +320,6 @@
     "time": "19:00"
   },
   {
-    "match_id": "559629",
-    "tournament": "Ligue 1",
-    "date": "2026-11-22",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Marseille",
-      "logo": "https://crests.football-data.org/516.png"
-    },
-    "team_b": {
-      "name": "Le Mans",
-      "logo": "https://crests.football-data.org/535.png"
-    },
-    "score": "vs",
-    "time": "19:45"
-  },
-  {
     "match_id": "558520",
     "tournament": "Serie A",
     "date": "2026-11-22",
@@ -347,6 +331,22 @@
     "team_b": {
       "name": "Inter",
       "logo": "https://crests.football-data.org/108.png"
+    },
+    "score": "vs",
+    "time": "19:45"
+  },
+  {
+    "match_id": "559629",
+    "tournament": "Ligue 1",
+    "date": "2026-11-22",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Marseille",
+      "logo": "https://crests.football-data.org/516.png"
+    },
+    "team_b": {
+      "name": "Le Mans",
+      "logo": "https://crests.football-data.org/535.png"
     },
     "score": "vs",
     "time": "19:45"
