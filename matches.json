@@ -3,7 +3,7 @@
     "match_id": "558519",
     "tournament": "Serie A",
     "date": "2026-11-23",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Monza",
       "logo": "https://crests.football-data.org/5911.png"
@@ -12,14 +12,14 @@
       "name": "Fiorentina",
       "logo": "https://crests.football-data.org/99.png"
     },
-    "score": "vs",
+    "score": "3 - 0",
     "time": "19:45"
   },
   {
     "match_id": "564757",
     "tournament": "Primera Division",
     "date": "2026-11-23",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Levante",
       "logo": "https://crests.football-data.org/88.png"
@@ -28,14 +28,14 @@
       "name": "Elche",
       "logo": "https://crests.football-data.org/285.png"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "20:00"
   },
   {
     "match_id": "560649",
     "tournament": "Premier League",
     "date": "2026-11-23",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Brentford",
       "logo": "https://crests.football-data.org/402.png"
@@ -44,14 +44,14 @@
       "name": "Everton",
       "logo": "https://crests.football-data.org/62.png"
     },
-    "score": "vs",
+    "score": "4 - 0",
     "time": "20:00"
   },
   {
     "match_id": "555097",
     "tournament": "Campeonato Brasileiro Série A",
     "date": "2026-11-23",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Internacional",
       "logo": "https://crests.football-data.org/6684.png"
@@ -60,7 +60,7 @@
       "name": "Vitória",
       "logo": "https://crests.football-data.org/1782.png"
     },
-    "score": "vs",
+    "score": "0 - 1",
     "time": "22:30"
   },
   {
