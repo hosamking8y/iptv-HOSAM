@@ -19,7 +19,7 @@
     "match_id": "575396",
     "tournament": "UEFA Champions League",
     "date": "2026-11-24",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Bodø/Glimt",
       "logo": "https://crests.football-data.org/5721.png"
@@ -28,14 +28,14 @@
       "name": "LASK",
       "logo": "https://crests.football-data.org/2016.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "17:45"
   },
   {
     "match_id": "575395",
     "tournament": "UEFA Champions League",
     "date": "2026-11-24",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Galatasaray",
       "logo": "https://crests.football-data.org/610.png"
@@ -44,7 +44,7 @@
       "name": "Aston Villa",
       "logo": "https://crests.football-data.org/58.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "17:45"
   },
   {
@@ -91,22 +91,6 @@
     "team_b": {
       "name": "West Ham",
       "logo": "https://crests.football-data.org/563.png"
-    },
-    "score": "vs",
-    "time": "19:45"
-  },
-  {
-    "match_id": "561956",
-    "tournament": "Championship",
-    "date": "2026-11-24",
-    "status": "SCHEDULED",
-    "team_a": {
-      "name": "Sheffield Utd",
-      "logo": "https://crests.football-data.org/356.png"
-    },
-    "team_b": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
     },
     "score": "vs",
     "time": "19:45"
@@ -160,36 +144,20 @@
     "time": "19:45"
   },
   {
-    "match_id": "575400",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "team_b": {
-      "name": "Porto",
-      "logo": "https://crests.football-data.org/503.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "561957",
+    "match_id": "561956",
     "tournament": "Championship",
     "date": "2026-11-24",
     "status": "SCHEDULED",
     "team_a": {
-      "name": "Wolverhampton",
-      "logo": "https://crests.football-data.org/76.png"
+      "name": "Sheffield Utd",
+      "logo": "https://crests.football-data.org/356.png"
     },
     "team_b": {
-      "name": "Derby County",
-      "logo": "https://crests.football-data.org/342.png"
+      "name": "Southampton",
+      "logo": "https://crests.football-data.org/340.png"
     },
     "score": "vs",
-    "time": "20:00"
+    "time": "19:45"
   },
   {
     "match_id": "575402",
@@ -224,17 +192,33 @@
     "time": "20:00"
   },
   {
-    "match_id": "575399",
+    "match_id": "575400",
     "tournament": "UEFA Champions League",
     "date": "2026-11-24",
     "status": "TIMED",
     "team_a": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
+      "name": "Feyenoord",
+      "logo": "https://crests.football-data.org/675.png"
     },
     "team_b": {
-      "name": "Dortmund",
-      "logo": "https://crests.football-data.org/4.png"
+      "name": "Porto",
+      "logo": "https://crests.football-data.org/503.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "561957",
+    "tournament": "Championship",
+    "date": "2026-11-24",
+    "status": "SCHEDULED",
+    "team_a": {
+      "name": "Wolverhampton",
+      "logo": "https://crests.football-data.org/76.png"
+    },
+    "team_b": {
+      "name": "Derby County",
+      "logo": "https://crests.football-data.org/342.png"
     },
     "score": "vs",
     "time": "20:00"
@@ -283,6 +267,22 @@
     "team_b": {
       "name": "PAE AEK",
       "logo": "https://crests.football-data.org/1899.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "575399",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-24",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Arsenal",
+      "logo": "https://crests.football-data.org/57.png"
+    },
+    "team_b": {
+      "name": "Dortmund",
+      "logo": "https://crests.football-data.org/4.png"
     },
     "score": "vs",
     "time": "20:00"
