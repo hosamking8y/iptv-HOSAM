@@ -1,306 +1,226 @@
 [
   {
-    "match_id": "555099",
-    "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-24",
-    "status": "FINISHED",
-    "team_a": {
-      "name": "Santos",
-      "logo": "https://crests.football-data.org/6685.png"
-    },
-    "team_b": {
-      "name": "Grêmio",
-      "logo": "https://crests.football-data.org/1767.png"
-    },
-    "score": "0 - 2",
-    "time": "00:00"
-  },
-  {
-    "match_id": "575396",
+    "match_id": "575404",
     "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
-    "status": "IN_PLAY",
+    "date": "2026-11-25",
+    "status": "TIMED",
     "team_a": {
-      "name": "Bodø/Glimt",
-      "logo": "https://crests.football-data.org/5721.png"
+      "name": "Sabah FK",
+      "logo": "https://crests.football-data.org/10233.png"
     },
     "team_b": {
-      "name": "LASK",
-      "logo": "https://crests.football-data.org/2016.png"
+      "name": "Barça",
+      "logo": "https://crests.football-data.org/81.png"
     },
-    "score": "0 - 0",
+    "score": "vs",
     "time": "17:45"
   },
   {
-    "match_id": "575395",
+    "match_id": "575405",
     "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
-    "status": "IN_PLAY",
+    "date": "2026-11-25",
+    "status": "TIMED",
     "team_a": {
-      "name": "Galatasaray",
-      "logo": "https://crests.football-data.org/610.png"
+      "name": "Slavia Praha",
+      "logo": "https://crests.football-data.org/930.png"
     },
     "team_b": {
-      "name": "Aston Villa",
-      "logo": "https://crests.football-data.org/58.png"
+      "name": "Villarreal",
+      "logo": "https://crests.football-data.org/94.png"
     },
-    "score": "0 - 0",
+    "score": "vs",
     "time": "17:45"
   },
   {
-    "match_id": "561953",
+    "match_id": "561961",
     "tournament": "Championship",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "status": "SCHEDULED",
     "team_a": {
-      "name": "Cardiff",
-      "logo": "https://crests.football-data.org/715.png"
+      "name": "Watford",
+      "logo": "https://crests.football-data.org/346.png"
     },
     "team_b": {
-      "name": "Preston NE",
-      "logo": "https://crests.football-data.org/1081.png"
+      "name": "Blackburn",
+      "logo": "https://crests.football-data.org/59.png"
     },
     "score": "vs",
     "time": "19:45"
   },
   {
-    "match_id": "561959",
+    "match_id": "561963",
     "tournament": "Championship",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "status": "SCHEDULED",
     "team_a": {
-      "name": "Bristol City",
-      "logo": "https://crests.football-data.org/387.png"
+      "name": "Bolton",
+      "logo": "https://crests.football-data.org/60.png"
     },
     "team_b": {
-      "name": "Wrexham",
-      "logo": "https://crests.football-data.org/404.png"
+      "name": "West Brom",
+      "logo": "https://crests.football-data.org/74.png"
     },
     "score": "vs",
     "time": "19:45"
   },
   {
-    "match_id": "561955",
+    "match_id": "561964",
     "tournament": "Championship",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "status": "SCHEDULED",
     "team_a": {
-      "name": "Portsmouth",
-      "logo": "https://crests.football-data.org/325.png"
+      "name": "Burnley",
+      "logo": "https://crests.football-data.org/328.png"
     },
     "team_b": {
-      "name": "West Ham",
-      "logo": "https://crests.football-data.org/563.png"
+      "name": "Birmingham",
+      "logo": "https://crests.football-data.org/332.png"
     },
     "score": "vs",
     "time": "19:45"
   },
   {
-    "match_id": "561958",
+    "match_id": "575410",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Lille",
+      "logo": "https://crests.football-data.org/521.png"
+    },
+    "team_b": {
+      "name": "Bayern",
+      "logo": "https://crests.football-data.org/5.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "575406",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Inter",
+      "logo": "https://crests.football-data.org/108.png"
+    },
+    "team_b": {
+      "name": "Stuttgart",
+      "logo": "https://crests.football-data.org/10.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "575412",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Shaktar",
+      "logo": "https://crests.football-data.org/1887.png"
+    },
+    "team_b": {
+      "name": "Fenerbahçe",
+      "logo": "https://crests.football-data.org/613.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "575408",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "PSG",
+      "logo": "https://crests.football-data.org/524.png"
+    },
+    "team_b": {
+      "name": "Roma",
+      "logo": "https://crests.football-data.org/100.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "575409",
+    "tournament": "UEFA Champions League",
+    "date": "2026-11-25",
+    "status": "TIMED",
+    "team_a": {
+      "name": "Club Brugge",
+      "logo": "https://crests.football-data.org/851.png"
+    },
+    "team_b": {
+      "name": "Liverpool",
+      "logo": "https://crests.football-data.org/64.png"
+    },
+    "score": "vs",
+    "time": "20:00"
+  },
+  {
+    "match_id": "561962",
     "tournament": "Championship",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "status": "SCHEDULED",
     "team_a": {
-      "name": "Charlton",
-      "logo": "https://crests.football-data.org/348.png"
+      "name": "Stoke",
+      "logo": "https://crests.football-data.org/70.png"
     },
     "team_b": {
-      "name": "Lincoln City",
-      "logo": "https://crests.football-data.org/1126.png"
+      "name": "Millwall",
+      "logo": "https://crests.football-data.org/384.png"
     },
     "score": "vs",
-    "time": "19:45"
+    "time": "20:00"
   },
   {
-    "match_id": "561954",
-    "tournament": "Championship",
-    "date": "2026-11-24",
-    "status": "SCHEDULED",
-    "team_a": {
-      "name": "Middlesbrough",
-      "logo": "https://crests.football-data.org/343.png"
-    },
-    "team_b": {
-      "name": "Swansea",
-      "logo": "https://crests.football-data.org/72.png"
-    },
-    "score": "vs",
-    "time": "19:45"
-  },
-  {
-    "match_id": "561960",
-    "tournament": "Championship",
-    "date": "2026-11-24",
-    "status": "SCHEDULED",
-    "team_a": {
-      "name": "Norwich",
-      "logo": "https://crests.football-data.org/68.png"
-    },
-    "team_b": {
-      "name": "QPR",
-      "logo": "https://crests.football-data.org/69.png"
-    },
-    "score": "vs",
-    "time": "19:45"
-  },
-  {
-    "match_id": "561956",
-    "tournament": "Championship",
-    "date": "2026-11-24",
-    "status": "SCHEDULED",
-    "team_a": {
-      "name": "Sheffield Utd",
-      "logo": "https://crests.football-data.org/356.png"
-    },
-    "team_b": {
-      "name": "Southampton",
-      "logo": "https://crests.football-data.org/340.png"
-    },
-    "score": "vs",
-    "time": "19:45"
-  },
-  {
-    "match_id": "575402",
+    "match_id": "575411",
     "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "status": "TIMED",
     "team_a": {
-      "name": "RB Leipzig",
-      "logo": "https://crests.football-data.org/721.png"
+      "name": "Sporting CP",
+      "logo": "https://crests.football-data.org/498.png"
     },
     "team_b": {
-      "name": "RC Lens",
-      "logo": "https://crests.football-data.org/546.png"
+      "name": "Man United",
+      "logo": "https://crests.football-data.org/66.png"
     },
     "score": "vs",
     "time": "20:00"
   },
   {
-    "match_id": "575398",
+    "match_id": "575407",
     "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "status": "TIMED",
     "team_a": {
-      "name": "Man City",
-      "logo": "https://crests.football-data.org/65.png"
+      "name": "Atleti",
+      "logo": "https://crests.football-data.org/78.png"
     },
     "team_b": {
-      "name": "Napoli",
-      "logo": "https://crests.football-data.org/113.png"
+      "name": "Viking",
+      "logo": "https://crests.football-data.org/5720.png"
     },
     "score": "vs",
     "time": "20:00"
   },
   {
-    "match_id": "575400",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Feyenoord",
-      "logo": "https://crests.football-data.org/675.png"
-    },
-    "team_b": {
-      "name": "Porto",
-      "logo": "https://crests.football-data.org/503.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "561957",
-    "tournament": "Championship",
-    "date": "2026-11-24",
-    "status": "SCHEDULED",
-    "team_a": {
-      "name": "Wolverhampton",
-      "logo": "https://crests.football-data.org/76.png"
-    },
-    "team_b": {
-      "name": "Derby County",
-      "logo": "https://crests.football-data.org/342.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "575401",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Sl. Bratislava",
-      "logo": "https://crests.football-data.org/7509.png"
-    },
-    "team_b": {
-      "name": "Real Betis",
-      "logo": "https://crests.football-data.org/90.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "575397",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Real Madrid",
-      "logo": "https://crests.football-data.org/86.png"
-    },
-    "team_b": {
-      "name": "PSV",
-      "logo": "https://crests.football-data.org/674.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "575403",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Como 1907",
-      "logo": "https://crests.football-data.org/7397.png"
-    },
-    "team_b": {
-      "name": "PAE AEK",
-      "logo": "https://crests.football-data.org/1899.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "575399",
-    "tournament": "UEFA Champions League",
-    "date": "2026-11-24",
-    "status": "TIMED",
-    "team_a": {
-      "name": "Arsenal",
-      "logo": "https://crests.football-data.org/57.png"
-    },
-    "team_b": {
-      "name": "Dortmund",
-      "logo": "https://crests.football-data.org/4.png"
-    },
-    "score": "vs",
-    "time": "20:00"
-  },
-  {
-    "match_id": "555102",
+    "match_id": "555091",
     "tournament": "Campeonato Brasileiro Série A",
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "status": "TIMED",
     "team_a": {
-      "name": "Chapecoense",
-      "logo": "https://crests.football-data.org/1772_large.png"
+      "name": "Mineiro",
+      "logo": "https://crests.football-data.org/1766.png"
     },
     "team_b": {
-      "name": "Palmeiras",
-      "logo": "https://crests.football-data.org/1769.png"
+      "name": "Corinthians",
+      "logo": "https://crests.football-data.org/1779.png"
     },
     "score": "vs",
-    "time": "21:00"
+    "time": "23:00"
   }
 ]
