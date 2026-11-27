@@ -3,7 +3,7 @@
     "match_id": "558820",
     "tournament": "Eredivisie",
     "date": "2026-11-27",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Groningen",
       "logo": "https://crests.football-data.org/677.png"
@@ -12,14 +12,14 @@
       "name": "Willem II",
       "logo": "https://crests.football-data.org/672.png"
     },
-    "score": "vs",
+    "score": "1 - 1",
     "time": "19:00"
   },
   {
     "match_id": "565869",
     "tournament": "Bundesliga",
     "date": "2026-11-27",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Bremen",
       "logo": "https://crests.football-data.org/12.png"
@@ -28,14 +28,14 @@
       "name": "M'gladbach",
       "logo": "https://crests.football-data.org/18.png"
     },
-    "score": "vs",
+    "score": "3 - 3",
     "time": "19:30"
   },
   {
     "match_id": "559616",
     "tournament": "Ligue 1",
     "date": "2026-11-27",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Brest",
       "logo": "https://crests.football-data.org/512.png"
@@ -44,14 +44,14 @@
       "name": "Paris FC",
       "logo": "https://crests.football-data.org/1045.png"
     },
-    "score": "vs",
+    "score": "1 - 0",
     "time": "19:45"
   },
   {
     "match_id": "558515",
     "tournament": "Serie A",
     "date": "2026-11-27",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Venezia FC",
       "logo": "https://crests.football-data.org/454.png"
@@ -60,14 +60,14 @@
       "name": "Bologna",
       "logo": "https://crests.football-data.org/103.png"
     },
-    "score": "vs",
+    "score": "0 - 0",
     "time": "19:45"
   },
   {
     "match_id": "560658",
     "tournament": "Premier League",
     "date": "2026-11-27",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Nottingham",
       "logo": "https://crests.football-data.org/351.png"
@@ -76,14 +76,14 @@
       "name": "Chelsea",
       "logo": "https://crests.football-data.org/61.png"
     },
-    "score": "vs",
+    "score": "3 - 2",
     "time": "20:00"
   },
   {
     "match_id": "561968",
     "tournament": "Championship",
     "date": "2026-11-27",
-    "status": "SCHEDULED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Southampton",
       "logo": "https://crests.football-data.org/340.png"
@@ -92,14 +92,14 @@
       "name": "Middlesbrough",
       "logo": "https://crests.football-data.org/343.png"
     },
-    "score": "vs",
+    "score": "2 - 0",
     "time": "20:00"
   },
   {
     "match_id": "564765",
     "tournament": "Primera Division",
     "date": "2026-11-27",
-    "status": "TIMED",
+    "status": "FINISHED",
     "team_a": {
       "name": "Levante",
       "logo": "https://crests.football-data.org/88.png"
@@ -108,14 +108,14 @@
       "name": "Santander",
       "logo": "https://crests.football-data.org/5335.png"
     },
-    "score": "vs",
+    "score": "1 - 3",
     "time": "20:00"
   },
   {
     "match_id": "567361",
     "tournament": "Primeira Liga",
     "date": "2026-11-27",
-    "status": "TIMED",
+    "status": "IN_PLAY",
     "team_a": {
       "name": "Marítimo",
       "logo": "https://crests.football-data.org/5575.png"
@@ -124,7 +124,7 @@
       "name": "CD Nacional",
       "logo": "https://crests.football-data.org/5529.png"
     },
-    "score": "vs",
+    "score": "0 - 2",
     "time": "20:15"
   },
   {
